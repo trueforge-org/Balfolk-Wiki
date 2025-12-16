@@ -78,7 +78,7 @@ export default defineConfig({
         Header: "./src/components/CustomHeader.astro",
         Sidebar: "./src/components/CustomSidebar.astro",
         // Hero: "./src/components/CustomHero.astro",
-        MarkdownContent: "./src/components/CustomMarkdownContent.astro",
+        // MarkdownContent: "./src/components/CustomMarkdownContent.astro",
       },
       plugins: [
         // starlightBlog({

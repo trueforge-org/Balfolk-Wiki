@@ -26,17 +26,26 @@ function filterSidebar(items, pathPrefix: string) {
     .filter(Boolean);
 }
 
-const topLevel = `/${currentPath.split('/')[1]}/`;
-const topLevelPath = `${currentPath.split('/')[1]}`;
-const filteredSidebar = filterSidebar(sidebar, topLevel);
+// Determine top-level segment. If on root (`/`), show the whole sidebar.
+const segments = currentPath.split('/').filter(Boolean);
+const topLevelPath = segments[0] ?? '';
+let filteredSidebar;
+
+if (!topLevelPath) {
+  // Root path: don't filter — show entire sidebar
+  filteredSidebar = sidebar;
+} else {
+  const topLevelPrefix = `/${topLevelPath}/`;
+  filteredSidebar = filterSidebar(sidebar, topLevelPrefix);
+}
 
 // Unwrap the top-level group that matches the current path
 let finalSidebar = filteredSidebar.map(item => {
-  if (item.type === 'group' && item.label.toLowerCase() === topLevelPath) {
+  if (item.type === 'group' && item.label.toLowerCase() === topLevelPath.toLowerCase()) {
     return item.entries; // unwrap matched top-level group
   }
   return item;
-}).flat(); // flatten in case we replaced one group with its entries
+}).flat();
 ---
 <SidebarPersister>
   <SidebarSublist sublist={finalSidebar} />
