@@ -1,13 +1,13 @@
 Danswiki
 
-![](media/image1.jpeg)
+![Foto van dansers](media/image1.jpeg)
 
-# Welkom op de danswiki! 
+# Welkom op de danswiki!
 
 Deze wiki bevat informatie over verschillende balfolk dansen, hun
 variaties en tips voor dansers, instructeurs en muzikanten.
 
-## Algemeen 
+## Algemeen
 
 - [Balfolk](#balfolk)
 
@@ -17,9 +17,9 @@ variaties en tips voor dansers, instructeurs en muzikanten.
 
 - Terminologie
 
-## Dansen 
+## Dansen
 
-- 
+-
 
 - [An Dro](#an-dro)
 
@@ -95,7 +95,7 @@ variaties en tips voor dansers, instructeurs en muzikanten.
 
 Danswiki
 
-![](media/image1.jpeg)
+![Foto van dansers](media/image1.jpeg)
 
 # Balfolk
 
@@ -124,27 +124,17 @@ houdt met je mededansers is alles toegestaan!
 
 Danswiki
 
-![](media/image1.jpeg)
+![Foto van dansers](media/image1.jpeg)
 
 # Danshouding
 
-<table style="width:29%;">
-<colgroup>
-<col style="width: 28%" />
-</colgroup>
-<tbody>
-<tr>
-<td><h2 id="inhoud">Inhoud</h2>
-<p>Danshouding</p>
-<ul>
-<li><p>Half-open</p></li>
-<li><p>Gesloten</p></li>
-<li><p>Open</p></li>
-<li><p>Aanwijzingen</p></li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+## Inhoud
+
+- Danshouding
+- Half-open
+- Gesloten
+- Open
+- Aanwijzingen
 
 Een goede danshouding is natuurlijk belangrijk. Er zijn een paar
 verschillende houdingen voor koppeldansen. Voor het gemak wordt dame en
@@ -154,7 +144,7 @@ met elkaar dansen. Beter kan dus eigenlijk gesproken worden van "leider
 m/v" en "volger m/v" (en zelfs dat kan door bijvoorbeeld een variatie
 uit te voeren binnen een dans veranderen).
 
-## Half-open 
+## Half-open
 
 Half-open houding, wat eigenlijk de standaard danshouding is. Je staat
 tegenover elkaar, de rechterarm van de heer op de rug van de dame
@@ -189,22 +179,22 @@ genoemd.
 
 Deze vlaggestok heeft geen leidende functie (behalve bij het aangeven
 van sommige variaties). Het is voor de dame erg onplezierig wanneer de
-heer haar arm naar achteren drukt. 
+heer haar arm naar achteren drukt.
 
 Beide partners dragen zelf hun eigen armen en laten die niet op de arm
 van de ander hangen.
 
-## Gesloten 
+## Gesloten
 
 Gesloten houding, waarbij beide armen van de heer op de rug van de dame
 zitten. De armen van de dame rusten op of achter de schouders van de
 heer.
 
-## Open 
+## Open
 
 Open houding, hier moet nog een omschrijving voor komen.
 
-## Aanwijzingen 
+## Aanwijzingen
 
 - Om samen te kunnen draaien in een koppeldans is het belangrijk dat de
   dame licht leunt in de rechterarm van de heer. Daardoor vorm je als
@@ -234,25 +224,15 @@ Open houding, hier moet nog een omschrijving voor komen.
 
 Danswiki
 
-![](media/image1.jpeg)
+![Foto van dansers](media/image1.jpeg)
 
 # Etikette
 
-<table style="width:50%;">
-<colgroup>
-<col style="width: 49%" />
-</colgroup>
-<tbody>
-<tr>
-<td><h2 id="inhoud-1">Inhoud</h2>
-<ul>
-<li><p>Etikette voor dansers</p></li>
-<li><p>Etikette voor bands</p></li>
-<li><p>Etikette voor sessiemuzikanten</p></li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+## Inhoud
+
+- Etikette voor dansers
+- Etikette voor bands
+- Etikette voor sessiemuzikanten
 
 ## Etikette voor dansers
 
@@ -265,7 +245,7 @@ Danswiki
   ze snelheid willen maken de buitenbaan nemen (net als bij schaatsen).
 
 - Houd rekening met de dansrichting, doorgaans tegen de klok in: het
-  \`hoort' nou eenmaal zo en dit is een belangrijke manier om botsingen
+  'hoort' nou eenmaal zo en dit is een belangrijke manier om botsingen
   te voorkomen.
 
 - Kijk tijdens het dansen goed uit waar de andere dansers zijn en
@@ -351,7 +331,7 @@ Danswiki
   en betekenis aan de stappen. Wissel ter variatie eens van liedje als
   er lang wordt ingegaan op eenzelfde dans.
 
-## Etikette voor sessiemuzikanten 
+## Etikette voor sessiemuzikanten
 
 - Zorg er voor tijdens een sessie dat je iedereen de ruimte geeft. Niet
   iedereen heeft evenveel talent en ervaring, maar als je tijdens een
@@ -364,7 +344,7 @@ Danswiki
 
 Danswiki
 
-![](media/image1.jpeg)
+![Foto van dansers](media/image1.jpeg)
 
 # Terminologie
 
@@ -378,12 +358,12 @@ verschillende balfolk dansen.
 
 Het been waarop het gewicht rust.
 
-## Stap 
+## Stap
 
 het verplaatsen van een voet met overbrengen van het lichaamsgewicht,
 terwijl de andere voet nog op de grond is.
 
-## Sprong 
+## Sprong
 
 Dit is een afzet van één van beide voeten of van allebei tegelijk,
 daarna een zweefmoment en tenslotte neerkomen op één van beide voeten of
@@ -409,31 +389,31 @@ op allebei.
 
 4\. sprong van de ene voet, neerkomen op dezelfde: hup of hop
 
-## Tik 
+## Tik
 
 Het met de voet de grond aantikken zonder dat er gewicht wordt
 overgebracht.
 
 Kan bv met teen, hele voet of hiel.
 
-## Wandelpas 
+## Wandelpas
 
 een serie stappen, kan voorwaarts of achterwaarts
 
-## Looppas 
+## Looppas
 
 een serie loopsprongetjes voorwaarts of achterwaarts. Onstaat meestal
 wanneer een wandelpas versneld wordt.
 
-## Aansluitpas 
+## Aansluitpas
 
 Een stap naast het standbeen
 
-## Bijtrekpas 
+## Bijtrekpas
 
 Een stap opzij gevolgd door aansluitpas.
 
-## Wisselpas 
+## Wisselpas
 
 dubbele gewichtswisseling met aansluitpas
 
@@ -441,24 +421,24 @@ dubbele gewichtswisseling met aansluitpas
 
 Bijvoorbeeld met Links te beginnen:
 
-1.  verplaats linker been met gewicht
+1. verplaats linker been met gewicht
 
-2.  sluit rechterbeen aan met gewicht
+2. sluit rechterbeen aan met gewicht
 
-3.  verplaats linkerbeen met gewicht
+3. verplaats linkerbeen met gewicht
 
 Voorbeeld: de eerste pas van de An-Dro is een wisselpas naar links (met
 linkerbeen te beginnen). De tweede pas van de An-Dro is een wisselpas op
 de plaats (zonder verplaatsing) met rechterbeen te beginnen.
 
-## Galoppas 
+## Galoppas
 
 Stap opzij, gevolgd door aansluiten van de andere voet met een
 sprongetje, het aansluiten gebeurt nu in de lucht. De pas ontstaat
 meestel wanneer een bijtrekpas versneld wordt. Om de pas goed in te
 zetten moet men beginnen met een opvering op het afzetbeen.
 
-## Stap-hop pas 
+## Stap-hop pas
 
 Een stap op rechts, gevolgd door een hop op hetzelfde been, dan idem
 links enz.
@@ -472,11 +452,11 @@ ontstaat de Zweedse Dalpas).
 Een hop op rechts, gevolgd door een stap met links, daarna begint de
 volgende weer met een hop op links, enz.
 
-## Huppelpas 
+## Huppelpas
 
 Een versnelde stap-hop pas.
 
-## Rielpas 
+## Rielpas
 
 Een stap-hop pas of een huppelpas, waarbij de voet steeds achter c.q.
 vóór  de andere wordt neergezet en dan bij de hup weer naar voren c.q.
@@ -484,18 +464,18 @@ naar achteren wordt verplaats, zodanig dat men op  dezelfde plek blijft.
 
 Om deze pas goed te kunnen uitvoeren moet men de benen goed uitdraaien.
 
-## Driepas 
+## Driepas
 
 Algemene benaming voor iedere pas die uit drie stapjes bestaat.
 
 Hieronder enkele varianten:
 
-### Wisselpas 
+### Wisselpas
 
 Drie wandelpassen in het ritme kort/kort/lang, waarbij de tweede pas
 meestal een aansluitpas is
 
-### Schotse pas 
+### Schotse pas
 
 Drie wandel- of looppassen plus een hup.
 
@@ -509,7 +489,7 @@ Gavotte.
 
 Vroeger werd deze pas ook wel aangeduid als een polka-pas.
 
-### Mayim pas 
+### Mayim pas
 
 Wandel- of loopaas zijwaarts, waarbij de ene voet afwisselend voor of
 achter de andere wordt langs kruisend wordt neergezet. Begint meestal
@@ -521,7 +501,7 @@ meestal met de zijwaartse pas.
 Laat je de zijwaartse verplaatsing weg (en daarmee dus dan ook het
 kruisen) dan krijg je de TSJERKESSIA-pas
 
-### Spinpas 
+### Spinpas
 
 Stap met de rechtervoet vóór de linker langs, met doorbuigen in de
 rechter knie, gevolgd door neerzetten van de linker voorvoet achter of
@@ -530,33 +510,33 @@ rechter voet dan weer verplaats etc.
 
 Niet te verwarren met het "SPINNEN" - dat doe je met z'n tweeën
 
-## Draaipassen 
+## Draaipassen
 
 Sommige van bovenstaande passen kunnen door paren draaiend worden
 uitgevoerd. Dan krijg je bijvoorbeeld:
 
-### Wandelpas 
+### Wandelpas
 
 Wordt een TWEESTAPSDRAAI ook wel genoemd BOERENWALS
 
-### Stap-Hop 
+### Stap-Hop
 
 Wordt een stap-hop met rondgaan oftewel een POLKA pas MET OVERSTAP
 
-### Wisselpas 
+### Wisselpas
 
 Dat wordt een GLIJPOLKA
 
-### Walspas 
+### Walspas
 
 Doe je dat met zijn tweeën dan heet het een WALS
 
-### Schotse pas 
+### Schotse pas
 
 Wordt, als je doordraait, een (normale) POLKA. Doe je dit in open
 danshouding heen-en-weer dan heb je (rara) een OPEN POLKA.
 
-### Spinpas 
+### Spinpas
 
 Doe je dit samen dan ben je aan het SPINNEN.
 
@@ -576,62 +556,52 @@ dansrichting, ook hierbij de voet weer uitgedraaid neerzetten.
 
 Het TUSSENPLAATSEN van de voet gebeurt:
 
-### Tweestapsdraai en stop-hop in de rondte 
+### Tweestapsdraai en stop-hop in de rondte
 
 Iedere keer dat de RECHTER voet wordt neergezet
 
-### Glijpolka 
+### Glijpolka
 
 Op de "slow" van het quick-quick-slow ritme. Elke tel draai je 1/4
 
-### Wals 
+### Wals
 
 Op de eerste tel van elke maat
 
-### Polka 
+### Polka
 
 Eigenlijk draai je steeds een halve slag op het zweefmoment van de
 "hup". Voet wordt niet zo erg duidelijk tussen de voeten van de partner
 geplaatst.
 
-### Spinnen 
+### Spinnen
 
 Hierbij worden de RECHTER voeten met de BUITENKANTEN naast elkaar gezet.
 
 Danswiki
 
-![](media/image1.jpeg)
+![Foto van dansers](media/image1.jpeg)
 
-<table style="width:38%;">
-<colgroup>
-<col style="width: 38%" />
-</colgroup>
-<tbody>
-<tr>
-<td><h2 id="inhoud-2">Inhoud</h2>
-<p>An Dro</p>
-<ul>
-<li><p>Opstelling</p></li>
-<li><p>Basis</p></li>
-<li><p>Aanwijzingen</p></li>
-<li><p>Variaties</p></li>
-<li><p>Tips voor muzikanten</p></li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+# ## Inhoud
+
+- An Dro
+- Opstelling
+- Basis
+- Aanwijzingen
+- Variaties
+- Tips voor muzikanten
 
 # An Dro
 
 Dit is een (meestal) rustige, haast meditatieve dans.
 
-## Opstelling 
+## Opstelling
 
 Iedereen in 1 of meerdere lange slierten. Waar mannen en vrouwen in de
 rij staan maakt nu niet meer uit; oorspronkelijk stond er een man aan
 het begin van de rij.
 
-## Basis 
+## Basis
 
 - Volg-de-leider: houdt elkaar vast bij de pinken, palm van de hand
   wijst omlaag. Je haakt je pink in de pink van de persoon naast je. Ook
@@ -658,7 +628,7 @@ het begin van de rij.
   drie van de eerste maat, daarna bovenlangs weer terug. Deze
   armbeweging gaat niet hoger dan de schouders.
 
-## vchAanwijzingen 
+## vchAanwijzingen
 
 - Bij de start van de uitleg: nog niet de handbeweging, maar de armen
   gewoon losjes naar beneden laten hangen
@@ -690,7 +660,7 @@ het begin van de rij.
 - Nog even over die pinken: de palm van je hand wijst omlaag. Je pink
   zit dan dus aan de "buitenkant" van je hand.
 
-## Variaties 
+## Variaties
 
 - Maak meer dan een sliert.
 
@@ -712,43 +682,33 @@ het begin van de rij.
   - probeer samen met de leider van een andere sliert een gezamenlijke
     spiraal te maken.
 
-## Tips voor muzikanten 
+## Tips voor muzikanten
 
 - Val een voor een weg, maar wel in tempo. de dansers kunnen dan het
   ritme nog even volhouden als de muziek al is gestopt.
 
 Danswiki
 
-![](media/image1.jpeg)
+![Foto van dansers](media/image1.jpeg)
 
-<table style="width:29%;">
-<colgroup>
-<col style="width: 28%" />
-</colgroup>
-<tbody>
-<tr>
-<td><h2 id="inhoud-3">Inhoud</h2>
-<p>Bourree</p>
-<ul>
-<li><p>Opstelling</p></li>
-<li><p>Basis</p></li>
-<li><p>Aanwijzingen</p></li>
-<li><p>Variaties</p></li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+# ## Inhoud
+
+- Bourree
+- Opstelling
+- Basis
+- Aanwijzingen
+- Variaties
 
 # Bourree
 
 Spannende dans
 
-## Opstelling 
+## Opstelling
 
 In de meest gedanste versie staan dansparen opgesteld in rijen tegenover
 elkaar, op een afstand dat ze elkaars handen kunnen aanraken.
 
-## Basis 
+## Basis
 
 De basis om een bourree mee te kunnen dansen bestaat uit een
 vereenvoudigde bourreepas (de passen voor de dame en heer zijn in de
@@ -787,7 +747,7 @@ De dans bestaat verder uit een A- en een B-deel:
     de dame en heer van plaats zijn gewisseld en weer met de
     linkerschouder naar elkaar staan (6 tellen)
 
-## Aanwijzingen 
+## Aanwijzingen
 
 - *Zen-Zen*: De normale bourreepas gaat eigenlijk niet op de eerste tel
   naar voren (of naar achter), maar twee tellen eerder. Dit betekent dat
@@ -813,7 +773,7 @@ De dans bestaat verder uit een A- en een B-deel:
 - Dans altijd in de breedte van het podium: op die manier staat er nooit
   een danser met zijn/haar rug naar de muzikanten.
 
-## Variaties 
+## Variaties
 
 - Deel A
 
@@ -853,41 +813,21 @@ De dans bestaat verder uit een A- en een B-deel:
 
 Danswiki
 
-![](media/image1.jpeg)
+![Foto van dansers](media/image1.jpeg)
 
-<table style="width:40%;">
-<colgroup>
-<col style="width: 39%" />
-</colgroup>
-<tbody>
-<tr>
-<td><h2 id="inhoud-4">Inhoud</h2>
-<p>Bourree d’Auvergne</p>
-<ul>
-<li><p>Opstelling</p></li>
-<li><p>Basis</p>
-<ul>
-<li><p>Pas</p></li>
-<li><p>Houding</p></li>
-<li><p>Richtingen</p></li>
-<li><p>Figuren</p>
-<ul>
-<li><p>Banaan</p></li>
-<li><p>Rond</p></li>
-</ul></li>
-</ul></li>
-<li><p>Aanwijzingen</p></li>
-<li><p>Variaties</p></li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+# ## Inhoud
+
+- Bourree d’Auvergne
+- Opstelling
+- Basis (Pas, Houding, Richtingen, Figuren)
+- Aanwijzingen
+- Variaties
 
 # Bourree d’Auvergne
 
 De moeder van alle bourrees
 
-## Opstelling 
+## Opstelling
 
 In koppel: verspreid over de ruimte, handen los, naast elkaar.
 
@@ -895,7 +835,7 @@ Heer staat links, dame rechts van de heer. Rechterschouders naar elkaar;
 dame en heer kijken dus in tegengestelde richting. In feite staat de
 heer ook rechts van de dame.
 
-## Basis 
+## Basis
 
 ### Pas
 
@@ -957,7 +897,7 @@ de paar-draai.
 
 Te doen gebruikelijk is dat er één persoon om de as draait, niet beide.
 
-### Belangrijk 
+### Belangrijk
 
 De "volger" spiegelt de lichaamshouding van de "leider".
 
@@ -1007,49 +947,32 @@ andere initiatieven aangekondigd worden met een frappé.
 
 Danswiki
 
-![](media/image1.jpeg)
+![Foto van dansers](media/image1.jpeg)
 
-<table style="width:31%;">
-<colgroup>
-<col style="width: 30%" />
-</colgroup>
-<tbody>
-<tr>
-<td><h2 id="inhoud-5">Inhoud</h2>
-<p>Cercle</p>
-<ul>
-<li><p>Opstelling</p></li>
-<li><p>Basis</p></li>
-</ul>
-<ul>
-<li><p>A</p></li>
-<li><p>B</p></li>
-<li><p>C</p></li>
-</ul>
-<ul>
-<li><p>Aanwijzingen</p></li>
-<li><p>Variaties</p></li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+# ## Inhoud
 
-# Cercle 
+- Cercle
+- Opstelling
+- Basis (A, B, C)
+- Aanwijzingen
+- Variaties
+
+# Cercle
 
 Een vrolijke mixer. Wordt in Vlaanderen Tovercirkel genoemd. En in
 Frankrijk Cercle circassien
 
-## Opstelling 
+## Opstelling
 
 Een grote cirkel met om en om man en vrouw, iedereen houdt elkaars
 handen vast. De vrouwen leggen hun handen bovenop de handen van de heer.
 De 'eerstvolgende paren' zijn (man rechts/vrouw links)
 
-## Basis 
+## Basis
 
 Muziek in 3 delen (A, B,C), elk deel 2x herhaald
 
-### A 
+### A
 
 - (4 maten) 4 stappen naar voren (cirkel wordt kleiner), 4 stappen naar
   achter (cirkel wordt groter)
@@ -1065,7 +988,7 @@ Muziek in 3 delen (A, B,C), elk deel 2x herhaald
 - (4 maten) Heren 4 stappen naar voren - OMDRAAIEN om **linker**
   schouder – 4 stappen naar hun nieuwe partner.
 
-### B 
+### B
 
 - Pak je partner beet.
 
@@ -1086,17 +1009,17 @@ Muziek in 3 delen (A, B,C), elk deel 2x herhaald
   tegenklokwaarts in de kring weer terechtkomend. (Flankkring van paren
   zie Jig voor uitleg)
 
-### C 
+### C
 
 - (8 maten/16 tellen) Loop als paar in deze houding tegen de klok in,
-  rustig op de cirkel. 
+  rustig op de cirkel.
 
 - En waarbij de heer met zijn linkerhand voor de dame langs gaat om
   haar te laten draaien en aan zijn rechterkant uit te laten komen en
   dan over te nemen met zijn rechterhand en een nieuwe dame te ontvangen
   in zijn linkerhand.
 
-## Aanwijzingen 
+## Aanwijzingen
 
 Hoe houd je vast...
 
@@ -1120,7 +1043,7 @@ Hoe houd je vast...
 - C: rechterhanden hoog (dame houdt rekening met de armlengte van de
   heer), linkerhanden op heuphoogte
 
-## Variaties 
+## Variaties
 
 - Jezelf na met z’n allen naar binnen te zijn gelopen laten draaien
 
@@ -1128,7 +1051,7 @@ Hoe houd je vast...
 
 - heren doen leuke dingen als ze in het midden komen
 
-  - 
+  -
 
   - Hi5
 
@@ -1138,7 +1061,7 @@ Hoe houd je vast...
 
   - Springen met de borst tegen elkaar aan
 
-- 
+-
 
 - dames kunnen dit ook doen
 
@@ -1147,42 +1070,19 @@ Hoe houd je vast...
 
 Danswiki
 
-![](media/image1.jpeg)
+![Foto van dansers](media/image1.jpeg)
 
-<table style="width:36%;">
-<colgroup>
-<col style="width: 36%" />
-</colgroup>
-<tbody>
-<tr>
-<td><h2 id="inhoud-6">Inhoud</h2>
-<p>1. Gavotte</p>
-<ul>
-<li><p>Opstelling</p></li>
-<li><p>Basis</p></li>
-<li><p>Aanwijzingen</p></li>
-<li><p>Variaties</p></li>
-</ul>
-<p>2. Gavotte de l’Aven</p>
-<ul>
-<li><p>Opstelling</p></li>
-<li><p>Basis</p></li>
-</ul>
-<p>3. Gavotte de Montagnes</p>
-<ul>
-<li><p>Deel 1: Ton Simpl</p></li>
-<li><p>Deel 2: Tamm Kreis</p></li>
-<li><p>Deel 3: Ton Double</p></li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+# ## Inhoud
+
+- Gavotte
+- Gavotte de l’Aven
+- Gavotte de Montagnes (Deel 1, 2, 3)
 
 # Gavotte
 
 Snelle rijdans
 
-## Opstelling 
+## Opstelling
 
 Als rij sta je hand in hand, waarbij je aanvankelijk je rechterarm over
 de linkerarm van je buurman/-vrouw kunt leggen (zoals in de hanterdro).
@@ -1194,7 +1094,7 @@ Met je lichaam sta je een beetje gedraaid richting de voorste in de rij,
 om goed op tempo mee te kunnen komen; de passen zijn ook niet zozeer
 zijwaarts, meer vooruit
 
-## Basis 
+## Basis
 
 Wandel- of looppas in het ritme van de muziek: links - rechts - links
 rechts links - rechts - links - rechts - hop (of niets).
@@ -1208,11 +1108,11 @@ de juffrouw "hop"
 
 # Gavotte de l’Aven
 
-## Opstelling 
+## Opstelling
 
 Rijtjes van 4 personen, armen zoals in Hanter-Dro
 
-## Basis 
+## Basis
 
 Stap met links, rechts, links - rechter been achterom zwaaien (rechtsom)
 
@@ -1237,7 +1137,7 @@ Is hetzelfde als de "gewone" Gavotte zoals hierboven beschreven.
 
 Armen over elkaar heen nemen zoals in de Hanter Dro
 
-## Deel 2: Tamm Kreiz 
+## Deel 2: Tamm Kreiz
 
 Armen loshaken en elkaar met pinken vastpakken zoals in de An Dro.
 
@@ -1251,7 +1151,7 @@ worden gestrekt, (recht naar voren, geen zwaai). Armen gaan naar voren
 als rechtervoet naar voren gaat . Daarna voet en armen terug. Ook dit
 herhaalt 4 keer.
 
-## Deel 3: Ton Double 
+## Deel 3: Ton Double
 
 Is hetzelfde als deel 1, maar de armen gaan nu meezwaaien (voorste
 danser geeft dit aan). Meestal gaat het tempo van de muziek wat onhoog
@@ -1259,37 +1159,21 @@ tijdens dit deel.
 
 Danswiki
 
-![](media/image1.jpeg)
+![Foto van dansers](media/image1.jpeg)
 
-<table style="width:31%;">
-<colgroup>
-<col style="width: 30%" />
-</colgroup>
-<tbody>
-<tr>
-<td><h2 id="inhoud-7">Inhoud</h2>
-<p>Gigue</p>
-<ul>
-<li><p>Opstelling</p></li>
-<li><p>Basis</p></li>
-</ul>
-<ul>
-<li><p>A</p></li>
-<li><p>B</p></li>
-</ul>
-<ul>
-<li><p>Aanwijzingen</p></li>
-<li><p>Variaties</p></li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+# ## Inhoud
+
+- Gigue (Jig, Chapelloise)
+- Opstelling
+- Basis (A, B)
+- Aanwijzingen
+- Variaties
 
 # Gigue (Jig, Chapelloise)
 
-Gezellige mixer. In Frankrijk chapeloise genoemd. 
+Gezellige mixer. In Frankrijk chapeloise genoemd.
 
-## Opstelling 
+## Opstelling
 
 Flankkring van paren.
 
@@ -1303,9 +1187,9 @@ Heren aan de binnenkant van de cirkel, dame aan de buitenkant.
 
 Rechterhand heer en linkerhand dame zijn vast, hand van heer is onder)
 
-## Basis 
+## Basis
 
-### A 
+### A
 
 - **I**: vooruitlopen 4 passen - draai om (linkerhand heer is nu vast
   met rechter­hand dame) en ga achteruit  door 4 passen (nog steeds tegen
@@ -1314,7 +1198,7 @@ Rechterhand heer en linkerhand dame zijn vast, hand van heer is onder)
 - **II**: vooruit teruglopen 4 passen - draai om en ga achteruit door 4
   passen (met de klok mee)
 
-### B 
+### B
 
 - **III**: Set-pas (driepas) naar elkaar toe - idem uit elkaar - in
   looppassen van plaats wisselen
@@ -1326,7 +1210,7 @@ Rechterhand heer en linkerhand dame zijn vast, hand van heer is onder)
   schuin links naar voren stappen om de nieuwe dame op te vangen aan hun
   rechterhand die van voren eraan komt)
 
-## Aanwijzingen 
+## Aanwijzingen
 
 - kijk je partner aan!
 
@@ -1343,7 +1227,7 @@ Rechterhand heer en linkerhand dame zijn vast, hand van heer is onder)
 - loop in deel A niet te dicht tegen elkaar aan, want dan kan je niet
   naar elkaar toe springen
 
-## Variaties 
+## Variaties
 
 - In deel A 8 tellen rechtdoor lopen gezicht zelfde kant op
 
@@ -1361,35 +1245,25 @@ Rechterhand heer en linkerhand dame zijn vast, hand van heer is onder)
 
 Danswiki
 
-![](media/image1.jpeg)
+![Foto van dansers](media/image1.jpeg)
 
-<table style="width:29%;">
-<colgroup>
-<col style="width: 28%" />
-</colgroup>
-<tbody>
-<tr>
-<td><h2 id="inhoud-8">Inhoud</h2>
-<p>Hanter Dro</p>
-<ul>
-<li><p>Opstelling</p></li>
-<li><p>Basis</p></li>
-<li><p>Aanwijzingen</p></li>
-<li><p>Variaties</p></li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+# ## Inhoud
+
+- Hanter Dro
+- Opstelling
+- Basis
+- Aanwijzingen
+- Variaties
 
 # Hanter Dro
 
 Nog rustiger en meditatiever dan de An Dro
 
-## Opstelling 
+## Opstelling
 
 In 1 of meerdere lange slierten. Mannetje/vrouwtje maakt niet uit
 
-## Basis 
+## Basis
 
 - volg-de-leider. sta dicht bij elkaar houdt elkaar vast bij de handen,
   met de rechterelleboog over de linker van je buur
@@ -1399,11 +1273,11 @@ In 1 of meerdere lange slierten. Mannetje/vrouwtje maakt niet uit
 - 3 stappen naar links (begin met links) - rust \| 1 stap op de plaats
   (of licht naar links) met rechts - rust \| weer beginnen met links
 
-## Aanwijzingen 
+## Aanwijzingen
 
 - zie An Dro, behalve het handgebruik.
 
-## Variaties 
+## Variaties
 
 - zie An Dro
 
@@ -1420,77 +1294,61 @@ In 1 of meerdere lange slierten. Mannetje/vrouwtje maakt niet uit
 
 Danswiki
 
-![](media/image1.jpeg)
+![Foto van dansers](media/image1.jpeg)
 
-<table style="width:29%;">
-<colgroup>
-<col style="width: 29%" />
-</colgroup>
-<tbody>
-<tr>
-<td><h2 id="inhoud-9">Inhoud</h2>
-<p>Laridé</p>
-<ul>
-<li><p>Opstelling</p></li>
-<li><p>Basis</p></li>
-</ul>
-<ul>
-<li><p>Voeten</p></li>
-<li><p>Armen</p></li>
-</ul>
-<ul>
-<li><p>Aanwijzingen</p></li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+# ## Inhoud
+
+- Laridé
+- Opstelling
+- Basis (Voeten, Armen)
+- Aanwijzingen
 
 # Laridé
 
 Een dans in 8 maten waarbij de dansers zich in slierten door de ruimte
 verplaatsen.
 
-## Opstelling 
+## Opstelling
 
 In 1 of meerdere lange slierten. Mannetje/vrouwtje maakt niet uit
 
-## Basis 
+## Basis
 
 ### Voeten
 
-1.  Stap naar links
+1. Stap naar links
 
-2.  Aansluitpas
+2. Aansluitpas
 
-3.  Stap naar links
+3. Stap naar links
 
-4.  Aansluitpas
+4. Aansluitpas
 
-5.  Op de tippen gaan staan
+5. Op de tippen gaan staan
 
-6.  Terug neerkomen
+6. Terug neerkomen
 
-7.  Op de tippen gaan staan, gewicht vooral op rechter voet
+7. Op de tippen gaan staan, gewicht vooral op rechter voet
 
-8.  Terug neerzetten, en linkervoet vrijmaken
+8. Terug neerzetten, en linkervoet vrijmaken
 
 ### Armen
 
-1.  Gestrekt naar voor, 45 graden
+1. Gestrekt naar voor, 45 graden
 
-2.  Terug neer, langs het lichaam
+2. Terug neer, langs het lichaam
 
-3.  Gestrekt naar voor, 45 graden
+3. Gestrekt naar voor, 45 graden
 
-4.  Voorarmen horizontaal, ellebogen naast het lichaam
+4. Voorarmen horizontaal, ellebogen naast het lichaam
 
-5.  Handen naar voor duwen, tot de armen gestrekt zijn.
+5. Handen naar voor duwen, tot de armen gestrekt zijn.
 
-6.  Voorarmen horizontaal, ellebogen naast het lichaam
+6. Voorarmen horizontaal, ellebogen naast het lichaam
 
-7.  Handen naar voor duwen, tot de armen gestrekt zijn.
+7. Handen naar voor duwen, tot de armen gestrekt zijn.
 
-8.  Armen neer, langs het lichaam
+8. Armen neer, langs het lichaam
 
 ## Aanwijzingen
 
@@ -1523,35 +1381,25 @@ In 1 of meerdere lange slierten. Mannetje/vrouwtje maakt niet uit
 
 Danswiki
 
-![](media/image1.jpeg)
+![Foto van dansers](media/image1.jpeg)
 
-<table style="width:29%;">
-<colgroup>
-<col style="width: 28%" />
-</colgroup>
-<tbody>
-<tr>
-<td><h2 id="inhoud-10">Inhoud</h2>
-<p>Mazurka</p>
-<ul>
-<li><p>Opstelling</p></li>
-<li><p>Basis</p></li>
-<li><p>Aanwijzingen</p></li>
-<li><p>Variaties</p></li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+# ## Inhoud
+
+- Mazurka
+- Opstelling
+- Basis
+- Aanwijzingen
+- Variaties
 
 # Mazurka
 
 Romantische parendans
 
-## Opstelling 
+## Opstelling
 
 Half-open houding, gewoon in paren over de dansvloer heen.
 
-## Basis 
+## Basis
 
 - De dame begint rechts, de heer links
 
@@ -1564,14 +1412,14 @@ Half-open houding, gewoon in paren over de dansvloer heen.
 
 - De wachtvoet wordt bij de volgende 1 weer neergezet
 
-## Aanwijzingen 
+## Aanwijzingen
 
 - Bij de *wacht* wordt het gewicht stil gehouden boven het standbeen.
   Dit is heel belangrijk.
 
 - Bij de *wacht* kun je wel lichtjes veren door het standbeen.
 
-## Variaties 
+## Variaties
 
 - rustig rondjes linksom of rechtsom draaien
 
@@ -1593,36 +1441,26 @@ Half-open houding, gewoon in paren over de dansvloer heen.
 
 Danswiki
 
-![](media/image1.jpeg)
+![Foto van dansers](media/image1.jpeg)
 
-<table style="width:29%;">
-<colgroup>
-<col style="width: 28%" />
-</colgroup>
-<tbody>
-<tr>
-<td><h2 id="inhoud-11">Inhoud</h2>
-<p>Plinn</p>
-<ul>
-<li><p>Opstelling</p></li>
-<li><p>Basis</p></li>
-<li><p>Aanwijzingen</p></li>
-<li><p>Variaties</p></li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+# ## Inhoud
+
+- Plinn
+- Opstelling
+- Basis
+- Aanwijzingen
+- Variaties
 
 # Plinn
 
 Bretons springen tot je er bij neervalt
 
-## Opstelling 
+## Opstelling
 
 In kringen of slierten, houding zoals bij Hanter Dro. Afwisselend man -
 vrouw (belangrijk voor het tweede deel)
 
-## Basis 
+## Basis
 
 Een volledige suite bestaat uit drie delen. Buiten Bretagne speelt men
 wel eens enkel deel 1 of deel 3.
@@ -1646,22 +1484,22 @@ wel eens enkel deel 1 of deel 3.
 > afwisseling van een traag en een snel deel (aantal maten verschilt al
 > naargelang de melodie en de voorkeur van de groep)
 
-- Traag deel:  
+- Traag deel:
   Wandel langzaam tegen de klok in de kring rond. Armen bewegen daarbij
   ritmisch naar voor en naar achter.
 
-- Snel deel:  
+- Snel deel:
   Zelfde pas als in deel 1 en 3. Nu in koppel. Eerste sprong naar links,
   tijdens andere sprongen keer je naar je oorspronkelijke plaats terug.
 
-## Aanwijzingen 
+## Aanwijzingen
 
 Bretonse dansen halen hun energie altijd uit de grond. Er wordt niet
 hoog gesprongen (hoofden blijven vrij vlak). Als je dicht bij elkaar
 staat en elkaar goed ondersteunt, kan je de sprongen eindeloos lang
 volhouden: je geeft energie aan elkaar.
 
-## Variaties 
+## Variaties
 
 Tijdens deel 1 en 3: allerlei mogelijke versieringen in het benenwerk
 tijdens de sprongen. Zolang je maar in het basisritme blijft en de
@@ -1674,35 +1512,25 @@ plinn-springend rond elkaar draaien.
 
 Danswiki
 
-![](media/image1.jpeg)
+![Foto van dansers](media/image1.jpeg)
 
-<table style="width:29%;">
-<colgroup>
-<col style="width: 28%" />
-</colgroup>
-<tbody>
-<tr>
-<td><h2 id="inhoud-12">Inhoud</h2>
-<p>Polka</p>
-<ul>
-<li><p>Opstelling</p></li>
-<li><p>Basis</p></li>
-<li><p>Aanwijzingen</p></li>
-<li><p>Variaties</p></li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+# ## Inhoud
+
+- Polka
+- Opstelling
+- Basis
+- Aanwijzingen
+- Variaties
 
 # Polka
 
 Springerige parendans
 
-## Opstelling 
+## Opstelling
 
 Met z'n tweeën in half-open houding op een leeg plekje op de dansvloer.
 
-## Basis 
+## Basis
 
 Vrouw begint naar rechts, man naar links: 123 ter plaatse aan de ene
 kant, 123 ter plaatse aan de andere kant (op 1 kom je neer, op 2 veer je
@@ -1711,13 +1539,13 @@ ronddraaien, waardoor je tegen de klok in gaat op de dansvloer. Na 4
 maten kun je bijvoorbeeld 4 keer dezelfde kant op 'hupsen' zonder te
 draaien, dan wel draaien en weer 4 keer dezelfde kant op 'hupsen'.
 
-## Aanwijzingen 
+## Aanwijzingen
 
 Als je het nog niet zo goed kunt dat je in een rechte lijn de dansvloer
 tegen de klok in kunt rondgaan, blijf dan in het midden. Zodoende hinder
 je de meer ervaren dansparen niet.
 
-## Variaties 
+## Variaties
 
 Heel veel, wees crea! Een kort lijstje:
 
@@ -1732,30 +1560,20 @@ Heel veel, wees crea! Een kort lijstje:
 
 Danswiki
 
-![](media/image1.jpeg)
+![Foto van dansers](media/image1.jpeg)
 
-<table style="width:29%;">
-<colgroup>
-<col style="width: 28%" />
-</colgroup>
-<tbody>
-<tr>
-<td><h2 id="inhoud-13">Inhoud</h2>
-<p>Polska</p>
-<ul>
-<li><p>Opstelling</p></li>
-<li><p>Basis</p></li>
-<li><p>Aanwijzingen</p></li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+# ## Inhoud
+
+- Polska
+- Opstelling
+- Basis
+- Aanwijzingen
 
 # Polska
 
 Zweedse parendans
 
-## Opstelling 
+## Opstelling
 
 In deel A sta je zij aan zij, de dame legt haar linkerhand op de
 rechterschouder van de heer en de heer legt zijn rechterarm om de taille
@@ -1763,7 +1581,7 @@ van de dame
 
 In deel B sta je in gesloten danshouding.
 
-## Basis 
+## Basis
 
 De muziek is in driekwartsmaat.
 
@@ -1786,7 +1604,7 @@ Deel A en B zijn niet vast te stellen in aantal maten of tellen; soms
 hoor je duidelijk in de muziek een overgang van het ene deel op het
 andere, maar je mag zelf bepalen wanneer en hoe lang je draait.
 
-## Aanwijzingen 
+## Aanwijzingen
 
 Om de stappen in het draaigedeelte goed onder de knie te krijgen, is het
 nuttig om het eerst individueel te oefenen, waarbij je al wel om een
@@ -1794,61 +1612,51 @@ denkbeeldige partner heen draait.
 
 Danswiki
 
-![](media/image1.jpeg)
+![Foto van dansers](media/image1.jpeg)
 
-<table style="width:29%;">
-<colgroup>
-<col style="width: 28%" />
-</colgroup>
-<tbody>
-<tr>
-<td><h2 id="inhoud-14">Inhoud</h2>
-<p>Rond de Saint Vincent</p>
-<ul>
-<li><p>Opstelling</p></li>
-<li><p>Basis</p></li>
-<li><p>Aanwijzingen</p></li>
-<li><p>Variaties</p></li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+# ## Inhoud
+
+- Rond de Saint Vincent
+- Opstelling
+- Basis
+- Aanwijzingen
+- Variaties
 
 # Rond de Saint Vincent
 
 Rond, en rond, en rond...
 
-## Opstelling 
+## Opstelling
 
 In een kring, met elkaars handen vast.
 
-## Basis 
+## Basis
 
 De benen:
 
-1.  De linkervoet naar links
+1. De linkervoet naar links
 
-2.  De rechtervoet kruist voor de linkervoet langs
+2. De rechtervoet kruist voor de linkervoet langs
 
-3.  De linkervoet naar links
+3. De linkervoet naar links
 
-4.  De rechtervoet kruist achter de linkervoet langs
+4. De rechtervoet kruist achter de linkervoet langs
 
 De armen:
 
-1.  Armen gestrekt opheffen, naar voren brengen, ca. 45 graden
+1. Armen gestrekt opheffen, naar voren brengen, ca. 45 graden
 
-2.  Armen gestrekt opheffen, horizontaal
+2. Armen gestrekt opheffen, horizontaal
 
-3.  Men plooit de armen, de ellebogen zijn langs het lichaam
+3. Men plooit de armen, de ellebogen zijn langs het lichaam
 
-4.  Armen terug laten zakken
+4. Armen terug laten zakken
 
-## Aanwijzingen 
+## Aanwijzingen
 
 Vooral als je heel snel wilt dansen, maximaal zes personen per kring.
 
-## Variaties 
+## Variaties
 
 - Laag bij de grond (op je hurken) dansen.
 
@@ -1857,25 +1665,15 @@ Vooral als je heel snel wilt dansen, maximaal zes personen per kring.
 
 Danswiki
 
-![](media/image1.jpeg)
+![Foto van dansers](media/image1.jpeg)
 
-<table style="width:29%;">
-<colgroup>
-<col style="width: 28%" />
-</colgroup>
-<tbody>
-<tr>
-<td><h2 id="inhoud-15">Inhoud</h2>
-<p>Rondo</p>
-<ul>
-<li><p>Opstelling</p></li>
-<li><p>Basis</p></li>
-<li><p>Aanwijzingen</p></li>
-<li><p>Variaties</p></li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+# ## Inhoud
+
+- Rondo
+- Opstelling
+- Basis
+- Aanwijzingen
+- Variaties
 
 # Rondo
 
@@ -1909,36 +1707,26 @@ Rondeau en couple
 
 Danswiki
 
-![](media/image1.jpeg)
+![Foto van dansers](media/image1.jpeg)
 
-<table style="width:29%;">
-<colgroup>
-<col style="width: 28%" />
-</colgroup>
-<tbody>
-<tr>
-<td><h2 id="inhoud-16">Inhoud</h2>
-<p>Rondo</p>
-<ul>
-<li><p>Opstelling</p></li>
-<li><p>Basis</p></li>
-<li><p>Aanwijzingen</p></li>
-<li><p>Variaties</p></li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+# ## Inhoud
+
+- Rondeau en Couple
+- Opstelling
+- Basis
+- Aanwijzingen
+- Variaties
 
 # Rondeau en Couple
 
 Parendans twee aan twee in een grote cirkel
 
-## Opstelling 
+## Opstelling
 
 Iedereen twee aan twee naast elkaar, in een grote cirkel als in de jig.
 Armen in elkaar als in de Hanterdro
 
-## Basis 
+## Basis
 
 - linkervoet naar voren, met je rechtervoet heel even de grond aantikken
   en dan terug.
@@ -1954,40 +1742,30 @@ elke maat
 
 Danswiki
 
-![](media/image1.jpeg)
+![Foto van dansers](media/image1.jpeg)
 
-<table style="width:25%;">
-<colgroup>
-<col style="width: 24%" />
-</colgroup>
-<tbody>
-<tr>
-<td><h2 id="inhoud-17">Inhoud</h2>
-<p>Scottisch</p>
-<ul>
-<li><p>Opstelling</p></li>
-<li><p>Basis</p></li>
-<li><p>Variaties</p></li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+# ## Inhoud
 
-# Scottisch 
+- Scottisch
+- Opstelling
+- Basis
+- Variaties
+
+# Scottisch
 
 Eenvoudige parendans met ontelbaar veel variaties
 
-## Opstelling 
+## Opstelling
 
 Gewoon in paren, half-open houding, over de dansvloer heen
 
-## Basis 
+## Basis
 
 - **A**: 123-123-
 
 - **B**: 1-2-3-4-
 
-## Variaties 
+## Variaties
 
 - Draaien van de dame
 
@@ -2025,30 +1803,14 @@ Gewoon in paren, half-open houding, over de dansvloer heen
 
 Danswiki
 
-![](media/image1.jpeg)
+![Foto van dansers](media/image1.jpeg)
 
-<table style="width:57%;">
-<colgroup>
-<col style="width: 57%" />
-</colgroup>
-<tbody>
-<tr>
-<td><h2 id="inhoud-18">Inhoud</h2>
-<p>Tarantella</p>
-<ul>
-<li><p>Opstelling</p></li>
-<li><p>Basis</p>
-<ul>
-<li><p>deel 1: sprong en swing</p></li>
-<li><p>deel 2: knieval en draai</p></li>
-<li><p>deel 3: handenklap en dos à dos</p></li>
-<li><p>deel 4: polka</p></li>
-</ul></li>
-<li><p>Aanwijzingen</p></li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+# ## Inhoud
+
+- Tarantella
+- Opstelling
+- Basis (deel 1..4)
+- Aanwijzingen
 
 # Tarantella
 
@@ -2060,56 +1822,56 @@ ook dat de naam afstamt van de Tarantula spin. Het zou een dans zijn
 tegen het spinnengif en de Tarantella moet daarom ook fel gespeeld en
 gedanst worden: het spinnengif moet eruit gezweet!
 
-## Opstelling 
+## Opstelling
 
 In koppels tegenover elkaar dwars op de kringlijn; in balfolk vaak
 gewoon in koppels kriskras door elkaar.
 
-##  Basis 
+##  Basis
 
 Dans in vier delen van telkens 16 maten.
 
 - **deel 1**: sprong en swing
 
-  - **maat 1-4 (of A-deel melodie 1)**  
+  - **maat 1-4 (of A-deel melodie 1)**
     Set-pas met rechts, met je linkerhand neem je een imaginaire hoed af
     naar links. Zelfde met links. Herhaal.
 
-  - **maat 5-8 (of B-deel melodie 1)**  
+  - **maat 5-8 (of B-deel melodie 1)**
     Swing rond, met rechterarm rond elkaars middel en linkerarm hoog
     gestrekt.
 
-  - **maat 9-12 (of A-deel melodie 1)**  
+  - **maat 9-12 (of A-deel melodie 1)**
     Herhaling 1-4.
 
-  - **maat 13-16 (of B-deel melodie 1)**  
+  - **maat 13-16 (of B-deel melodie 1)**
     Herhaling 5-8.
 
 - **deel 2**: knieval en draai
 
-  - **maat 1-4 (of A-deel melodie 2)**  
+  - **maat 1-4 (of A-deel melodie 2)**
     Heer valt op de linkerknie voor zijn dame en leidt haar linksom rond
     hem. Dame in Schotse pas rond
 
-  - **maat 5-8 (of B-deel melodie 2)**  
+  - **maat 5-8 (of B-deel melodie 2)**
     naast elkaar, binnenhanden vast, stap-kick met buitenvoet, idem met
     binnenvoet; individueel hele draai rond buitenom
 
-  - **maat 9-12 (of A-deel melodie 2)**  
+  - **maat 9-12 (of A-deel melodie 2)**
     Herhaling maat 1-4
 
-  - **maat 13-16 (of A-deel melodie 2)**  
+  - **maat 13-16 (of A-deel melodie 2)**
     herhaal maat 5-8
 
 - **deel 3**: handenklap en dos à dos
 
-  - **maat 1-4**  
+  - **maat 1-4**
     Schuin naar elkaar toelopen, tot je naast elkaar staat. Daarna
     achterwaarts weer naar je plaats. Naar elkaar toe ga je van laag
     naar hoog en klapt op elke tel. Van elkaar weg van hoog naar laag.
     Laatste klap is achter de rug.
 
-  - **maat 5-8**  
+  - **maat 5-8**
     dos à dos rond elkaar rechtsom, terwijl je om je eigen as linksom
     draait, ondertussen met de bovenarmen rondjes maken.
 
@@ -2122,38 +1884,28 @@ blijft.
 
 Danswiki
 
-![](media/image1.jpeg)
+![Foto van dansers](media/image1.jpeg)
 
-<table style="width:29%;">
-<colgroup>
-<col style="width: 28%" />
-</colgroup>
-<tbody>
-<tr>
-<td><h2 id="inhoud-19">Inhoud</h2>
-<p>Wals</p>
-<ul>
-<li><p>Opstelling</p></li>
-<li><p>Basis</p></li>
-<li><p>Aanwijzingen</p></li>
-<li><p>Variaties</p></li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+# ## Inhoud
+
+- Wals
+- Opstelling
+- Basis
+- Aanwijzingen
+- Variaties
 
 # Wals
 
 Een gevarieerde parendans
 
-## Opstelling 
+## Opstelling
 
 Je staat in half-open houding, ergens op de dansvloer. De paren die snel
 willen ronddraaien in de dansrichting staan aan de buitenkant, de paren
 die rustig aan willen doen, of mooie figuren op de plaats, staan in het
 midden.
 
-## Basis 
+## Basis
 
 - De vrouw spiegelt de man, dus een pas met links is voor de vrouw een
   pas met rechts.
@@ -2167,7 +1919,7 @@ midden.
 - Voor de absolute basis is het prima als deze passen op de plaats
   worden gezet, als het gewicht per maat maar echt wordt verplaatst.
 
-## Aanwijzingen 
+## Aanwijzingen
 
 - Er kunnen rondjes met de klok mee gedraaid worden. Dit kan gewoon heel
   rustig gebeuren.
@@ -2188,7 +1940,7 @@ midden.
   verplaats je dan naar het midden van de vloer. Doe dit ook als je rare
   figuren wil doen waardoor je even stil komt te staan
 
-## Variaties 
+## Variaties
 
 - Wals in 5 tijden
 
