@@ -136,6 +136,8 @@ Danswiki
 - Open
 - Aanwijzingen
 
+## samenvatting
+
 Een goede danshouding is natuurlijk belangrijk. Er zijn een paar
 verschillende houdingen voor koppeldansen. Voor het gemak wordt dame en
 heer gebruikt ter aanduiding van de 2 danspartners, maar de rollen
@@ -582,6 +584,8 @@ Danswiki
 
 ![Foto van dansers](media/image1.jpeg)
 
+# An Dro
+
 ## Inhoud
 
 - An Dro
@@ -591,7 +595,7 @@ Danswiki
 - Variaties
 - Tips voor muzikanten
 
-# An Dro
+## samenvatting
 
 Dit is een (meestal) rustige, haast meditatieve dans.
 
@@ -691,6 +695,8 @@ Danswiki
 
 ![Foto van dansers](media/image1.jpeg)
 
+# Bourree
+
 ## Inhoud
 
 - Bourree
@@ -699,7 +705,7 @@ Danswiki
 - Aanwijzingen
 - Variaties
 
-# Bourree
+## samenvatting
 
 Spannende dans
 
@@ -815,6 +821,8 @@ Danswiki
 
 ![Foto van dansers](media/image1.jpeg)
 
+# Bourree d’Auvergne
+
 ## Inhoud
 
 - Bourree d’Auvergne
@@ -823,7 +831,7 @@ Danswiki
 - Aanwijzingen
 - Variaties
 
-# Bourree d’Auvergne
+## samenvatting
 
 De moeder van alle bourrees
 
@@ -949,6 +957,8 @@ Danswiki
 
 ![Foto van dansers](media/image1.jpeg)
 
+# Cercle
+
 ## Inhoud
 
 - Cercle
@@ -957,7 +967,7 @@ Danswiki
 - Aanwijzingen
 - Variaties
 
-# Cercle
+## samenvatting
 
 Een vrolijke mixer. Wordt in Vlaanderen Tovercirkel genoemd. En in
 Frankrijk Cercle circassien
@@ -1072,13 +1082,15 @@ Danswiki
 
 ![Foto van dansers](media/image1.jpeg)
 
+# Gavotte
+
 ## Inhoud
 
 - Gavotte
 - Gavotte de l’Aven
 - Gavotte de Montagnes (Deel 1, 2, 3)
 
-# Gavotte
+## samenvatting
 
 Snelle rijdans
 
@@ -1161,6 +1173,8 @@ Danswiki
 
 ![Foto van dansers](media/image1.jpeg)
 
+# Gigue (Jig, Chapelloise)
+
 ## Inhoud
 
 - Gigue (Jig, Chapelloise)
@@ -1169,7 +1183,7 @@ Danswiki
 - Aanwijzingen
 - Variaties
 
-# Gigue (Jig, Chapelloise)
+## samenvatting
 
 Gezellige mixer. In Frankrijk chapeloise genoemd.
 
@@ -1247,6 +1261,8 @@ Danswiki
 
 ![Foto van dansers](media/image1.jpeg)
 
+# Hanter Dro
+
 ## Inhoud
 
 - Hanter Dro
@@ -1255,7 +1271,7 @@ Danswiki
 - Aanwijzingen
 - Variaties
 
-# Hanter Dro
+## samenvatting
 
 Nog rustiger en meditatiever dan de An Dro
 
@@ -1296,6 +1312,8 @@ Danswiki
 
 ![Foto van dansers](media/image1.jpeg)
 
+# Laridé
+
 ## Inhoud
 
 - Laridé
@@ -1303,7 +1321,7 @@ Danswiki
 - Basis (Voeten, Armen)
 - Aanwijzingen
 
-# Laridé
+## samenvatting
 
 Een dans in 8 maten waarbij de dansers zich in slierten door de ruimte
 verplaatsen.
@@ -1383,6 +1401,8 @@ Danswiki
 
 ![Foto van dansers](media/image1.jpeg)
 
+# Mazurka
+
 ## Inhoud
 
 - Mazurka
@@ -1391,7 +1411,7 @@ Danswiki
 - Aanwijzingen
 - Variaties
 
-# Mazurka
+## samenvatting
 
 Romantische parendans
 
@@ -1443,6 +1463,8 @@ Danswiki
 
 ![Foto van dansers](media/image1.jpeg)
 
+# Plinn
+
 ## Inhoud
 
 - Plinn
@@ -1451,7 +1473,7 @@ Danswiki
 - Aanwijzingen
 - Variaties
 
-# Plinn
+## samenvatting
 
 Bretons springen tot je er bij neervalt
 
@@ -1514,6 +1536,8 @@ Danswiki
 
 ![Foto van dansers](media/image1.jpeg)
 
+# Polka
+
 ## Inhoud
 
 - Polka
@@ -1522,7 +1546,7 @@ Danswiki
 - Aanwijzingen
 - Variaties
 
-# Polka
+## samenvatting
 
 Springerige parendans
 
@@ -1562,6 +1586,8 @@ Danswiki
 
 ![Foto van dansers](media/image1.jpeg)
 
+# Polska
+
 ## Inhoud
 
 - Polska
@@ -1569,7 +1595,7 @@ Danswiki
 - Basis
 - Aanwijzingen
 
-# Polska
+## samenvatting
 
 Zweedse parendans
 
@@ -1614,6 +1640,8 @@ Danswiki
 
 ![Foto van dansers](media/image1.jpeg)
 
+# Rond de Saint Vincent
+
 ## Inhoud
 
 - Rond de Saint Vincent
@@ -1622,7 +1650,7 @@ Danswiki
 - Aanwijzingen
 - Variaties
 
-# Rond de Saint Vincent
+## samenvatting
 
 Rond, en rond, en rond...
 
@@ -1667,6 +1695,8 @@ Danswiki
 
 ![Foto van dansers](media/image1.jpeg)
 
+# Rondo
+
 ## Inhoud
 
 - Rondo
@@ -1675,7 +1705,7 @@ Danswiki
 - Aanwijzingen
 - Variaties
 
-# Rondo
+## samenvatting
 
 Vlotte rijdans met lekker veel vaart
 
@@ -1709,6 +1739,8 @@ Danswiki
 
 ![Foto van dansers](media/image1.jpeg)
 
+# Rondeau en Couple
+
 ## Inhoud
 
 - Rondeau en Couple
@@ -1717,7 +1749,7 @@ Danswiki
 - Aanwijzingen
 - Variaties
 
-# Rondeau en Couple
+## samenvatting
 
 Parendans twee aan twee in een grote cirkel
 
@@ -1744,6 +1776,8 @@ Danswiki
 
 ![Foto van dansers](media/image1.jpeg)
 
+# Scottisch
+
 ## Inhoud
 
 - Scottisch
@@ -1751,7 +1785,7 @@ Danswiki
 - Basis
 - Variaties
 
-# Scottisch
+## samenvatting
 
 Eenvoudige parendans met ontelbaar veel variaties
 
@@ -1805,6 +1839,8 @@ Danswiki
 
 ![Foto van dansers](media/image1.jpeg)
 
+# Tarantella
+
 ## Inhoud
 
 - Tarantella
@@ -1812,7 +1848,7 @@ Danswiki
 - Basis (deel 1..4)
 - Aanwijzingen
 
-# Tarantella
+## samenvatting
 
 De Tarantella is een leuk pseudo-Italiaans dansje — het is binnen
 Balfolk sterk gechoreografeerd en daarom niet te vergelijken met de
@@ -1886,6 +1922,8 @@ Danswiki
 
 ![Foto van dansers](media/image1.jpeg)
 
+# Wals
+
 ## Inhoud
 
 - Wals
@@ -1894,7 +1932,7 @@ Danswiki
 - Aanwijzingen
 - Variaties
 
-# Wals
+## samenvatting
 
 Een gevarieerde parendans
 
