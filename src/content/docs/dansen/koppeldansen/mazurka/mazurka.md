@@ -6,13 +6,6 @@ draft: false
 
 # Mazurka
 
-## Inhoud
-- Samenvatting
-- Opstelling
-- Basis
-- Aanwijzingen
-- Variaties
-
 ## samenvatting
 
 Romantische parendans

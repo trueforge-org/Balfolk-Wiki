@@ -6,12 +6,6 @@ draft: false
 
 # Polska
 
-## Inhoud
-- Samenvatting
-- Opstelling
-- Basis
-- Aanwijzingen
-
 ## samenvatting
 
 Zweedse parendans

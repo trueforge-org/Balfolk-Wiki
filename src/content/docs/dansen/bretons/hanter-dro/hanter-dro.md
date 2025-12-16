@@ -6,13 +6,6 @@ draft: false
 
 # Hanter Dro
 
-## Inhoud
-- Samenvatting
-- Opstelling
-- Basis
-- Aanwijzingen
-- Variaties
-
 ## samenvatting
 
 Nog rustiger en meditatiever dan de An Dro

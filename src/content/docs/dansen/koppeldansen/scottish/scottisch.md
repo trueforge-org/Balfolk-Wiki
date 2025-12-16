@@ -6,12 +6,6 @@ draft: false
 
 # Scottisch
 
-## Inhoud
-- Samenvatting
-- Opstelling
-- Basis
-- Variaties
-
 ## samenvatting
 
 Eenvoudige parendans met ontelbaar veel variaties

@@ -89,13 +89,6 @@ De dans bestaat verder uit een A- en een B-deel:
 
 # Bourree
 
-## Inhoud
-- Samenvatting
-- Opstelling
-- Basis
-- Aanwijzingen
-- Variaties
-
 ## samenvatting
 
 Spannende dans

@@ -6,13 +6,6 @@ draft: false
 
 # Plinn
 
-## Inhoud
-- Samenvatting
-- Opstelling
-- Basis
-- Aanwijzingen
-- Variaties
-
 ## samenvatting
 
 Bretons springen tot je er bij neervalt

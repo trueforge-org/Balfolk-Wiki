@@ -6,12 +6,6 @@ draft: false
 
 # Tarantella
 
-## Inhoud
-- Samenvatting
-- Opstelling
-- Basis (deel 1..4)
-- Aanwijzingen
-
 ## samenvatting
 
 De Tarantella is een leuk pseudo-Italiaans dansje — het is binnen

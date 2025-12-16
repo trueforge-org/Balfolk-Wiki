@@ -6,13 +6,6 @@ draft: false
 
 # Rondo
 
-## Inhoud
-- Samenvatting
-- Opstelling
-- Basis
-- Aanwijzingen
-- Variaties
-
 ## samenvatting
 
 Vlotte rijdans met lekker veel vaart

@@ -6,13 +6,6 @@ draft: false
 
 # Wals
 
-## Inhoud
-- Samenvatting
-- Opstelling
-- Basis
-- Aanwijzingen
-- Variaties
-
 ## samenvatting
 
 Een gevarieerde parendans

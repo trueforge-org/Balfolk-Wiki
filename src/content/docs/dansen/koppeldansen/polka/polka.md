@@ -6,13 +6,6 @@ draft: false
 
 # Polka
 
-## Inhoud
-- Samenvatting
-- Opstelling
-- Basis
-- Aanwijzingen
-- Variaties
-
 ## samenvatting
 
 Springerige parendans

@@ -6,14 +6,6 @@ draft: false
 
 # An Dro
 
-## Inhoud
-- Samenvatting
-- Opstelling
-- Basis
-- Aanwijzingen
-- Variaties
-- Tips voor muzikanten
-
 ## samenvatting
 
 Dit is een (meestal) rustige, haast meditatieve dans.

@@ -6,13 +6,6 @@ draft: false
 
 # Cercle
 
-## Inhoud
-- Samenvatting
-- Opstelling
-- Basis (A, B, C)
-- Aanwijzingen
-- Variaties
-
 ## samenvatting
 
 Een vrolijke mixer. Wordt in Vlaanderen Tovercirkel genoemd. En in

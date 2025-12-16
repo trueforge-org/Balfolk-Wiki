@@ -6,13 +6,6 @@ draft: false
 
 # Bourree d’Auvergne
 
-## Inhoud
-- Samenvatting
-- Opstelling
-- Basis (Pas, Houding, Richtingen, Figuren)
-- Aanwijzingen
-- Variaties
-
 ## samenvatting
 
 De moeder van alle bourrees

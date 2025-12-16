@@ -6,11 +6,6 @@ draft: false
 
 # Gavotte
 
-## Inhoud
-- Samenvatting
-- Gavotte de l’Aven
-- Gavotte de Montagnes (Deel 1, 2, 3)
-
 ## samenvatting
 
 Snelle rijdans

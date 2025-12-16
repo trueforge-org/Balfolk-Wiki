@@ -6,13 +6,6 @@ draft: false
 
 # Rond de Saint Vincent
 
-## Inhoud
-- Samenvatting
-- Opstelling
-- Basis
-- Aanwijzingen
-- Variaties
-
 ## samenvatting
 
 Rond, en rond, en rond...

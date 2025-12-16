@@ -6,12 +6,6 @@ draft: false
 
 # Etikette
 
-## Inhoud
-
-- Etikette voor dansers
-- Etikette voor bands
-- Etikette voor sessiemuzikanten
-
 ## Etikette voor dansers
 
 - Sluit bij een slingerdans (an dro,hanter dro) altijd aan aan de

@@ -6,13 +6,6 @@ draft: false
 
 # Danshouding
 
-## Inhoud
-- Samenvatting
-- Half-open
-- Gesloten
-- Open
-- Aanwijzingen
-
 ## samenvatting
 
 Een goede danshouding is natuurlijk belangrijk. Er zijn een paar

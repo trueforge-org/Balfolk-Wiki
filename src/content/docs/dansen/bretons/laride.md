@@ -6,12 +6,6 @@ draft: false
 
 # Laridé
 
-## Inhoud
-- Samenvatting
-- Opstelling
-- Basis (Voeten, Armen)
-- Aanwijzingen
-
 ## samenvatting
 
 Een dans in 8 maten waarbij de dansers zich in slierten door de ruimte

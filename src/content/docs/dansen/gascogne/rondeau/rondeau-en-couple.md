@@ -6,13 +6,6 @@ draft: false
 
 # Rondeau en Couple
 
-## Inhoud
-- Samenvatting
-- Opstelling
-- Basis
-- Aanwijzingen
-- Variaties
-
 ## samenvatting
 
 Parendans twee aan twee in een grote cirkel
