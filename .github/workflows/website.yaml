@@ -1,0 +1,154 @@
+name: "Wiki: Build-and-Release"
+
+concurrency:
+  group: ${{ github.head_ref }}-website-release
+
+on:
+  workflow_call:
+  workflow_dispatch:
+  pull_request:
+    paths:
+      - "**"
+  push:
+    branches:
+      - main
+    paths:
+      - "**"
+# Use `bash --noprofile --norc -exo pipefail` by default for all `run` steps in this workflow:
+# https://docs.github.com/en/actions/reference/workflow-syntax-for-github-actions#defaultsrun
+defaults:
+  run:
+    shell: bash
+
+jobs:
+  release-website:
+    permissions:
+      pull-requests: write
+    name: "${{ github.ref == 'refs/heads/main' && '(Production)' || '(Preview)' }}"
+    runs-on:
+      group: default
+    steps:
+      - name: Checkout
+        uses: actions/checkout@08c6903cd8c0fde910a37f88322edcfb5dd907a8 # v5
+        with:
+          fetch-depth: 1
+
+      - name: Comment deploy start
+        if: github.event_name != 'push'
+        continue-on-error: true
+        uses: mshick/add-pr-comment@b8f338c590a895d50bcbfa6c5859251edc8952fc # v2
+        with:
+          message-id: cloudflare-deploy
+          message: |
+            ### 🚧 Deploy Preview building...
+
+            |  Name               | Link                                                                          |
+            |---------------------|-------------------------------------------------------------------------------|
+            |🔨 Latest commit     | ${{ github.sha }}                                                             |
+            |🔍 Latest deploy log | https:/github.com/${{ github.repository }}/actions/runs/${{ github.run_id }} |
+            ---
+
+      - name: Setup Node
+        uses: actions/setup-node@a0853c24544627f65ddf259abe73b1d18a591444 # v5
+        with:
+          node-version-file: ./.nvmrc
+
+      - name: Fix Package-Lock
+        run: npm i --package-lock-only
+
+      - name: Setup astro Cache
+        uses: actions/cache@0057852bfaa89a56745cba8c7296529d2fc39830 # v4
+        with:
+          # Cache for build and optimized images.
+          key: astro-${{ hashFiles('package-lock.json') }}
+          path: ./.astro
+          restore-keys: astro-
+
+      - name: Setup npm Cache
+        uses: actions/cache@0057852bfaa89a56745cba8c7296529d2fc39830 # v4
+        with:
+          # Cache for npm
+          path: ~/.npm
+          key: npm-${{ hashFiles('package-lock.json') }}
+          restore-keys: npm-
+
+      - name: Setup node_modules Cache
+        id: modulescache
+        uses: actions/cache@0057852bfaa89a56745cba8c7296529d2fc39830 # v4
+        with:
+          # Cache for npm and optimized images.
+          path: ./node_modules
+          key: modules-${{ hashFiles('package-lock.json') }}
+
+      - name: Install Packages
+        if: steps.modulescache.outputs.cache-hit != 'true'
+        run: npm ci
+
+      - name: Check
+        run: npm run check
+
+      - name: Build
+        run: npm run build
+
+      - name: Comment deploy start
+        if: github.event_name != 'push'
+        continue-on-error: true
+        uses: mshick/add-pr-comment@b8f338c590a895d50bcbfa6c5859251edc8952fc # v2
+        with:
+          message-id: cloudflare-deploy
+          message: |
+            ### 🚧 Deploy Preview building...
+
+            |  Name               | Link                                                                          |
+            |---------------------|-------------------------------------------------------------------------------|
+            |🔨 Latest commit     | ${{ github.sha }}                                                             |
+            |🔍 Latest deploy log | https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }} |
+            ---
+
+      - name: Publish to Cloudflare Workers
+        id: cloudflare
+        continue-on-error: true
+        env:
+          CLOUDFLARE_ACCOUNT_ID: "${{ secrets.CLOUDFLARE_ACCOUNT_ID }}"
+          CLOUDFLARE_API_TOKEN: "${{ secrets.CF_API_TOKEN }}"
+        shell: bash
+        run: |
+          environment=""
+          url=""
+          echo "Git Ref: ${{ github.ref }}"
+          if [ '${{ github.ref }}' == 'refs/heads/main' ]; then
+            echo "Publishing to PRODUCTION environment"
+            node_modules/wrangler/bin/wrangler.js deploy
+
+            environment="production"
+            url="https://balfolk-wiki.trueforge.org"
+          else
+            echo "Publishing to PREVIEW environment"
+            node_modules/wrangler/bin/wrangler.js versions upload | tee upload-output.txt
+
+            environment="preview"
+            url=$(grep 'Version Preview URL: ' upload-output.txt | awk '{print $NF}')
+          fi
+
+          echo "environment=$environment" >> $GITHUB_OUTPUT
+          echo "url=$url" >> $GITHUB_OUTPUT
+
+      - name: Comment deploy url
+        if: github.event_name != 'push'
+        continue-on-error: true
+        uses: mshick/add-pr-comment@b8f338c590a895d50bcbfa6c5859251edc8952fc # v2
+        with:
+          message-id: cloudflare-deploy
+          message: |
+            ### ✅ Deploy Preview ready!
+
+            |  Name                | Link                                                                          |
+            |----------------------|-------------------------------------------------------------------------------|
+            |🔨 Latest commit      | ${{ github.sha }}                                                             |
+            |🔍 Latest deploy log  | https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }} |
+            |😎 Deploy Preview Url | [${{ steps.cloudflare.outputs.url }}](${{ steps.cloudflare.outputs.url }})    |
+            |🌳 Environment        | ${{ steps.cloudflare.outputs.environment }}                                   |
+            ---
+
+      - name: Release-and-Website Completed
+        run: echo "DONE"
