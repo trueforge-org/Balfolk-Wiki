@@ -50,3 +50,34 @@ Vooral als je heel snel wilt dansen, maximaal zes personen per kring.
 
 
 
+
+
+<!-- source: dansen/rond_de_saint-vincent.html -->
+
+### Rond de Saint-Vincent
+
+Rond, en rond, en rond…
+
+#### Opstelling
+
+#### Basis
+
+#### Aanwijzingen
+
+#### Variaties
+
+* Laag bij de grond (op je hurken) dansen.
+* Héél snel rondjes draaien. Bij sommige stappen kan de hele groep van de grond komen!
+
+### Voorbeeld muziekjes en filmpjes
+
+* Rond de Saint Vincent
+
+### Externe Pagina's
+
+* [Rond de Saint Vincent-sur-Oust op TKPédia](Rond_de_Saint-Vincent-sur-Oust "http://tkpedia.tamm-kreiz.com/index.php/Rond_de_Saint-Vincent-sur-Oust")
+
+<!-- preserved-video-start -->
+<iframe allowfullscreen="" frameborder="0" height="350" scrolling="no" src="https://www.youtube.com/embed/UjTZ13zRNPw" width="425"></iframe>
+
+<!-- preserved-video-end -->

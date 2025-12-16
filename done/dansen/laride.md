@@ -84,3 +84,37 @@ In 1 of meerdere lange slierten. Mannetje/vrouwtje maakt niet uit
 
 
 
+
+
+<!-- source: dansen/laride.html -->
+
+### Laride
+
+Er is nog geen omschrijving toegevoegd
+
+#### Opstelling
+
+In 1 of meerdere lange slierten.
+
+#### Basis
+
+##### Voeten
+
+##### Armen
+
+#### Aanwijzingen
+
+Zie [An Dro](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕an_dro.html "nl:dansen:an_dro")
+
+### Voorbeeld muziekjes en filmpjes
+
+* Laridé 8 temps
+
+* Filmpje van Boombalfestival 2009 (muzikant onbekend) (opgenomen door Herman Horsten, [www.hermanhorsten.be](http://www.hermanhorsten.be/ "http://www.hermanhorsten.be")):
+
+<!-- preserved-video-start -->
+<iframe allowfullscreen="" frameborder="0" height="350" scrolling="no" src="https://www.youtube.com/embed/4mZwUelKKw0" width="425"></iframe>
+
+<iframe allowfullscreen="" frameborder="0" height="350" scrolling="no" src="https://www.youtube.com/embed/aEqJLL9o60U" width="425"></iframe>
+
+<!-- preserved-video-end -->
