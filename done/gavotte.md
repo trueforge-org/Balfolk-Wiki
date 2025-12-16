@@ -1,0 +1,35 @@
+# Gavotte
+
+## Inhoud
+- Samenvatting
+- Gavotte de l’Aven
+- Gavotte de Montagnes (Deel 1, 2, 3)
+
+## samenvatting
+
+Snelle rijdans
+
+## Opstelling
+
+Als rij sta je hand in hand, waarbij je aanvankelijk je rechterarm over
+de linkerarm van je buurman/-vrouw kunt leggen (zoals in de hanterdro).
+Afhankelijk van de muziek en degene voorin de rij, die het tempo
+bepaalt, kunnen de armen meer los komen, waarbij ook met de armen
+gezwaaid kan worden op het ritme van de muziek.
+
+Met je lichaam sta je een beetje gedraaid richting de voorste in de rij,
+om goed op tempo mee te kunnen komen; de passen zijn ook niet zozeer
+zijwaarts, meer vooruit
+
+## Basis
+
+Wandel- of looppas in het ritme van de muziek: links - rechts - links
+rechts links - rechts - links - rechts - hop (of niets).
+
+Voor de mensen die wat tureluurs worden van al dat links en rechts: je
+kan het ook als volgt tellen: een, twee, ee - ne twee, een, twee, een
+(twee).
+
+Of gebruik dit als ezelsbruggetje: een, twee, in de maat, anders wordt
+de juffrouw "hop"
+
