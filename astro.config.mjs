@@ -41,7 +41,7 @@ export default defineConfig({
       tagline: "Balfolk-Wiki - The community driven Balfolk dance wiki",
       pagefind: true,
       logo: {
-        src: "./src/assets/with-text.svg",
+        src: "./src/assets/logo.png",
         replacesTitle: true,
       },
       head: [
