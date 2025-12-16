@@ -926,7 +926,7 @@ Het is echter ook mogelijk dat leider en volger van rol wisselen, of dat
 elk op willekeurige momenten een initiatief ontplooit. Hiervoor is goed
 contact uiteraard nóg belangrijker.
 
-##  Variaties
+## Variaties
 
 Aan het einde van de banaan kan men de frappés doen. Dit zijn lichte
 stampjes.
@@ -1827,7 +1827,7 @@ gedanst worden: het spinnengif moet eruit gezweet!
 In koppels tegenover elkaar dwars op de kringlijn; in balfolk vaak
 gewoon in koppels kriskras door elkaar.
 
-##  Basis
+## Basis
 
 Dans in vier delen van telkens 16 maten.
 
