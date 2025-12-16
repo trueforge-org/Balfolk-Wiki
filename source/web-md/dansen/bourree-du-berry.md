@@ -54,7 +54,7 @@ De dans bestaat verder uit een A- en een B-deel:
 * [Bourree en cercle](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕bourree_du_berry﹕bourree_en_cercle.html "nl:dansen:bourree_du_berry:bourree_en_cercle")
 * [Bourree des Jeunes](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕bourree_du_berry﹕bourree_des_jeunes.html "nl:dansen:bourree_du_berry:bourree_des_jeunes")
 * [Bourree croisé](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕bourree_du_berry﹕bourree_croisee.html "nl:dansen:bourree_du_berry:bourree_croise")
-* [Bourree carré](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕bourree_du_berry﹕kadootjesbourree.html "nl:dansen:bourree_du_berry:bourree_carre")
+* [Bourree carré](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕bourree_du_berry﹕kadootjesbourree.html "nl:dansen:bourree_du_berry:kadootjesbourree")
 * [La grande potterie](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕bourree_du_berry﹕la_grande_potterie.html "nl:dansen:bourree_du_berry:la_grande_potterie")
 * [Bourree valsé d'Issoudun](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕bourree_du_berry﹕bourree_valse_d_issoudun.html "nl:dansen:bourree_du_berry:bourree_valse_d_issoudun")
 * [Kadootjesbourree](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕bourree_du_berry﹕kadootjesbourree.html "nl:dansen:bourree_du_berry:kadootjesbourree")

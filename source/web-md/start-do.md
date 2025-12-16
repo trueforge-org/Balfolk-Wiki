@@ -1,4 +1,4 @@
-<!-- source: root_start.html -->
+<!-- source: start_do.html -->
 
 Deze pagina is een alias naar de Nederlandse startpagina. De echte pagina staat hier: [Start](doku.php﹖id=doku.php﹖id=nl﹕start.html "nl:start")
 
