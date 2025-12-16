@@ -1,3 +1,9 @@
+---
+title: "tricot"
+description: ""
+draft: false
+---
+
 <!-- source: dansen/tricot.html -->
 
 ### TRICOT

@@ -1,3 +1,9 @@
+---
+title: "Balfolk"
+description: ""
+draft: false
+---
+
 # Balfolk
 
 Balfolk is dansen op live muziek. Een disco-avond op traditionele muziek

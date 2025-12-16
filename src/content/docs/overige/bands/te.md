@@ -1,3 +1,9 @@
+---
+title: "te"
+description: ""
+draft: false
+---
+
 <!-- source: bands/te.html -->
 
 ### Té

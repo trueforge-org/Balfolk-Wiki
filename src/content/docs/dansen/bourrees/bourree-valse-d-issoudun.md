@@ -1,3 +1,9 @@
+---
+title: "bourree valse d issoudun"
+description: ""
+draft: false
+---
+
 <!-- source: dansen/bourree_du_berry_bourree_valse_d_issoudun.html -->
 
 ### Bourrée valsé d'Issoudun

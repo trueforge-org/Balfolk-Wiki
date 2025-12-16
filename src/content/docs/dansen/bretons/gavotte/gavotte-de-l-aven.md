@@ -1,3 +1,9 @@
+---
+title: "Gavotte de l’Aven"
+description: ""
+draft: false
+---
+
 # Gavotte de l’Aven
 
 ## Opstelling

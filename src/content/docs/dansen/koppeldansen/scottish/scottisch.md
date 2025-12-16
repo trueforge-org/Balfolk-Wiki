@@ -1,3 +1,9 @@
+---
+title: "Scottisch"
+description: ""
+draft: false
+---
+
 # Scottisch
 
 ## Inhoud

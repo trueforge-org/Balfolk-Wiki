@@ -1,3 +1,9 @@
+---
+title: "Welkom op de danswiki!"
+description: ""
+draft: false
+---
+
 # Welkom op de danswiki!
 
 Deze wiki bevat informatie over verschillende balfolk dansen, hun

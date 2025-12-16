@@ -1,3 +1,9 @@
+---
+title: "Etikette"
+description: ""
+draft: false
+---
+
 # Etikette
 
 ## Inhoud

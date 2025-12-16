@@ -1,3 +1,9 @@
+---
+title: "Danshouding"
+description: ""
+draft: false
+---
+
 # Danshouding
 
 ## Inhoud

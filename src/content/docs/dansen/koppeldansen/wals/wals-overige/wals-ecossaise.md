@@ -1,3 +1,9 @@
+---
+title: "wals ecossaise"
+description: ""
+draft: false
+---
+
 <!-- source: dansen/wals/wals_in_14_tijden.html -->
 
 ### Wals in 14 tijden

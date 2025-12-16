@@ -1,3 +1,9 @@
+---
+title: "kost ar c hoat"
+description: ""
+draft: false
+---
+
 <!-- source: dansen/kost_ar_c_hoat.html -->
 
 ### Kost ar C'hoat

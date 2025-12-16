@@ -1,3 +1,9 @@
+---
+title: "danswiki"
+description: ""
+draft: false
+---
+
 <!-- source: algemeen/danswiki.html -->
 
 ### Hoe werkt de DansWiki

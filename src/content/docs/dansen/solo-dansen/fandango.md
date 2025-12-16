@@ -1,3 +1,9 @@
+---
+title: "fandango"
+description: ""
+draft: false
+---
+
 <!-- source: dansen/fandango.html -->
 
 ### Fandango

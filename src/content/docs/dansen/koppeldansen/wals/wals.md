@@ -1,3 +1,9 @@
+---
+title: "Wals"
+description: ""
+draft: false
+---
+
 # Wals
 
 ## Inhoud

@@ -1,3 +1,9 @@
+---
+title: "castlefest"
+description: ""
+draft: false
+---
+
 <!-- source: events/castlefest.html -->
 
 ### Castlefest

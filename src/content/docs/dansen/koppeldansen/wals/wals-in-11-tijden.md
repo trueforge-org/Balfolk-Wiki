@@ -1,3 +1,9 @@
+---
+title: "wals in 11 tijden"
+description: ""
+draft: false
+---
+
 <!-- source: dansen/wals/wals_in_11_tijden.html -->
 
 ### Wals in 11 tijden

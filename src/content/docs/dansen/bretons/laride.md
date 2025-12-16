@@ -1,3 +1,9 @@
+---
+title: "Laridé"
+description: ""
+draft: false
+---
+
 # Laridé
 
 ## Inhoud

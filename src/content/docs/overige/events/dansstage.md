@@ -1,3 +1,9 @@
+---
+title: "dansstage"
+description: ""
+draft: false
+---
+
 <!-- source: events/dansstage.html -->
 
 ### Dansstage

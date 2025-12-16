@@ -1,3 +1,9 @@
+---
+title: "nieuws"
+description: ""
+draft: false
+---
+
 <!-- source: algemeen/nieuws.html -->
 
 ### Nieuwspagina Danswiki

@@ -1,3 +1,9 @@
+---
+title: "Terminologie"
+description: ""
+draft: false
+---
+
 # Terminologie
 
 Op deze pagina staat een overzicht van gebruikte begrippen en

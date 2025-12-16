@@ -1,3 +1,9 @@
+---
+title: "la grande potterie"
+description: ""
+draft: false
+---
+
 <!-- source: dansen/bourree_du_berry_la_grande_potterie.html -->
 
 ### La grande potterie

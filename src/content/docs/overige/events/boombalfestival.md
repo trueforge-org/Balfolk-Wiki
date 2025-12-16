@@ -1,3 +1,9 @@
+---
+title: "boombalfestival"
+description: ""
+draft: false
+---
+
 <!-- source: events/boombalfestival.html -->
 
 ### Boombal Festival

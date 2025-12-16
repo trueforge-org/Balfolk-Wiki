@@ -1,3 +1,9 @@
+---
+title: "boombalstage"
+description: ""
+draft: false
+---
+
 <!-- source: events/boombalstage.html -->
 
 ### Boombal Stage

@@ -1,3 +1,9 @@
+---
+title: "Gavotte de Montagnes (Suite Gavotte)"
+description: ""
+draft: false
+---
+
 # Gavotte de Montagnes (Suite Gavotte)
 
 is een "suite" die bestaat uit drie delen.
