@@ -582,7 +582,7 @@ Danswiki
 
 ![Foto van dansers](media/image1.jpeg)
 
-# ## Inhoud
+## Inhoud
 
 - An Dro
 - Opstelling
@@ -691,7 +691,7 @@ Danswiki
 
 ![Foto van dansers](media/image1.jpeg)
 
-# ## Inhoud
+## Inhoud
 
 - Bourree
 - Opstelling
@@ -815,7 +815,7 @@ Danswiki
 
 ![Foto van dansers](media/image1.jpeg)
 
-# ## Inhoud
+## Inhoud
 
 - Bourree d’Auvergne
 - Opstelling
@@ -949,7 +949,7 @@ Danswiki
 
 ![Foto van dansers](media/image1.jpeg)
 
-# ## Inhoud
+## Inhoud
 
 - Cercle
 - Opstelling
@@ -1072,7 +1072,7 @@ Danswiki
 
 ![Foto van dansers](media/image1.jpeg)
 
-# ## Inhoud
+## Inhoud
 
 - Gavotte
 - Gavotte de l’Aven
@@ -1161,7 +1161,7 @@ Danswiki
 
 ![Foto van dansers](media/image1.jpeg)
 
-# ## Inhoud
+## Inhoud
 
 - Gigue (Jig, Chapelloise)
 - Opstelling
@@ -1247,7 +1247,7 @@ Danswiki
 
 ![Foto van dansers](media/image1.jpeg)
 
-# ## Inhoud
+## Inhoud
 
 - Hanter Dro
 - Opstelling
@@ -1296,7 +1296,7 @@ Danswiki
 
 ![Foto van dansers](media/image1.jpeg)
 
-# ## Inhoud
+## Inhoud
 
 - Laridé
 - Opstelling
@@ -1383,7 +1383,7 @@ Danswiki
 
 ![Foto van dansers](media/image1.jpeg)
 
-# ## Inhoud
+## Inhoud
 
 - Mazurka
 - Opstelling
@@ -1443,7 +1443,7 @@ Danswiki
 
 ![Foto van dansers](media/image1.jpeg)
 
-# ## Inhoud
+## Inhoud
 
 - Plinn
 - Opstelling
@@ -1514,7 +1514,7 @@ Danswiki
 
 ![Foto van dansers](media/image1.jpeg)
 
-# ## Inhoud
+## Inhoud
 
 - Polka
 - Opstelling
@@ -1562,7 +1562,7 @@ Danswiki
 
 ![Foto van dansers](media/image1.jpeg)
 
-# ## Inhoud
+## Inhoud
 
 - Polska
 - Opstelling
@@ -1614,7 +1614,7 @@ Danswiki
 
 ![Foto van dansers](media/image1.jpeg)
 
-# ## Inhoud
+## Inhoud
 
 - Rond de Saint Vincent
 - Opstelling
@@ -1667,7 +1667,7 @@ Danswiki
 
 ![Foto van dansers](media/image1.jpeg)
 
-# ## Inhoud
+## Inhoud
 
 - Rondo
 - Opstelling
@@ -1709,7 +1709,7 @@ Danswiki
 
 ![Foto van dansers](media/image1.jpeg)
 
-# ## Inhoud
+## Inhoud
 
 - Rondeau en Couple
 - Opstelling
@@ -1744,7 +1744,7 @@ Danswiki
 
 ![Foto van dansers](media/image1.jpeg)
 
-# ## Inhoud
+## Inhoud
 
 - Scottisch
 - Opstelling
@@ -1805,7 +1805,7 @@ Danswiki
 
 ![Foto van dansers](media/image1.jpeg)
 
-# ## Inhoud
+## Inhoud
 
 - Tarantella
 - Opstelling
@@ -1886,7 +1886,7 @@ Danswiki
 
 ![Foto van dansers](media/image1.jpeg)
 
-# ## Inhoud
+## Inhoud
 
 - Wals
 - Opstelling
