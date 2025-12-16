@@ -1,6 +1,4 @@
-Danswiki
 
-![Foto van dansers](media/image1.jpeg)
 
 # Welkom op de danswiki!
 
@@ -93,9 +91,7 @@ variaties en tips voor dansers, instructeurs en muzikanten.
 
   - Wals in 14 tijden
 
-Danswiki
 
-![Foto van dansers](media/image1.jpeg)
 
 # Balfolk
 
@@ -122,9 +118,7 @@ meedoen. Dat maakt deze vorm van dansen heel toegankelijk. Iedereen is
 welkom: jong, oud, woest en rustig. Zolang je bij het dansen rekening
 houdt met je mededansers is alles toegestaan!
 
-Danswiki
 
-![Foto van dansers](media/image1.jpeg)
 
 # Danshouding
 
@@ -223,9 +217,7 @@ Open houding, hier moet nog een omschrijving voor komen.
 - Als een man een vrouw naar de vloer begeleidt, of bijvoorbeeld een
   Cercle danst, dan is de hand van de man onder.
 
-Danswiki
 
-![Foto van dansers](media/image1.jpeg)
 
 # Etikette
 
@@ -343,9 +335,7 @@ Danswiki
 - Luister naar wat de andere muzikanten aanbieden. Misschien is het niet
   wat je normaal zou doen, maar het kan toch heel waardevol zijn.
 
-Danswiki
 
-![Foto van dansers](media/image1.jpeg)
 
 # Terminologie
 
@@ -579,9 +569,7 @@ geplaatst.
 
 Hierbij worden de RECHTER voeten met de BUITENKANTEN naast elkaar gezet.
 
-Danswiki
 
-![Foto van dansers](media/image1.jpeg)
 
 # An Dro
 
@@ -689,9 +677,7 @@ het begin van de rij.
 - Val een voor een weg, maar wel in tempo. de dansers kunnen dan het
   ritme nog even volhouden als de muziek al is gestopt.
 
-Danswiki
 
-![Foto van dansers](media/image1.jpeg)
 
 # Bourree
 
@@ -814,9 +800,7 @@ De dans bestaat verder uit een A- en een B-deel:
 
 - La grande potterie
 
-Danswiki
 
-![Foto van dansers](media/image1.jpeg)
 
 # Bourree d’Auvergne
 
@@ -949,9 +933,7 @@ Idem aan de andere kant van de dame.
 Bij een vrijere dans kunnen bijvoorbeeld richtingsveranderingen en
 andere initiatieven aangekondigd worden met een frappé.
 
-Danswiki
 
-![Foto van dansers](media/image1.jpeg)
 
 # Cercle
 
@@ -1073,9 +1055,7 @@ Hoe houd je vast...
 - In C deel: Tijdens het draaien elkaar bij het middel vastpakken voor
   snellere kleinere draaicirkel.
 
-Danswiki
 
-![Foto van dansers](media/image1.jpeg)
 
 # Gavotte
 
@@ -1163,9 +1143,7 @@ Is hetzelfde als deel 1, maar de armen gaan nu meezwaaien (voorste
 danser geeft dit aan). Meestal gaat het tempo van de muziek wat onhoog
 tijdens dit deel.
 
-Danswiki
 
-![Foto van dansers](media/image1.jpeg)
 
 # Gigue (Jig, Chapelloise)
 
@@ -1250,9 +1228,7 @@ Rechterhand heer en linkerhand dame zijn vast, hand van heer is onder)
   slag in en ze lopen nog steeds vooruit en bij het eerste deel van B
   achteruit. In het tweede deel van B volgt een draai 'uit'.
 
-Danswiki
 
-![Foto van dansers](media/image1.jpeg)
 
 # Hanter Dro
 
@@ -1300,9 +1276,7 @@ In 1 of meerdere lange slierten. Mannetje/vrouwtje maakt niet uit
   muzikant) in het midden, die alleen nog maar rondjes op de plaats
   maakt. (erg warm en gezellig)
 
-Danswiki
 
-![Foto van dansers](media/image1.jpeg)
 
 # Laridé
 
@@ -1388,9 +1362,7 @@ In 1 of meerdere lange slierten. Mannetje/vrouwtje maakt niet uit
 - Nog even over die pinken: de palm van je hand wijst omlaag. Je pink
   zit dan dus aan de "buitenkant" van je hand.
 
-Danswiki
 
-![Foto van dansers](media/image1.jpeg)
 
 # Mazurka
 
@@ -1449,9 +1421,7 @@ Half-open houding, gewoon in paren over de dansvloer heen.
 
   - wat je voelt op basis van de muziek
 
-Danswiki
 
-![Foto van dansers](media/image1.jpeg)
 
 # Plinn
 
@@ -1521,9 +1491,7 @@ de partner onder door draaien In het snelle deel kan je je naar elkaar
 toedraaien, lichte spanning in de armen zetten en tegen hoge snelheid al
 plinn-springend rond elkaar draaien.
 
-Danswiki
 
-![Foto van dansers](media/image1.jpeg)
 
 # Polka
 
@@ -1570,9 +1538,7 @@ Heel veel, wees crea! Een kort lijstje:
 - Variaties in ritme: je kan de polkapas afwisselen met de pas van deel
   B van de scottisch, liefst op het einde van een muzikaal deeltje.
 
-Danswiki
 
-![Foto van dansers](media/image1.jpeg)
 
 # Polska
 
@@ -1623,9 +1589,7 @@ Om de stappen in het draaigedeelte goed onder de knie te krijgen, is het
 nuttig om het eerst individueel te oefenen, waarbij je al wel om een
 denkbeeldige partner heen draait.
 
-Danswiki
 
-![Foto van dansers](media/image1.jpeg)
 
 # Rond de Saint Vincent
 
@@ -1677,9 +1641,7 @@ Vooral als je heel snel wilt dansen, maximaal zes personen per kring.
 - Héél snel rondjes draaien. Bij sommige stappen kan de hele groep van
   de grond komen!
 
-Danswiki
 
-![Foto van dansers](media/image1.jpeg)
 
 # Rondo
 
@@ -1720,9 +1682,7 @@ kan komen
 
 Rondeau en couple
 
-Danswiki
 
-![Foto van dansers](media/image1.jpeg)
 
 # Rondeau en Couple
 
@@ -1756,9 +1716,7 @@ Armen in elkaar als in de Hanterdro
 Armzwaai van langs het lichaam naar iets omhoog op elke eerste tel van
 elke maat
 
-Danswiki
 
-![Foto van dansers](media/image1.jpeg)
 
 # Scottisch
 
@@ -1818,9 +1776,7 @@ Gewoon in paren, half-open houding, over de dansvloer heen
   hij bukt zelf meteen onder de armen van de dame uit om haar voor deel
   A weer op te vangen.
 
-Danswiki
 
-![Foto van dansers](media/image1.jpeg)
 
 # Tarantella
 
@@ -1900,9 +1856,7 @@ Dans in vier delen van telkens 16 maten.
 De muziek wordt vlot en fel gespeeld, zorg dus dat je in die cadans
 blijft.
 
-Danswiki
 
-![Foto van dansers](media/image1.jpeg)
 
 # Wals
 
