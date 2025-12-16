@@ -129,8 +129,7 @@ Danswiki
 # Danshouding
 
 ## Inhoud
-
-- Danshouding
+- Samenvatting
 - Half-open
 - Gesloten
 - Open
@@ -587,8 +586,7 @@ Danswiki
 # An Dro
 
 ## Inhoud
-
-- An Dro
+- Samenvatting
 - Opstelling
 - Basis
 - Aanwijzingen
@@ -698,8 +696,7 @@ Danswiki
 # Bourree
 
 ## Inhoud
-
-- Bourree
+- Samenvatting
 - Opstelling
 - Basis
 - Aanwijzingen
@@ -824,8 +821,7 @@ Danswiki
 # Bourree d’Auvergne
 
 ## Inhoud
-
-- Bourree d’Auvergne
+- Samenvatting
 - Opstelling
 - Basis (Pas, Houding, Richtingen, Figuren)
 - Aanwijzingen
@@ -960,8 +956,7 @@ Danswiki
 # Cercle
 
 ## Inhoud
-
-- Cercle
+- Samenvatting
 - Opstelling
 - Basis (A, B, C)
 - Aanwijzingen
@@ -1085,8 +1080,7 @@ Danswiki
 # Gavotte
 
 ## Inhoud
-
-- Gavotte
+- Samenvatting
 - Gavotte de l’Aven
 - Gavotte de Montagnes (Deel 1, 2, 3)
 
@@ -1176,8 +1170,7 @@ Danswiki
 # Gigue (Jig, Chapelloise)
 
 ## Inhoud
-
-- Gigue (Jig, Chapelloise)
+- Samenvatting
 - Opstelling
 - Basis (A, B)
 - Aanwijzingen
@@ -1264,8 +1257,7 @@ Danswiki
 # Hanter Dro
 
 ## Inhoud
-
-- Hanter Dro
+- Samenvatting
 - Opstelling
 - Basis
 - Aanwijzingen
@@ -1315,8 +1307,7 @@ Danswiki
 # Laridé
 
 ## Inhoud
-
-- Laridé
+- Samenvatting
 - Opstelling
 - Basis (Voeten, Armen)
 - Aanwijzingen
@@ -1404,8 +1395,7 @@ Danswiki
 # Mazurka
 
 ## Inhoud
-
-- Mazurka
+- Samenvatting
 - Opstelling
 - Basis
 - Aanwijzingen
@@ -1466,8 +1456,7 @@ Danswiki
 # Plinn
 
 ## Inhoud
-
-- Plinn
+- Samenvatting
 - Opstelling
 - Basis
 - Aanwijzingen
@@ -1539,8 +1528,7 @@ Danswiki
 # Polka
 
 ## Inhoud
-
-- Polka
+- Samenvatting
 - Opstelling
 - Basis
 - Aanwijzingen
@@ -1589,8 +1577,7 @@ Danswiki
 # Polska
 
 ## Inhoud
-
-- Polska
+- Samenvatting
 - Opstelling
 - Basis
 - Aanwijzingen
@@ -1643,8 +1630,7 @@ Danswiki
 # Rond de Saint Vincent
 
 ## Inhoud
-
-- Rond de Saint Vincent
+- Samenvatting
 - Opstelling
 - Basis
 - Aanwijzingen
@@ -1698,8 +1684,7 @@ Danswiki
 # Rondo
 
 ## Inhoud
-
-- Rondo
+- Samenvatting
 - Opstelling
 - Basis
 - Aanwijzingen
@@ -1742,8 +1727,7 @@ Danswiki
 # Rondeau en Couple
 
 ## Inhoud
-
-- Rondeau en Couple
+- Samenvatting
 - Opstelling
 - Basis
 - Aanwijzingen
@@ -1779,8 +1763,7 @@ Danswiki
 # Scottisch
 
 ## Inhoud
-
-- Scottisch
+- Samenvatting
 - Opstelling
 - Basis
 - Variaties
@@ -1842,8 +1825,7 @@ Danswiki
 # Tarantella
 
 ## Inhoud
-
-- Tarantella
+- Samenvatting
 - Opstelling
 - Basis (deel 1..4)
 - Aanwijzingen
@@ -1925,8 +1907,7 @@ Danswiki
 # Wals
 
 ## Inhoud
-
-- Wals
+- Samenvatting
 - Opstelling
 - Basis
 - Aanwijzingen
