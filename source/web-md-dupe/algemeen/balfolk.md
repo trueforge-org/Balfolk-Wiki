@@ -1,2 +1,0 @@
-<!-- source: algemeen/balfolk.html -->
-
