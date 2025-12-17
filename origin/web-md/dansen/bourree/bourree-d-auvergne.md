@@ -8,7 +8,7 @@ De moeder van alle bourrées
 
 In koppel: verspreid over de ruimte, handen los, naast elkaar.
 
-Heer staat links, dame rechts van de heer. Rechterschouders naar elkaar; dame en heer kijken dus in tegengestelde richting. In feite staat de heer ook rechts van de dame.
+Leider staat links, Volger rechts van de Leider. Rechterschouders naar elkaar; Volger en Leider kijken dus in tegengestelde richting. In feite staat de Leider ook rechts van de Volger.
 
 #### Basis
 
@@ -41,7 +41,7 @@ Officieel is niets vastgelegd, maar als houvast kan de volgende volgorde dienen 
 
 **Banaan**
 
-Heer en dame schuiven vier maten voor elkaar langs naar rechts waarbij kijkrichting, schouders en heupen op dezelfde lijn blijven (frontaal naar partner).
+Leider en Volger schuiven vier maten voor elkaar langs naar rechts waarbij kijkrichting, schouders en heupen op dezelfde lijn blijven (frontaal naar partner).
 
 Na vier maten van richting veranderen en op de volgende vier maten weer terug naar de beginpositie.
 
@@ -49,9 +49,9 @@ De figuur die op de grond wordt afgelegd is banaanvormig, vandaar de naam “ban
 
 **Rond**
 
-Heer en dame cirkelen om elkaar heen, richting is niet vastgelegd. Er mag ook van richting gewisseld worden.
+Leider en Volger cirkelen om elkaar heen, richting is niet vastgelegd. Er mag ook van richting gewisseld worden.
 
-Heer of dame kan bovendien om eigen as draaien; ook hier is de richting niet vastgelegd.
+Leider of Volger kan bovendien om eigen as draaien; ook hier is de richting niet vastgelegd.
 
 Te doen gebruikelijk is wel dat de asdraaiende tegengesteld draait aan de paar-draai.
 
@@ -89,7 +89,7 @@ Voorbeeld: stel je bent de banaan begonnen met L. Dan zou je het volgende kunnen
 
 En vervolgens met L weer op de terugweg naar links
 
-Idem aan de andere kant van de dame.
+Idem aan de andere kant van de Volger.
 
 Bij een vrijere dans kunnen bijvoorbeeld richtingsveranderingen en andere initiatieven aangekondigd worden met een frappé.
 

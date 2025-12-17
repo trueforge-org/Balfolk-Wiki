@@ -6,10 +6,10 @@ draft: false
 
 is een "suite" die bestaat uit drie delen.
 
-Traditioneel een parendans in een gesloten kring waarbij elke heer zijn
-dame aan zijn rechterkant heeft staan.
+Traditioneel een parendans in een gesloten kring waarbij elke Leider zijn
+Volger aan zijn rechterkant heeft staan.
 
-Tegenwoordig (balfolk) meestal een rij waarbij dame/heer niet meer uit
+Tegenwoordig (balfolk) meestal een rij waarbij Volger/Leider niet meer uit
 maakt.
 
 ## Deel 1: Ton Simpl

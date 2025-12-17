@@ -40,10 +40,10 @@ midden.
     de vrouw heen, om de eerste halve draai goed te maken. De tweede
     maat zet de vrouw haar rechterbeen echt om het linkerbeen van de man
     heen, en zet deze draai dus in. Je eindigt met de vrouw aan de
-    binnenkant, de heer aan de buitenkant.
+    binnenkant, de Leider aan de buitenkant.
 
   - Na twee maten ben je dan helemaal rond en kun je weer opnieuw
-    verder. Je staan nu weer met de heer aan de binnenkant, vrouw aan de
+    verder. Je staan nu weer met de Leider aan de binnenkant, vrouw aan de
     buitenkant.
 
 - Als je nog niet als een gek rondjes draait in de dansrichting,
@@ -81,8 +81,8 @@ Je staat in half-open houding, ergens op de dansvloer. De paren die snel willen 
 * Er kunnen rondjes met de klok mee gedraaid worden. Dit kan gewoon heel rustig gebeuren.
 * Het is ook mogelijk om per maat een halve draai te maken.
 
-  + De eerste maat zet de man het linkerbeen echt om het rechterbeen van de vrouw heen, om de eerste halve draai goed te maken. De tweede maat zet de vrouw haar rechterbeen echt om het linkerbeen van de man heen, en zet deze draai dus in. Je eindigt met de vrouw aan de binnenkant, de heer aan de buitenkant.
-  + Na twee maten ben je dan helemaal rond en kun je weer opnieuw verder. Je staan nu weer met de heer aan de binnenkant, vrouw aan de buitenkant.
+  + De eerste maat zet de man het linkerbeen echt om het rechterbeen van de vrouw heen, om de eerste halve draai goed te maken. De tweede maat zet de vrouw haar rechterbeen echt om het linkerbeen van de man heen, en zet deze draai dus in. Je eindigt met de vrouw aan de binnenkant, de Leider aan de buitenkant.
+  + Na twee maten ben je dan helemaal rond en kun je weer opnieuw verder. Je staan nu weer met de Leider aan de binnenkant, vrouw aan de buitenkant.
 * Als je nog niet als een gek rondjes draait in de dansrichting, verplaats je dan naar het midden van de vloer. Doe dit ook als je rare figuren wil doen waardoor je even stil komt te staan
 
 #### Variaties

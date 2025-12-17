@@ -16,18 +16,18 @@ Flankkring van paren.
 
 De paren staan 'in optocht' achter elkaar in een grote kring.
 
-Heer en dame kijken beide in tegenklokrichting.
+Leider en Volger kijken beide in tegenklokrichting.
 
-Heren aan de binnenkant van de cirkel, dame aan de buitenkant.
+Heren aan de binnenkant van de cirkel, Volger aan de buitenkant.
 
-Rechterhand heer en linkerhand dame zijn vast, hand van heer is onder)
+Rechterhand Leider en linkerhand Volger zijn vast, hand van Leider is onder)
 
 ## Basis
 
 ### A
 
-- **I**: vooruitlopen 4 passen - draai om (linkerhand heer is nu vast
-  met rechter­hand dame) en ga achteruit  door 4 passen (nog steeds tegen
+- **I**: vooruitlopen 4 passen - draai om (linkerhand Leider is nu vast
+  met rechter­hand Volger) en ga achteruit  door 4 passen (nog steeds tegen
   de klok in).
 
 - **II**: vooruit teruglopen 4 passen - draai om en ga achteruit door 4
@@ -39,17 +39,17 @@ Rechterhand heer en linkerhand dame zijn vast, hand van heer is onder)
   looppassen van plaats wisselen
 
 - **IV**:Set-pas naar elkaar toe - idem uit elkaar- draai door (heren
-  laten de dames onder hun linkerarm door naar achter gaan, door met de
+  laten de Volgers onder hun linkerarm door naar achter gaan, door met de
   linkerhand een hoge poort te maken en naar links te bewegen zodat de
-  dame schuin rechts naar achteren begeleid wordt, terwijl ze zelf
-  schuin links naar voren stappen om de nieuwe dame op te vangen aan hun
+  Volger schuin rechts naar achteren begeleid wordt, terwijl ze zelf
+  schuin links naar voren stappen om de nieuwe Volger op te vangen aan hun
   rechterhand die van voren eraan komt)
 
 ## Aanwijzingen
 
 - kijk je partner aan!
 
-- dame legt de hand op die van de heer
+- Volger legt de hand op die van de Leider
 
 - evt.: vrije hand in je zij zetten
 
@@ -74,7 +74,7 @@ Rechterhand heer en linkerhand dame zijn vast, hand van heer is onder)
 
 - Bij naar elkaar toe springen kwartslag gedraaid zijn naar elkaar toe.
 
-- Halverwege I draait de heer de dame met één of twee handen een hele
+- Halverwege I draait de Leider de Volger met één of twee handen een hele
   slag in en ze lopen nog steeds vooruit en bij het eerste deel van B
   achteruit. In het tweede deel van B volgt een draai 'uit'.
 

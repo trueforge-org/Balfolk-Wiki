@@ -16,7 +16,7 @@ In de meest gedanste versie staan dansparen opgesteld in rijen tegenover elkaar,
 
 #### Basis
 
-De basis om een bourree mee te kunnen dansen bestaat uit een **vereenvoudigde** bourreepas (de passen voor de dame en heer zijn in de bourree gelijk):
+De basis om een bourree mee te kunnen dansen bestaat uit een **vereenvoudigde** bourreepas (de passen voor de Volger en Leider zijn in de bourree gelijk):
 
 * Bourreepas vooruit
 
@@ -35,8 +35,8 @@ De dans bestaat verder uit een A- en een B-deel:
   + Bourreepas achteruit (6 tellen)
 * **B** (4 maal) (nu beginnen met de linkerschouder naar elkaar):
 
-  + Bourreepas vooruit, maar met een kwartdraai naar links zodat de dame en heer tegenover elkaar staan (6 tellen)
-  + Bourreepas vooruit, waarbij om de rechterschouder wordt gedraaid tot de dame en heer van plaats zijn gewisseld en weer met de linkerschouder naar elkaar staan (6 tellen)
+  + Bourreepas vooruit, maar met een kwartdraai naar links zodat de Volger en Leider tegenover elkaar staan (6 tellen)
+  + Bourreepas vooruit, waarbij om de rechterschouder wordt gedraaid tot de Volger en Leider van plaats zijn gewisseld en weer met de linkerschouder naar elkaar staan (6 tellen)
 
 #### Aanwijzingen
 
@@ -97,7 +97,7 @@ elkaar, op een afstand dat ze elkaars handen kunnen aanraken.
 ## Basis
 
 De basis om een bourree mee te kunnen dansen bestaat uit een
-vereenvoudigde bourreepas (de passen voor de dame en heer zijn in de
+vereenvoudigde bourreepas (de passen voor de Volger en Leider zijn in de
 bourree gelijk):
 
 - Bourreepas vooruit
@@ -126,11 +126,11 @@ De dans bestaat verder uit een A- en een B-deel:
 
 - **B** (4 maal) (nu beginnen met de linkerschouder naar elkaar):
 
-  - Bourreepas vooruit, maar met een kwartdraai naar links zodat de dame
-    en heer tegenover elkaar staan (6 tellen)
+  - Bourreepas vooruit, maar met een kwartdraai naar links zodat de Volger
+    en Leider tegenover elkaar staan (6 tellen)
 
   - Bourreepas vooruit, waarbij om de rechterschouder wordt gedraaid tot
-    de dame en heer van plaats zijn gewisseld en weer met de
+    de Volger en Leider van plaats zijn gewisseld en weer met de
     linkerschouder naar elkaar staan (6 tellen)
 
 ## Aanwijzingen

@@ -10,7 +10,7 @@ Iedereen in 1 of meerdere lange slierten. Waar mannen en vrouwen in de rij staan
 
 #### Basis
 
-* Volg-de-leider: houdt elkaar vast bij de pinken, palm van de hand wijst omlaag. Je haakt je pink in de pink van de persoon naast je. Ook al hebben alleen de pinken elkaar vast, de hele onderarm houdt contact. Op die manier 'verlies' je elkaar niet. De leider en laatste kunnen de vrije arm op de rug doen. In Bretagne wordt dit heel vaak ook niet gedaan. Voor dames: mocht je iets met de vrije arm willen doen, pak dan je rok in je hand. De hand op de rug is traditioneel iets voor mannen.
+* Volg-de-leider: houdt elkaar vast bij de pinken, palm van de hand wijst omlaag. Je haakt je pink in de pink van de persoon naast je. Ook al hebben alleen de pinken elkaar vast, de hele onderarm houdt contact. Op die manier 'verlies' je elkaar niet. De leider en laatste kunnen de vrije arm op de rug doen. In Bretagne wordt dit heel vaak ook niet gedaan. Voor Volgers: mocht je iets met de vrije arm willen doen, pak dan je rok in je hand. De hand op de rug is traditioneel iets voor mannen.
 * Verplaatsingsrichting is naar links, kijkrichting is vooruit. Je beweegt dus zijwaarts, en altijd alleen naar links.
 * Patroon voeten van 2x vier tellen (dus twee maten):
 
@@ -21,7 +21,7 @@ Iedereen in 1 of meerdere lange slierten. Waar mannen en vrouwen in de rij staan
 #### Aanwijzingen
 
 * Bij de start van de uitleg: nog niet de handbeweging, maar de armen gewoon losjes naar beneden laten hangen
-* Dames en heren, denk even na of er ringen om de ringvinger zitten die misschien danspartners pijn kunnen doen. Zo ja, even verplaatsen. Kleine moeite en echt heel erg veel meer dansplezier.
+* Volgers en heren, denk even na of er ringen om de ringvinger zitten die misschien danspartners pijn kunnen doen. Zo ja, even verplaatsen. Kleine moeite en echt heel erg veel meer dansplezier.
 * Niet te hard knijpen!
 * Rustig in de swing van het liedje blijven.
 * De eerste stap naar links een beetje nadruk en zwier geven

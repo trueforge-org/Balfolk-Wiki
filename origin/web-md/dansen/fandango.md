@@ -4,7 +4,7 @@
 
 #### Opstelling
 
-heer en dame tegenover elkaar
+Leider en Volger tegenover elkaar
 
 of
 

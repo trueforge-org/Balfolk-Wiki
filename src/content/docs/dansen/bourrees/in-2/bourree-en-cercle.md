@@ -20,7 +20,7 @@ De pas is de basispas van de bourrée, maar wel in de épaule-variant: tijdens d
 
 ### Tips voor muzikanten
 
-* Deze dans is heerlijk om akoestisch midden op de dansvloer te spelen, aan het eind van een lang en laat optreden
+* Deze dans is Leiderlijk om akoestisch midden op de dansvloer te spelen, aan het eind van een lang en laat optreden
 
 ### Voorbeeld muziekjes en filmpjes
 

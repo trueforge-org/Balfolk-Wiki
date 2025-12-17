@@ -14,7 +14,7 @@ Half-open houding, gewoon in paren over de dansvloer heen.
 
 ## Basis
 
-- De dame begint rechts, de heer links
+- De Volger begint rechts, de Leider links
 
 - De dans bestaat uit een afwisseling van een mazurka-maat en een
   wals-maat
@@ -66,7 +66,7 @@ Half-open houding, gewoon in paren over de dansvloer heen.
 
 #### Basis
 
-* De dame begint rechts, de heer links
+* De Volger begint rechts, de Leider links
 * De dans bestaat uit een afwisseling van een mazurka-maat en een wals-maat
 
   + **Mazurka**: 1-2-wacht

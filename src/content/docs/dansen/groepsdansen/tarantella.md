@@ -42,8 +42,8 @@ Dans in vier delen van telkens 16 maten.
 - **deel 2**: knieval en draai
 
   - **maat 1-4 (of A-deel melodie 2)**
-    Heer valt op de linkerknie voor zijn dame en leidt haar linksom rond
-    hem. Dame in Schotse pas rond
+    Leider valt op de linkerknie voor zijn Volger en leidt haar linksom rond
+    hem. Volger in Schotse pas rond
 
   - **maat 5-8 (of B-deel melodie 2)**
     naast elkaar, binnenhanden vast, stap-kick met buitenvoet, idem met
@@ -104,7 +104,7 @@ In koppels tegenover elkaar dwars op de kringlijn; in balfolk vaak gewoon in kop
 * **deel 2: knieval en draai**
 
 * **maat 1-4 (of A-deel melodie 2)**
-* Heer valt op de linkerknie voor zijn dame en leidt haar **linksom** rond hem. Dame in Schotse pas rond \*
+* Leider valt op de linkerknie voor zijn Volger en leidt haar **linksom** rond hem. Volger in Schotse pas rond \*
 * **maat 5-8 (of B-deel melodie 2)**
 * **naast elkaar**, binnenhanden vast, stap-kick met buitenvoet, idem met binnenvoet;
 * individueel hele draai rond buitenom

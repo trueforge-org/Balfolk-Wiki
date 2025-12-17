@@ -20,7 +20,7 @@ steeds anders is en je vrij bent te variëren met de passen als je dat
 wilt, elke danspartner weer anders is en zelfs je eigen bui van bal tot
 bal verschilt is echt elke dans anders! Al snel ontdek je de
 oneindigheid aan variaties die voor je open ligt; dit komt steeds meer
-binnen je bereik naarmate je de basis beter beheerst.
+binnen je bereik naarmate je de basis beter beLeiderst.
 
 Juist omdat de basis niet al te ingewikkeld is kunnen beginners meteen
 meedoen. Dat maakt deze vorm van dansen heel toegankelijk. Iedereen is
