@@ -17,23 +17,23 @@
     "astro-windows": "set NODE_OPTIONS=--max-old-space-size=22000 && astro"
   },
   "dependencies": {
-    "@astrojs/check": "0.9.5",
+    "@astrojs/check": "0.9.6",
     "@astrojs/sitemap": "3.6.0",
-    "@astrojs/starlight": "0.36.2",
+    "@astrojs/starlight": "0.37.1",
     "@astrojs/starlight-tailwind": "4.0.2",
     "@playform/compress": "0.2.0",
-    "@tailwindcss/postcss": "4.1.17",
-    "astro": "5.15.5",
+    "@tailwindcss/postcss": "4.1.18",
+    "astro": "5.16.6",
     "astro-better-image-service": "2.1.10",
     "astro-robots-txt": "1.0.0",
-    "autoprefixer": "10.4.22",
+    "autoprefixer": "10.4.23",
     "postcss": "8.5.6",
-    "prettier": "3.6.2",
+    "prettier": "3.7.4",
     "sharp": "0.34.5",
     "starlight-image-zoom": "0.13.2",
-    "starlight-links-validator": "0.19.1",
-    "tailwindcss": "4.1.17",
+    "starlight-links-validator": "0.19.2",
+    "tailwindcss": "4.1.18",
     "typescript": "5.9.3",
-    "wrangler": "4.48.0"
+    "wrangler": "4.55.0"
   }
 }
