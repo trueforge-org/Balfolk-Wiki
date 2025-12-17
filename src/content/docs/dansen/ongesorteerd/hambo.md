@@ -1,6 +1,26 @@
----
 title: "hambo"
 description: ""
 draft: false
 ---
 
+:::warning
+
+Dit bestand is aangevuld middels AI.
+Ga er vanuit dat alles hierin onzin is, tenzij bevestigd middels een andere bron.
+
+Hulp met aanvullen en verbetering word gewaardeerd!
+
+:::
+
+
+
+
+`Hambo` is een Scandinavische koppeldans, wordt soms in folk-contexten opgenomen als solo- of koppelige dans.
+
+- Herkomst: Scandinavië, populair in Zweden.
+- Maat/ritme: doorgaans 4/4, langzaam tot matig tempo.
+- Formatie: koppels.
+
+Basis: gestage stappen en draaien met nadruk op het ritme.
+
+Tips: houd contact met je partner en werk aan vloeiende overgangen.

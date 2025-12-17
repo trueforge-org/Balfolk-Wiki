@@ -5,4 +5,24 @@ draft: false
 ---
 
 <!-- source: dansen/polska_slaengpolska.html -->
-De pagina over dit onderwerp bestaat nog niet. Aanmaken kan door op de `Maak deze pagina aan` te klikken.
+
+:::warning
+
+Dit bestand is aangevuld middels AI.
+Ga er vanuit dat alles hierin onzin is, tenzij bevestigd middels een andere bron.
+
+Hulp met aanvullen en verbetering word gewaardeerd!
+
+:::
+
+
+
+`Slaengpolska` is een regionale polska-variant met karakteristieke slingeringen of accenten.
+
+- Herkomst: Noord-Europese polska-tradities, lokaal aangepast.
+- Maat/ritme: polska-achtig (3/4) of verwante maatsoort.
+- Formatie: koppels.
+
+Basis: polska-stappen met specifieke slingeringen of draai-elementen.
+
+Tips: oefen balans en partnercoördinatie bij slingeringen.
