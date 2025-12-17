@@ -2,6 +2,7 @@
 title: "Welkom op de danswiki!"
 description: ""
 draft: false
+template: splash
 ---
 
 Deze wiki bevat informatie over verschillende balfolk dansen, hun
