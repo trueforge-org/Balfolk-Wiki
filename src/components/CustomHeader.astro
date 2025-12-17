@@ -51,7 +51,7 @@ import ImageZoom from "starlight-image-zoom/components/ImageZoom.astro";
   .separator {
     width: 1px;
     height: 1.5rem;
-    background-color: var(--sl-color-gray-5);
+    background-color: var(--sl-color-accent, #c64533);
     margin-inline: 0.375rem; /* half the previous margin */
   }
 
@@ -78,7 +78,7 @@ import ImageZoom from "starlight-image-zoom/components/ImageZoom.astro";
   .social-icons::after {
     content: "";
     height: 2rem;
-    border-inline-end: 1px solid var(--sl-color-gray-5);
+    border-inline-end: 1px solid var(--sl-color-accent, #c64533);
   }
 
   @media (min-width: 50rem) {
