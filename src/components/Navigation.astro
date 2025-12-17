@@ -2,7 +2,7 @@
 import { Icon } from "@astrojs/starlight/components";
 import "../styles/global.css";
 
-type IconName = "rss" | "star" | "open-book" | "rocket";
+type IconName = "rss" | "star" | "open-book" | "rocket" | "information" | "add-document" | "external";
 
 type Link = {
   name: string;
@@ -32,7 +32,7 @@ const { pathname } = Astro.url;
       return (
         <a
           class={`link-no-deco flex flex-row items-center gap-1 border-tc-primary transition-all relative z-10
-            ${isActive ? "scale-110 border-b-4" : "hover:scale-110 hover:border-b-4"}`}
+            ${isActive ? "scale-110 border-b-2" : "hover:scale-110 hover:border-b-2"}`}
           href={link.href}
           data-astro-prefetch="load"
           style={`border-bottom-color: var(--sl-color-accent, #c64533)`}
@@ -56,10 +56,16 @@ const { pathname } = Astro.url;
   <a
     href="https://balfolk.nl"
     class="ml-2 inline-flex items-center px-3 py-1 rounded text-white font-bold transition-all hover:opacity-90"
-    style={`background-color: var(--sl-color-accent, #c64533)`}
+    style={`background-color: var(--sl-color-accent, #c64533); gap: 0.2rem; padding-right: 0.5rem;`}
     target="_blank"
     rel="noopener noreferrer"
   >
     Balfolk.nl
+    <Icon
+      class="w-3 h-3 transform -translate-y-1"
+      name={"external" as any}
+      aria-hidden="true"
+    />
+    <span class="sr-only">Opens in a new tab</span>
   </a>
 </div>
