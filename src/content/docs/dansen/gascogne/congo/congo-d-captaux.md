@@ -22,4 +22,4 @@ draft: false
 Basis: herhalende stappen met accent op de maat; regionale varianten bestaan.
 
 Bronnen:
-- Nog te verifiëren — voeg betrouwbare bronnen toe.
+

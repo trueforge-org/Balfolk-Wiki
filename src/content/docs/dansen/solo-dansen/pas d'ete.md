@@ -21,4 +21,4 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 Basis: eenvoudige stapcombinaties, vaak licht en vloeiend.
 
 Bronnen:
-- Nog te verifiëren — voeg betrouwbare bronnen toe.
+

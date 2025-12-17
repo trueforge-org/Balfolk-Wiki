@@ -21,4 +21,4 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 Basis: gelijkmatige stappen zoals marcheren; eenvoudig en ritmisch.
 
 Bronnen:
-- Nog te verifiëren — voeg betrouwbare bronnen toe.
+

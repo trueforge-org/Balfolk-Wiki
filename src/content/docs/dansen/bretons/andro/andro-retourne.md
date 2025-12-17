@@ -22,4 +22,4 @@ draft: false
 Basis: loopstapjes met regelmatig heen-en-weer bewegen; bij de retourné wordt de richting of figuur omgedraaid.
 
 Bronnen:
-- Nog te verifiëren — voeg betrouwbare bronnen toe.
+

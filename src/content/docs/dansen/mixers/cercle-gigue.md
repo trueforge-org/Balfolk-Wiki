@@ -21,4 +21,4 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 Basis: sprankelende stappen en sprongen, met gedeelde wisselingen.
 
 Bronnen:
-- Nog te verifiëren — voeg betrouwbare bronnen toe.
+

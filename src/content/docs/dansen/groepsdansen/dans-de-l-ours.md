@@ -22,4 +22,4 @@ draft: false
 Basis: eenvoudige groepsbewegingen en voorstellingen; kan elementen van rollen en acteren bevatten.
 
 Bronnen:
-- Nog te verifiëren — voeg betrouwbare bronnen toe.
+

@@ -21,4 +21,4 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 Basis: korte sprongen of figuren; bevestig details bij lokale bronnen.
 
 Bronnen:
-- Nog te verifiëren — voeg betrouwbare bronnen toe.
+

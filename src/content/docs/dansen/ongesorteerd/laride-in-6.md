@@ -21,4 +21,4 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 Basis: herhalende stappen verdeeld over zes tellen; luister naar de muzikale frase.
 
 Bronnen:
-- Nog te verifiëren — voeg betrouwbare bronnen toe.
+

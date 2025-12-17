@@ -21,4 +21,4 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 Basis: eenvoudige passen en wendingen, passend bij beperkte ruimte.
 
 Bronnen:
-- Nog te verifiëren — voeg betrouwbare bronnen toe.
+

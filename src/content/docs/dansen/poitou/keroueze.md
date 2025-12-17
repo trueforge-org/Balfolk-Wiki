@@ -21,4 +21,4 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 Basis: eenvoudige herhalende stappen; raadpleeg lokale bronnen voor details.
 
 Bronnen:
-- Nog te verifiëren — voeg betrouwbare bronnen toe.
+

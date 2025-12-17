@@ -22,4 +22,4 @@ draft: false
 Basis: korte stapjes en terugkerende figuren die makkelijk aan te leren zijn.
 
 Bronnen:
-- Nog te verifiëren — voeg betrouwbare bronnen toe.
+

@@ -21,4 +21,4 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 Basis: opeenvolgende plinn-delen met dynamische sprongen.
 
 Bronnen:
-- Nog te verifiëren — voeg betrouwbare bronnen toe.
+

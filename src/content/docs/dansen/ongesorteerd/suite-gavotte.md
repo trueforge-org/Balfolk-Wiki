@@ -21,4 +21,4 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 Basis: gavotte-stappen en korte herhalingen.
 
 Bronnen:
-- Nog te verifiëren — voeg betrouwbare bronnen toe.
+

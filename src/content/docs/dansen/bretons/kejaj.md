@@ -22,4 +22,4 @@ draft: false
 Basis: herhalende stappatronen en eenvoudige overgangen; aandacht voor samenhang in de lijn.
 
 Bronnen:
-- Nog te verifiëren — voeg betrouwbare bronnen toe.
+

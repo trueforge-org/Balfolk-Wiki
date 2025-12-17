@@ -21,4 +21,4 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 Basis: drie opeenvolgende figuren met wisselingen tussen de paren.
 
 Bronnen:
-- Nog te verifiëren — voeg betrouwbare bronnen toe.
+

@@ -23,4 +23,4 @@ De Kadootjesbourrée is een speelse variant van de bourrée, vaak met kleine fig
 Basis: korte stappen, vaak afgewisseld met speelse arm- of handgebaren.
 
 Bronnen:
-- Nog te verifiëren — voeg betrouwbare bronnen toe.
+

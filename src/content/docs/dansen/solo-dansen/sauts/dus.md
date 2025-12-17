@@ -21,4 +21,4 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 Basis: eenvoudige sprongen en accenten.
 
 Bronnen:
-- Nog te verifiëren — voeg betrouwbare bronnen toe.
+

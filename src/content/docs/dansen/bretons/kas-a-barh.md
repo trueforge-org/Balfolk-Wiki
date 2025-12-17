@@ -22,4 +22,4 @@ draft: false
 Basis: eenvoudige stappen, afgewisseld met korte figuren en wendingen.
 
 Bronnen:
-- Nog te verifiëren — voeg betrouwbare bronnen toe.
+

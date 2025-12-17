@@ -25,4 +25,4 @@ Basisstappen:
 - Eenvoudige figuren en herhalingen, geschikt voor beginnende dansers.
 
 Bronnen:
-- Nog te verifiëren — voeg betrouwbare bronnen toe.
+

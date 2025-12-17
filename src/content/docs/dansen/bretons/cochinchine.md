@@ -22,4 +22,4 @@ Cochinchine is een traditionele Bretonse dans met een sterk ritmisch karakter en
 Basis: herhalende stappen en eenvoudige wendingen; nadruk op ritme en samen bewegen.
 
 Bronnen:
-- Nog te verifiëren — voeg betrouwbare bronnen toe.
+

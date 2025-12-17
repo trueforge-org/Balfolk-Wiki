@@ -21,4 +21,4 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 Basis: typische hanter-dro stappen aangepast naar partnerwerk, met gezamenlijke wendingen.
 
 Bronnen:
-- Nog te verifiëren — voeg betrouwbare bronnen toe.
+

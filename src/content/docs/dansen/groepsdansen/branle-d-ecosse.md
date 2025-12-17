@@ -22,4 +22,4 @@ draft: false
 Basis: eenvoudige stappen en wendingen met accent op gezamenlijke uitvoering.
 
 Bronnen:
-- Nog te verifiëren — voeg betrouwbare bronnen toe.
+

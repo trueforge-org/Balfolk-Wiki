@@ -21,4 +21,4 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 Basis: herhalende stappen met nadruk op gelijkmatig tempo en gezamenlijke uitvoering.
 
 Bronnen:
-- Nog te verifiëren — voeg betrouwbare bronnen toe.
+

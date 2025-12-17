@@ -41,7 +41,7 @@ for f in files:
         # append placeholder at end with one blank line before
         if not content.endswith('\n') and len(content) > 0:
             content += '\n'
-        content += '\nBronnen:\n- Nog te verifiëren — voeg betrouwbare bronnen toe.\n'
+        content += '\nBronnen:\n\n'
         changed = True
 
     if changed:

@@ -21,4 +21,4 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 Basis: mazurka-stappen (accent op de tweede tel) met onregelmatige tussenpassen; oefen tellen en accenten.
 
 Bronnen:
-- Nog te verifiëren — voeg betrouwbare bronnen toe.
+

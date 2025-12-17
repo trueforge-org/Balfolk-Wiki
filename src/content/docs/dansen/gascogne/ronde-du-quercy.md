@@ -22,4 +22,4 @@ draft: false
 Basis: herhalende passen en eenvoudige wendingen, vaak met een zachte, ritmische pas.
 
 Bronnen:
-- Nog te verifiëren — voeg betrouwbare bronnen toe.
+

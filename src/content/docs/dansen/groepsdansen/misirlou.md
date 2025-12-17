@@ -22,4 +22,4 @@ draft: false
 Basis: snelle, staccato bewegingen of stappen afgestemd op het aanstekelijke ritme.
 
 Bronnen:
-- Nog te verifiëren — voeg betrouwbare bronnen toe.
+

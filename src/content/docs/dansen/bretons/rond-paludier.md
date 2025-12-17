@@ -22,4 +22,4 @@ draft: false
 Basis: eenvoudige stappen en wendingen, geschikt voor groepsdans.
 
 Bronnen:
-- Nog te verifiëren — voeg betrouwbare bronnen toe.
+

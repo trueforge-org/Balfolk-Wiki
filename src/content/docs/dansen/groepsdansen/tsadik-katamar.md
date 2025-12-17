@@ -21,4 +21,4 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 Basis: herhalende stappen en eenvoudige wendingen met nadruk op ritme.
 
 Bronnen:
-- Nog te verifiëren — voeg betrouwbare bronnen toe.
+

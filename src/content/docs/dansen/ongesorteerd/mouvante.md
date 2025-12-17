@@ -21,4 +21,4 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 Basis: variabele figuren en beweging; volg de wisselingen nauwkeurig.
 
 Bronnen:
-- Nog te verifiëren — voeg betrouwbare bronnen toe.
+

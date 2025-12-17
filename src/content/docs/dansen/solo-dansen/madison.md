@@ -21,4 +21,4 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 Basis: herhalende figuren en instructies van een caller.
 
 Bronnen:
-- Nog te verifiëren — voeg betrouwbare bronnen toe.
+

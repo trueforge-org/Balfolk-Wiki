@@ -21,4 +21,4 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 Basis: korte sprongen, accents en mogelijke theatrale elementen.
 
 Bronnen:
-- Nog te verifiëren — voeg betrouwbare bronnen toe.
+

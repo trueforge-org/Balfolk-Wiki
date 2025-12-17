@@ -21,4 +21,4 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 Basis: polka-stappen met korte, scherpe accenten en sprongen.
 
 Bronnen:
-- Nog te verifiëren — voeg betrouwbare bronnen toe.
+

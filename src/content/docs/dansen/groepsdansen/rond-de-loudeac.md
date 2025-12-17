@@ -21,4 +21,4 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 Basis: basisstappen en kleine wendingen; nadruk op groepssamenhang.
 
 Bronnen:
-- Nog te verifiëren — voeg betrouwbare bronnen toe.
+

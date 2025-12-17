@@ -22,4 +22,4 @@ draft: false
 Basis: herhalende stappen (stap-stap-branle), vaak met karakteristieke voetplaatsing.
 
 Bronnen:
-- Nog te verifiëren — voeg betrouwbare bronnen toe.
+

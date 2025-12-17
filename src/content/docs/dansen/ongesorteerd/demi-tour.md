@@ -21,4 +21,4 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 Basis: draai van een halve omkering binnen een figuur.
 
 Bronnen:
-- Nog te verifiëren — voeg betrouwbare bronnen toe.
+

@@ -21,4 +21,4 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 Basis: sociale dansfiguren, soms regionale varianten van bekende dansvormen.
 
 Bronnen:
-- Nog te verifiëren — voeg betrouwbare bronnen toe.
+

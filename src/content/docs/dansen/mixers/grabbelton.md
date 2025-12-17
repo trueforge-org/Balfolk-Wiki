@@ -21,4 +21,4 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 Basis: korte instructies of figuren die leiden tot veel wisselingen en interactie.
 
 Bronnen:
-- Nog te verifiëren — voeg betrouwbare bronnen toe.
+

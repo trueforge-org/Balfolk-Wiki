@@ -22,4 +22,4 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 Basis: polska-stappen met extra sprongen en accenten.
 
 Bronnen:
-- Nog te verifiëren — voeg betrouwbare bronnen toe.
+

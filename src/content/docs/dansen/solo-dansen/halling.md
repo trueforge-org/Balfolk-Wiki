@@ -21,4 +21,4 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 Basis: hoge sprongen, knieheffen en dynamische passen.
 
 Bronnen:
-- Nog te verifiëren — voeg betrouwbare bronnen toe.
+

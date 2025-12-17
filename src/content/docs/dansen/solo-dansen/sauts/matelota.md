@@ -21,4 +21,4 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 Basis: sprongen en ritmische accenten, thematisch maritiem.
 
 Bronnen:
-- Nog te verifiëren — voeg betrouwbare bronnen toe.
+

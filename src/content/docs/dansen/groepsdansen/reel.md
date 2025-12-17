@@ -22,4 +22,4 @@ draft: false
 Basis: patroon van stappen en wendingen met veel wissels; kenmerkend is de opzwepende ritmiek.
 
 Bronnen:
-- Nog te verifiëren — voeg betrouwbare bronnen toe.
+

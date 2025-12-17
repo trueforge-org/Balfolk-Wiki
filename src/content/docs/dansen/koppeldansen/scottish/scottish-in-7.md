@@ -21,4 +21,4 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 Basis: scottish-figuren verdeeld over 7-tellingen; oefen secties apart.
 
 Bronnen:
-- Nog te verifiëren — voeg betrouwbare bronnen toe.
+

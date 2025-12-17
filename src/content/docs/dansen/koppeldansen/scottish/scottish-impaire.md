@@ -21,4 +21,4 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 Basis: scottish-achtige stappen met afwisselende figuren en partnerwissels.
 
 Bronnen:
-- Nog te verifiëren — voeg betrouwbare bronnen toe.
+

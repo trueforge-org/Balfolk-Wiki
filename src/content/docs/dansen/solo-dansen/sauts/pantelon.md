@@ -21,4 +21,4 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 Basis: sprongen en korte dynamische figuren.
 
 Bronnen:
-- Nog te verifiëren — voeg betrouwbare bronnen toe.
+

@@ -21,4 +21,4 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 Basis: herhalende stappen verdeeld over vijf tellen; tel geduldig.
 
 Bronnen:
-- Nog te verifiëren — voeg betrouwbare bronnen toe.
+

@@ -21,4 +21,4 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 Basis: gestage stappen en draaien met nadruk op het ritme.
 
 Bronnen:
-- Nog te verifiëren — voeg betrouwbare bronnen toe.
+

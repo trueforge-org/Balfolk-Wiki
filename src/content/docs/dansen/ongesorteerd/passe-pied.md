@@ -21,4 +21,4 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 Basis: korte, staccato stappen; vaak speels van karakter.
 
 Bronnen:
-- Nog te verifiëren — voeg betrouwbare bronnen toe.
+

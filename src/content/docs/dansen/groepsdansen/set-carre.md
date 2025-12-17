@@ -21,4 +21,4 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 Basis: figuren van partners wisselen, promenade, en set-figuren.
 
 Bronnen:
-- Nog te verifiëren — voeg betrouwbare bronnen toe.
+

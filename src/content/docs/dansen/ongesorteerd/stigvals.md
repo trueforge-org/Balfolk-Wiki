@@ -23,4 +23,4 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 Basis: volg lokale dansers of bronnen voor exacte stappen.
 
 Bronnen:
-- Nog te verifiëren — voeg betrouwbare bronnen toe.
+

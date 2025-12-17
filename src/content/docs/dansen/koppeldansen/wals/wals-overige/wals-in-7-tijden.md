@@ -23,4 +23,4 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 Basis: walspassen afgewisseld met korte tussenpassen; tel en luister goed naar de muziek.
 
 Bronnen:
-- Nog te verifiëren — voeg betrouwbare bronnen toe.
+

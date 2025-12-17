@@ -22,4 +22,4 @@ draft: false
 Basis: eenvoudige passen en kleine wendingen; geschikt voor lokale feesten.
 
 Bronnen:
-- Nog te verifiëren — voeg betrouwbare bronnen toe.
+

@@ -21,4 +21,4 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 Basis: opeenvolging van korte dansstukken; oefen elk deel apart.
 
 Bronnen:
-- Nog te verifiëren — voeg betrouwbare bronnen toe.
+

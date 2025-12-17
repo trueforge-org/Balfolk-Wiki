@@ -21,4 +21,4 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 Basis: uitgebreide figuren en herhalingen, soms met theatrale elementen.
 
 Bronnen:
-- Nog te verifiëren — voeg betrouwbare bronnen toe.
+

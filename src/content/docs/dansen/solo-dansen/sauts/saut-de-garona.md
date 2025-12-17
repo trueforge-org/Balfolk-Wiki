@@ -21,4 +21,4 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 Basis: sprongen met simpele ritmische patronen.
 
 Bronnen:
-- Nog te verifiëren — voeg betrouwbare bronnen toe.
+

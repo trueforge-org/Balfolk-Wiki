@@ -22,4 +22,4 @@ draft: false
 Basis: herhalende stappen en wendingen, nadruk op voortbewegen in de rij.
 
 Bronnen:
-- Nog te verifiëren — voeg betrouwbare bronnen toe.
+

@@ -21,4 +21,4 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 Basis: uitwisselingen en figuren waarbij paren elkaar ontmoeten en afwisselen.
 
 Bronnen:
-- Nog te verifiëren — voeg betrouwbare bronnen toe.
+

@@ -22,4 +22,4 @@ draft: false
 Basis: eenvoudige, herhalende stappen met nadruk op samen bewegen en wendingen.
 
 Bronnen:
-- Nog te verifiëren — voeg betrouwbare bronnen toe.
+

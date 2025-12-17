@@ -21,4 +21,4 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 Basis: sociale figuren en herhalende stappen.
 
 Bronnen:
-- Nog te verifiëren — voeg betrouwbare bronnen toe.
+

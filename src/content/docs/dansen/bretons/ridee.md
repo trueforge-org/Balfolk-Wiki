@@ -22,4 +22,4 @@ draft: false
 Basis: herhalende stappen en eenvoudige wendingen; varieert per streek.
 
 Bronnen:
-- Nog te verifiëren — voeg betrouwbare bronnen toe.
+

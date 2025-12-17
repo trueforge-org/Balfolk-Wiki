@@ -23,4 +23,4 @@ Basis: polska-stappen met feestelijke accenten en partnerfiguren.
 De pagina over dit onderwerp bestaat nog niet. Aanmaken kan door op de `Maak deze pagina aan` te klikken.
 
 Bronnen:
-- Nog te verifiëren — voeg betrouwbare bronnen toe.
+

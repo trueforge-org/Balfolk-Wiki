@@ -25,4 +25,4 @@ Basisstappen:
 - vaak met een kruising of gekruiste passen (vandaar "croisée");
 
 Bronnen:
-- Nog te verifiëren — voeg betrouwbare bronnen toe.
+

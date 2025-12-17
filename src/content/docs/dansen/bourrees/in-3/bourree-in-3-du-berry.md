@@ -22,4 +22,4 @@ De Bourrée in 3 uit Berry is een zeldzamere variant waarbij de bourrée-figuur 
 Basis: combinatie van bourrée-stappen met een extra korte maatgroep van drie tellen; let op de muzikale accenten.
 
 Bronnen:
-- Nog te verifiëren — voeg betrouwbare bronnen toe.
+

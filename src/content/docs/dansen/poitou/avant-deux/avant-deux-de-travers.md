@@ -21,4 +21,4 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 Basis: figuren met kruisingen en wisselingen tussen paren.
 
 Bronnen:
-- Nog te verifiëren — voeg betrouwbare bronnen toe.
+

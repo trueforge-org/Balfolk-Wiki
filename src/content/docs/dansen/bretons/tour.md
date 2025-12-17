@@ -22,4 +22,4 @@ draft: false
 Basis: draait en wendingen; let op de lokale uitvoering.
 
 Bronnen:
-- Nog te verifiëren — voeg betrouwbare bronnen toe.
+
