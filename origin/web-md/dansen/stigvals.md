@@ -1,2 +1,0 @@
-<!-- source: dansen/stigvals.html -->
-

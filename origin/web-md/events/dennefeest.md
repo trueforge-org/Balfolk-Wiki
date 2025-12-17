@@ -1,2 +1,0 @@
-<!-- source: events/dennefeest.html -->
-
