@@ -28,7 +28,7 @@ const config: Config = {
       colors: {
         accent,
         gray,
-        "tc-primary": "#316ce6",
+        "tc-primary": "#dc4e3bff",
       },
     },
   },
