@@ -4,8 +4,6 @@ description: ""
 draft: false
 ---
 
-# Danshouding
-
 ## samenvatting
 
 Een goede danshouding is natuurlijk belangrijk. Er zijn een paar

@@ -4,8 +4,6 @@ description: ""
 draft: false
 ---
 
-# Rondeau en Couple
-
 ## samenvatting
 
 Parendans twee aan twee in een grote cirkel

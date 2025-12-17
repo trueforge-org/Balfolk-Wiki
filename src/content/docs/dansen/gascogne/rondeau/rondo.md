@@ -4,8 +4,6 @@ description: ""
 draft: false
 ---
 
-# Rondo
-
 ## samenvatting
 
 Vlotte rijdans met lekker veel vaart

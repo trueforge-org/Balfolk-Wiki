@@ -4,8 +4,6 @@ description: ""
 draft: false
 ---
 
-# Gavotte
-
 ## samenvatting
 
 Snelle rijdans

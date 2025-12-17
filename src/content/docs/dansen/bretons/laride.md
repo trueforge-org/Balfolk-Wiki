@@ -4,8 +4,6 @@ description: ""
 draft: false
 ---
 
-# Laridé
-
 ## samenvatting
 
 Een dans in 8 maten waarbij de dansers zich in slierten door de ruimte

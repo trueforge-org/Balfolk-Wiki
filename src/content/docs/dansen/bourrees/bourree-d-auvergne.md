@@ -4,8 +4,6 @@ description: ""
 draft: false
 ---
 
-# Bourree d’Auvergne
-
 ## samenvatting
 
 De moeder van alle bourrees

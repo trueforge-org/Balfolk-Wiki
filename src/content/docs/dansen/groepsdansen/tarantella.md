@@ -4,8 +4,6 @@ description: ""
 draft: false
 ---
 
-# Tarantella
-
 ## samenvatting
 
 De Tarantella is een leuk pseudo-Italiaans dansje — het is binnen

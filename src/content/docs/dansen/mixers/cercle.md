@@ -4,8 +4,6 @@ description: ""
 draft: false
 ---
 
-# Cercle
-
 ## samenvatting
 
 Een vrolijke mixer. Wordt in Vlaanderen Tovercirkel genoemd. En in

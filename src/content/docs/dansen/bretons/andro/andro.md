@@ -4,8 +4,6 @@ description: ""
 draft: false
 ---
 
-# An Dro
-
 ## samenvatting
 
 Dit is een (meestal) rustige, haast meditatieve dans.

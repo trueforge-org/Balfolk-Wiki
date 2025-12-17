@@ -4,8 +4,6 @@ description: ""
 draft: false
 ---
 
-# Polska
-
 ## samenvatting
 
 Zweedse parendans

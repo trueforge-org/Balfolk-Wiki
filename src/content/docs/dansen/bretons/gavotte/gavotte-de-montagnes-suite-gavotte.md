@@ -4,8 +4,6 @@ description: ""
 draft: false
 ---
 
-# Gavotte de Montagnes (Suite Gavotte)
-
 is een "suite" die bestaat uit drie delen.
 
 Traditioneel een parendans in een gesloten kring waarbij elke heer zijn

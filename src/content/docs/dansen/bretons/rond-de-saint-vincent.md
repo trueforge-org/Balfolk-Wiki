@@ -4,8 +4,6 @@ description: ""
 draft: false
 ---
 
-# Rond de Saint Vincent
-
 ## samenvatting
 
 Rond, en rond, en rond...

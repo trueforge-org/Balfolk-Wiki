@@ -4,8 +4,6 @@ description: ""
 draft: false
 ---
 
-# Hanter Dro
-
 ## samenvatting
 
 Nog rustiger en meditatiever dan de An Dro

@@ -4,8 +4,6 @@ description: ""
 draft: false
 ---
 
-# Wals
-
 ## samenvatting
 
 Een gevarieerde parendans

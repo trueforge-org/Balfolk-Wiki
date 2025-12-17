@@ -4,8 +4,6 @@ description: ""
 draft: false
 ---
 
-# Scottisch
-
 ## samenvatting
 
 Eenvoudige parendans met ontelbaar veel variaties

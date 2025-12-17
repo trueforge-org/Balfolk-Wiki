@@ -4,8 +4,6 @@ description: ""
 draft: false
 ---
 
-# Gigue (Jig, Chapelloise)
-
 ## samenvatting
 
 Gezellige mixer. In Frankrijk chapeloise genoemd.

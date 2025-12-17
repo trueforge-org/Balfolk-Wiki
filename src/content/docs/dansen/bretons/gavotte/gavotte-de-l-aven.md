@@ -4,8 +4,6 @@ description: ""
 draft: false
 ---
 
-# Gavotte de l’Aven
-
 ## Opstelling
 
 Rijtjes van 4 personen, armen zoals in Hanter-Dro

@@ -85,10 +85,6 @@ De dans bestaat verder uit een A- en een B-deel:
 <iframe allowfullscreen="" frameborder="0" height="350" scrolling="no" src="https://www.youtube.com/embed/yDCbfE0p3" width="425"></iframe>
 
 <!-- preserved-video-end -->
-
-
-# Bourree
-
 ## samenvatting
 
 Spannende dans

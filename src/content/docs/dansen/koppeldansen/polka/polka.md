@@ -4,8 +4,6 @@ description: ""
 draft: false
 ---
 
-# Polka
-
 ## samenvatting
 
 Springerige parendans
