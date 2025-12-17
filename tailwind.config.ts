@@ -2,10 +2,10 @@ import type { Config } from "tailwindcss";
 
 // Generated color palettes
 const accent = {
-  200: "#b3c7ff",
-  600: "#364bff",
-  900: "#182775",
-  950: "#131e4f",
+  200: "#fcf7f6ff",
+  600: "#c64533",
+  900: "#a93d2fff",
+  950: "#3e1610ff",
 };
 const gray = {
   100: "#f5f6f8",
