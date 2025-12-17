@@ -19,7 +19,7 @@ const links: Array<Link> = [
 const { pathname } = Astro.url;
 ---
 
-<div class="flex flex-row gap-5 ml-8 items-center justify-center">
+<div class="flex flex-row gap-5 ml-8 items-center justify-center overflow-visible">
   {
     links.map((link) => {
       // Remove trailing slashes for reliable matching
@@ -31,7 +31,7 @@ const { pathname } = Astro.url;
 
       return (
         <a
-          class={`link-no-deco flex flex-row items-center gap-1 border-tc-primary transition-all
+          class={`link-no-deco flex flex-row items-center gap-1 border-tc-primary transition-all relative z-10
             ${isActive ? "scale-110 border-b-4" : "hover:scale-110 hover:border-b-4"}`}
           href={link.href}
           data-astro-prefetch="load"
