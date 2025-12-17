@@ -1,5 +1,6 @@
 import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
+import tailwindcss from "@tailwindcss/vite";
 // TODO: reenable
 // https://github.com/HiDeoo/starlight-links-validator
 //import starlightLinksValidator from "starlight-links-validator";
@@ -32,10 +33,13 @@ export default defineConfig({
   },
   experimental: {
   },
+  vite: {
+    plugins: [tailwindcss()],
+  },
   integrations: [
     starlight({
       title: "Balfolk-Wiki",
-      customCss: ["./src/tailwind.css"],
+      customCss: ["./src/styles/global.css"],
       tagline: "Balfolk-Wiki - The community driven Balfolk dance wiki",
       pagefind: true,
       logo: {
@@ -130,6 +134,7 @@ export default defineConfig({
     sitemap(),
     robotsTxt(),
     betterImageService(),
+    tailwindcss(),
     playformCompress({
       HTML: false,
       CSS: true,

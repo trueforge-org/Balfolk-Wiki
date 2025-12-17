@@ -1,0 +1,38 @@
+@import "tailwindcss";
+@import "tailwindcss/theme.css" layer(theme);
+@import "tailwindcss/utilities.css" layer(utilities);
+
+@layer base, starlight, theme, components, utilities;
+/* src/styles/global.css */
+
+/* --------------------------
+   Light theme
+--------------------------- */
+:root {
+  /* Accent colors */
+  --sl-color-accent: #c64533;
+  --sl-color-accent-high: #fcf7f6;
+  --sl-color-accent-low: #a93d2f;
+}
+
+/* --------------------------
+   Dark theme
+--------------------------- */
+html.dark {
+  --sl-color-accent: #c64533;
+  --sl-color-accent-high: #fcf7f6;
+  --sl-color-accent-low: #a93d2f;
+
+}
+
+/* --------------------------
+   Example utility class
+--------------------------- */
+.link-no-deco {
+  text-decoration: none;
+  color: var(--sl-color-gray-2);
+}
+
+.link-no-deco:visited {
+  color: var(--sl-color-gray-2);
+}
