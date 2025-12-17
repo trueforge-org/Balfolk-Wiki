@@ -17,10 +17,8 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 `Maraîchine` verwijst naar een dans of traditie uit de Marais-regio; locale varianten hebben vaak eenvoudige sociale patronen.
 
-- Herkomst: kust-/moerassige gebieden van Frankrijk.
-- Maat/ritme: varieert.
-- Formatie: groep of rij.
 
 Basis: sociale figuren en herhalende stappen.
 
-Tips: kijk naar lokale uitvoeringen voor precieze details.
+Bronnen:
+- Nog te verifiëren — voeg betrouwbare bronnen toe.

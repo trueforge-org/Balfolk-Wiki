@@ -17,10 +17,8 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 `Rigaudon` is een historische dansvorm uit Frankrijk met levendige ritmes en karakteristieke figuren.
 
-- Herkomst: Frankrijk, barok/folktradities.
-- Maat/ritme: meestal 2/4 of 4/4, opgewekt tempo.
-- Formatie: vaak paar- of groepsdans.
 
 Basis: sprankelende stappen en ritmische accenten; soms uitgewerkt in coupes en wendingen.
 
-Tips: let op precisie en muzikale accenten; pas passen aan naar de lokale variant.
+Bronnen:
+- Nog te verifiëren — voeg betrouwbare bronnen toe.

@@ -17,10 +17,8 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 `Madison` is een sociale lijn- of groepsdans uit de 20e eeuw, vaak uitgevoerd in reeksen of call-and-response structuren.
 
-- Herkomst: Amerikaanse sociale dansen, opgenomen in folk- en mixerscènes.
-- Maat/ritme: vaak 4/4.
-- Formatie: lijnen of rijen.
 
 Basis: herhalende figuren en instructies van een caller.
 
-Tips: luister naar de caller en houd de figuren kort en duidelijk.
+Bronnen:
+- Nog te verifiëren — voeg betrouwbare bronnen toe.

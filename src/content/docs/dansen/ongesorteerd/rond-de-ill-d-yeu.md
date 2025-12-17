@@ -17,10 +17,8 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 `Rond de Île d'Yeu` is een lokale ronde dans uit het eilandgebied, vaak uitgevoerd in kleine gemeenschappen.
 
-- Herkomst: Île d'Yeu (Atlantische kust).
-- Maat/ritme: meestal 2/4 of 4/4.
-- Formatie: kring of halve kring.
 
 Basis: eenvoudige passen en wendingen, passend bij beperkte ruimte.
 
-Tips: dans rustig en houd de lijn gesloten.
+Bronnen:
+- Nog te verifiëren — voeg betrouwbare bronnen toe.

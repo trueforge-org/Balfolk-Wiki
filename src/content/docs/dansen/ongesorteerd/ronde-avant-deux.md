@@ -17,10 +17,8 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 `Ronde Avant-Deux` verwijst naar een ronde uitvoering van een avant-deux, een traditionele Franse dansvorm met twee groepen.
 
-- Herkomst: Franse avant-deux traditie.
-- Maat/ritme: vaak 2/4 of 4/4.
-- Formatie: twee groepen of paren met uitwisselingen.
 
 Basis: herhalende figuren en wisselingen tussen beide zijden.
 
-Tips: coördineer met de tegenpartij en oefen de wisselpatronen.
+Bronnen:
+- Nog te verifiëren — voeg betrouwbare bronnen toe.

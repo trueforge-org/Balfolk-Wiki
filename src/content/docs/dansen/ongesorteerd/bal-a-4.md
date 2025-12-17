@@ -17,10 +17,8 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 `Bal à 4` is een dans voor vier personen of twee paren, met figuren die samenwerken in kleine groepjes.
 
-- Herkomst: traditionele balstructuren, regionaal.
-- Maat/ritme: meestal 2/4 of 4/4.
-- Formatie: vier dansers / twee paren.
 
 Basis: eenvoudige figuren, partner- en groepswissels.
 
-Tips: communiceer goed met partners en houd ruimte voor promeneren.
+Bronnen:
+- Nog te verifiëren — voeg betrouwbare bronnen toe.

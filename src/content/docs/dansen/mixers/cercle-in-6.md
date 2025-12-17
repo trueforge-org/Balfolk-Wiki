@@ -17,10 +17,8 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 `Cercle in 6` is een mixers- of kringdans uitgevoerd in een 6-tellingspatroon; ideaal voor groepen.
 
-- Herkomst: mixers/folk.
-- Maat/ritme: 6-tellingen (bijv. 6/8 of samengestelde 4/4 variant).
-- Formatie: kring.
 
 Basis: herhalende secties die over 6 tellen lopen; oefen frasering.
 
-Tips: tel in groepen van 6 en werk aan samenhang binnen de kring.
+Bronnen:
+- Nog te verifiëren — voeg betrouwbare bronnen toe.

@@ -18,10 +18,8 @@ draft: false
 
 `Andro retourné` is een variant van de Bretonse `Andro` waarbij de richting of figuur wordt omgekeerd tijdens de dans.
 
-- Herkomst: Bretagne, Frankrijk.
-- Maat/ritme: meestal 4/4, rustig tot matig tempo.
-- Formatie: rij of ketting (line dance), vaak met handen of ellebogen vast.
 
 Basis: loopstapjes met regelmatig heen-en-weer bewegen; bij de retourné wordt de richting of figuur omgedraaid.
 
-Tips: houd de lijn goed gesloten en stem de verandering van richting muzikaal af.
+Bronnen:
+- Nog te verifiëren — voeg betrouwbare bronnen toe.

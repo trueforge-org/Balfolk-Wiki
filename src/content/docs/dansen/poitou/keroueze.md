@@ -17,10 +17,8 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 `Keroueze` is vermoedelijk een lokale dansnaam in de Poitou-regio; exacte details verschillen per bron.
 
-- Herkomst: regionaal/folk.
-- Maat/ritme: variabel.
-- Formatie: rij of kring.
 
 Basis: eenvoudige herhalende stappen; raadpleeg lokale bronnen voor details.
 
-Tips: vraag lokale dansers of archieven voor authenticiteit.
+Bronnen:
+- Nog te verifiëren — voeg betrouwbare bronnen toe.

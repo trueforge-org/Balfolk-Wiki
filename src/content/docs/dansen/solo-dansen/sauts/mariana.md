@@ -17,10 +17,8 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 `Mariana` is mogelijk een regionale sprong- of solodans; details verschillen per streek.
 
-- Herkomst: regionaal/folk.
-- Maat/ritme: variabel.
-- Formatie: solo of kleine groep.
 
 Basis: korte sprongen en accenten; raadpleeg lokale bronnen.
 
-Tips: oefen techniek en vraag instructie aan lokale dansers.
+Bronnen:
+- Nog te verifiëren — voeg betrouwbare bronnen toe.

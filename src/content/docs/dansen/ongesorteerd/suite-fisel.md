@@ -17,10 +17,8 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 `Suite Fisel` is vermoedelijk een lokale suite van dansen; specifieke details verschillen per bron.
 
-- Herkomst: regionaal.
-- Maat/ritme: varieert per deel.
-- Formatie: set of groep.
 
 Basis: opeenvolging van dansdelen; leer elk onderdeel apart.
 
-Tips: zoek lokale bronnen of dansgroepen voor exacte uitvoering.
+Bronnen:
+- Nog te verifiëren — voeg betrouwbare bronnen toe.

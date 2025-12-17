@@ -17,10 +17,8 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 `Set carré` (vierkantszet) is een groep- of setdans voor vier paren, vergelijkbaar met traditionele square dance-structuren.
 
-- Herkomst: Europese setdance-invloed, lokaal uitgevoerd.
-- Maat/ritme: vaak 4/4.
-- Formatie: vier paren in vierkant.
 
 Basis: figuren van partners wisselen, promenade, en set-figuren.
 
-Tips: communiceer met je partner en anderen; leer basisfiguren zoals promenade en star.
+Bronnen:
+- Nog te verifiëren — voeg betrouwbare bronnen toe.

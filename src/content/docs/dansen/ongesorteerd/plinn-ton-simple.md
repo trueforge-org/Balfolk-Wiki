@@ -17,10 +17,8 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 `Plinn Ton Simple` is een eenvoudige variant van de Plinn, geschikt voor beginnende dansers.
 
-- Herkomst: Bretagne.
-- Maat/ritme: vaak snelle 2/4.
-- Formatie: paar of groep.
 
 Basis: basisplinn-stappen en eenvoudige wendingen.
 
-Tips: focus op timing en lichte sprongen.
+Bronnen:
+- Nog te verifiëren — voeg betrouwbare bronnen toe.

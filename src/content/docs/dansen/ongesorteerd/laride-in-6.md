@@ -17,10 +17,8 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 `Laride in 6` is een variant van de Laride-dans met secties die over 6 tellen lopen.
 
-- Herkomst: regionaal; Laride-varianten in Bretonse tradities.
-- Maat/ritme: 6-tellingen of samengestelde maat.
-- Formatie: kring of rij.
 
 Basis: herhalende stappen verdeeld over zes tellen; luister naar de muzikale frase.
 
-Tips: oefen in kleine secties en tel hardop bij het inoefenen.
+Bronnen:
+- Nog te verifiëren — voeg betrouwbare bronnen toe.

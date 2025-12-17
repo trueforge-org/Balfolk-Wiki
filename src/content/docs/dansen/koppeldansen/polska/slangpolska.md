@@ -17,10 +17,8 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 `Slangpolska` is een variant van de polska met een slingerende beweging ("slang"), vaak met lokale accenten.
 
-- Herkomst: Noord-Europese polska-tradities, lokaal aangepast.
-- Maat/ritme: 3/4 of 2/4 varianten, typisch polska-gevoel.
-- Formatie: koppels.
 
 Basis: polska-achtige stappen met draaiende of slingeringselementen.
 
-Tips: let op balans tijdens de slingering en volg de partner nauwkeurig.
+Bronnen:
+- Nog te verifiëren — voeg betrouwbare bronnen toe.

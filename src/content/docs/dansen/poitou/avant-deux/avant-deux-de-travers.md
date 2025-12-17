@@ -17,10 +17,8 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 `Avant-Deux de Travers` is een regionale avant-deux met specifieke travers-figuren en omkeringen.
 
-- Herkomst: Poitou/regionaal.
-- Maat/ritme: meestal 2/4.
-- Formatie: twee groepen of paren.
 
 Basis: figuren met kruisingen en wisselingen tussen paren.
 
-Tips: oefen de traversbewegingen langzaam en bouw tempo op.
+Bronnen:
+- Nog te verifiëren — voeg betrouwbare bronnen toe.

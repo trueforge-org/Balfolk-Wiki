@@ -17,10 +17,8 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 `La Craba` is vermoedelijk een lokale sprong- of saut-variant; concrete beschrijvingen zijn beperkt.
 
-- Herkomst: regionaal/folk.
-- Maat/ritme: variabel.
-- Formatie: solo of kleine groep.
 
 Basis: sprongen en korte figuren.
 
-Tips: zoek lokale bronnen of vragen aan dansers voor exacte uitvoering.
+Bronnen:
+- Nog te verifiëren — voeg betrouwbare bronnen toe.

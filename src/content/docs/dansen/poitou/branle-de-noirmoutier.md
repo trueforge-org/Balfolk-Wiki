@@ -17,10 +17,8 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 `Branle de Noirmoutier` is een lokale branle-variant vernoemd naar Noirmoutier, met herhalende groepsfiguren.
 
-- Herkomst: Noirmoutier / Poitou kustgebied.
-- Maat/ritme: meestal 2/4 of 4/4.
-- Formatie: rij of kring.
 
 Basis: traditionele branle-patronen met lokale varianten.
 
-Tips: volg lokale uitvoering en let op regionale nuances.
+Bronnen:
+- Nog te verifiëren — voeg betrouwbare bronnen toe.

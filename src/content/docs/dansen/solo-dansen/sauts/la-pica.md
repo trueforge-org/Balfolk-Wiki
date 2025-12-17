@@ -17,10 +17,8 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 `La Pica` is een korte sprong- of sautfiguur uit lokale solo-danstradities; uitvoering varieert per regio.
 
-- Herkomst: regionaal/folk.
-- Maat/ritme: variabel.
-- Formatie: solo.
 
 Basis: korte sprongen en ritmische accenten.
 
-Tips: oefen techniek en veilige landingen.
+Bronnen:
+- Nog te verifiëren — voeg betrouwbare bronnen toe.

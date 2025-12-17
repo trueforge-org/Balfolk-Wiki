@@ -17,10 +17,8 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 `Mazurka in 8` is een mazurka-variant met een 8-tellingsvorm, eenvoudiger dan onregelmatige varianten.
 
-- Herkomst: mazurka-invloeden toegepast in lokale danspraktijken.
-- Maat/ritme: 8-tellen groepen, mazurka-accenten.
-- Formatie: koppeldans.
 
 Basis: mazurka-stappen met nadruk op energie en heupaccenten; tel de groepen.
 
-Tips: begin langzaam en bouw tempo op terwijl de accenten duidelijk blijven.
+Bronnen:
+- Nog te verifiëren — voeg betrouwbare bronnen toe.

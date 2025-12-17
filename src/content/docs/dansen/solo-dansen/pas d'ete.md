@@ -17,10 +17,8 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 `Pas d'été` is een solodans of stapvariatie (letterlijk: zomerstap) die in verschillende tradities voorkomt.
 
-- Herkomst: lokaal/regionaal; de term varieert in betekenis.
-- Maat/ritme: varieert.
-- Formatie: solo of kleine groep.
 
 Basis: eenvoudige stapcombinaties, vaak licht en vloeiend.
 
-Tips: pas stappen aan naar muzikale frasering en context.
+Bronnen:
+- Nog te verifiëren — voeg betrouwbare bronnen toe.

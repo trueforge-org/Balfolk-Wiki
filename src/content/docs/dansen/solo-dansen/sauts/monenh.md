@@ -17,10 +17,8 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 `Monenh` is vermoedelijk een lokale sprong- of dansnaam; details zijn beperkt en vragen lokale bronnen.
 
-- Herkomst: regionaal/folk.
-- Maat/ritme: variabel.
-- Formatie: solo of groep.
 
 Basis: korte sprongen of sprongetjes.
 
-Tips: raadpleeg lokale dansers voor goede uitvoering en veiligheid.
+Bronnen:
+- Nog te verifiëren — voeg betrouwbare bronnen toe.

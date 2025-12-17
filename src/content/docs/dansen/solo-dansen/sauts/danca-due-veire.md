@@ -17,10 +17,8 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 `Dança Due Veire` lijkt een regionale spring- of saut-naam te zijn; precieze details verschillen per bron.
 
-- Herkomst: regionaal/folk.
-- Maat/ritme: variabel.
-- Formatie: solo of kleine groep.
 
 Basis: sprongen en korte figuren; raadpleeg lokale instructies.
 
-Tips: oefen technisch veilige sprongen en volg ervaren dansers.
+Bronnen:
+- Nog te verifiëren — voeg betrouwbare bronnen toe.

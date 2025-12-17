@@ -18,10 +18,8 @@ draft: false
 
 `Kas a Barh` is een Bretonse dans met lokaal karakter, vaak uitgevoerd in kleine groepen of in de rij.
 
-- Herkomst: Bretagne.
-- Maat/ritme: meestal 4/4, matig tempo.
-- Formatie: rij of keten.
 
 Basis: eenvoudige stappen, afgewisseld met korte figuren en wendingen.
 
-Tips: houd de lijn gesloten en luister naar accentverschillen in de muziek.
+Bronnen:
+- Nog te verifiëren — voeg betrouwbare bronnen toe.

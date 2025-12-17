@@ -19,10 +19,8 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 `Slaengpolska` is een regionale polska-variant met karakteristieke slingeringen of accenten.
 
-- Herkomst: Noord-Europese polska-tradities, lokaal aangepast.
-- Maat/ritme: polska-achtig (3/4) of verwante maatsoort.
-- Formatie: koppels.
 
 Basis: polska-stappen met specifieke slingeringen of draai-elementen.
 
-Tips: oefen balans en partnercoördinatie bij slingeringen.
+Bronnen:
+- Nog te verifiëren — voeg betrouwbare bronnen toe.

@@ -17,10 +17,8 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 `Demi-tour` verwijst gewoonlijk naar een halve draai of wending in dansfiguren; als dansnaam kan het een korte draaiend element aanduiden.
 
-- Herkomst: algemene dansterminologie toegepast in lokale tradities.
-- Maat/ritme: varieert.
-- Formatie: afhankelijk van het nummer.
 
 Basis: draai van een halve omkering binnen een figuur.
 
-Tips: oefen balans en timing bij draaien.
+Bronnen:
+- Nog te verifiëren — voeg betrouwbare bronnen toe.

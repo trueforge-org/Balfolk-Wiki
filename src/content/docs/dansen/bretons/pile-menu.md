@@ -18,10 +18,8 @@ draft: false
 
 `Pile Menu` is een korte, vaak speelse Bretonse dans met een eenvoudig ritme en herhalende passen.
 
-- Herkomst: Bretagne.
-- Maat/ritme: meestal 2/4, levendig tempo.
-- Formatie: rij of kring.
 
 Basis: korte stapjes en terugkerende figuren die makkelijk aan te leren zijn.
 
-Tips: geschikt voor beginners; houd het tempo gelijk en werk aan de samenhang met de groep.
+Bronnen:
+- Nog te verifiëren — voeg betrouwbare bronnen toe.

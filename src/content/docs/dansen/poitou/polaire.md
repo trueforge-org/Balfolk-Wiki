@@ -17,10 +17,8 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 `Polaire` lijkt op een lokale dansterm; precieze betekenis en uitvoering kunnen per plaats verschillen.
 
-- Herkomst: regionaal.
-- Maat/ritme: varieert.
-- Formatie: rij of kring.
 
 Basis: eenvoudige herhalende passen en wendingen.
 
-Tips: raadpleeg lokale bronnen of dansers voor authenticiteit.
+Bronnen:
+- Nog te verifiëren — voeg betrouwbare bronnen toe.

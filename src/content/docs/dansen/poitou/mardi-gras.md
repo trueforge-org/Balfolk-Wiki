@@ -17,10 +17,8 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 `Mardi-Gras` als dansreferentie verwijst naar feestelijke dansen die bij Vastenavond-activiteiten horen; vaak speels en uitbundig.
 
-- Herkomst: carnavalstradities, lokaal in Poitou.
-- Maat/ritme: varieert.
-- Formatie: groep of feestelijke optredens.
 
 Basis: vrolijke, sociale dansen; afhankelijk van lokale tradities.
 
-Tips: dans met feestelijk karakter en respecteer lokale gebruiken.
+Bronnen:
+- Nog te verifiëren — voeg betrouwbare bronnen toe.

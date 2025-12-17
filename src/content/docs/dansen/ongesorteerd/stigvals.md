@@ -19,10 +19,8 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 `Stigvals` is mogelijk een lokale of traditionele dansnaam; concrete informatie is schaars.
 
-- Herkomst: mogelijk regionaal/folk.
-- Maat/ritme: onbekend/verschillend.
-- Formatie: vermoedelijk groeps- of rijformaties.
 
 Basis: volg lokale dansers of bronnen voor exacte stappen.
 
-Tips: raadpleeg lokale archieven of dansgroepen voor authentieke uitvoering.
+Bronnen:
+- Nog te verifiëren — voeg betrouwbare bronnen toe.

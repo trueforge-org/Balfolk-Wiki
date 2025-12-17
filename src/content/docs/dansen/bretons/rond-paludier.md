@@ -18,10 +18,8 @@ draft: false
 
 `Rond Paludier` is een traditionele dans geassocieerd met kust- of zoutwinningsgemeenschappen (paludiers) in Bretagne.
 
-- Herkomst: Bretagne, kustgebieden.
-- Maat/ritme: vaak 2/4, vrolijk tempo.
-- Formatie: kring of rij.
 
 Basis: eenvoudige stappen en wendingen, geschikt voor groepsdans.
 
-Tips: houd rekening met lokale varianten en het gemeenschapskarakter van de dans.
+Bronnen:
+- Nog te verifiëren — voeg betrouwbare bronnen toe.

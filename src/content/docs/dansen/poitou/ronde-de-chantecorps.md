@@ -17,10 +17,8 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 `Ronde de Chantecorps` is een lokale rondedans vernoemd naar Chantecorps, met eenvoudige groepsfiguren.
 
-- Herkomst: Chantecorps / Poitou.
-- Maat/ritme: meestal 2/4 of 4/4.
-- Formatie: kring of rij.
 
 Basis: herhalende passen en eenvoudige wendingen.
 
-Tips: volg lokale uitvoeringen voor authentieke varianten.
+Bronnen:
+- Nog te verifiëren — voeg betrouwbare bronnen toe.

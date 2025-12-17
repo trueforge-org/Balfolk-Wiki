@@ -18,10 +18,8 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 `Springlek` is een speelse of springerige variant van polska; de naam duidt op sprongen of opzwepende beweging.
 
-- Herkomst: polska-tradities met lokale varianten.
-- Maat/ritme: polska-achtig (3/4) met nadruk op sprongaccenten.
-- Formatie: koppels.
 
 Basis: polska-stappen met extra sprongen en accenten.
 
-Tips: bouw sprongen geleidelijk op en controleer landing en balans.
+Bronnen:
+- Nog te verifiëren — voeg betrouwbare bronnen toe.

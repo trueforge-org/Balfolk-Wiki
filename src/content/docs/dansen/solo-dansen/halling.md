@@ -17,10 +17,8 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 `Halling` is een traditionele Noorse solo- of koppeldans, bekend om zijn krachtige sprongen en atletische bewegingen.
 
-- Herkomst: Noorwegen.
-- Maat/ritme: variabel, vaak 2/4 of 4/4 met sprongen.
-- Formatie: solo of koppel.
 
 Basis: hoge sprongen, knieheffen en dynamische passen.
 
-Tips: voldoende warming-up en focus op veilige landingen.
+Bronnen:
+- Nog te verifiëren — voeg betrouwbare bronnen toe.

@@ -17,10 +17,8 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 `Plin-ton double` is waarschijnlijk een dubbele variant van een plinn- of plin-ton dans; specifieke details zijn lokaal.
 
-- Herkomst: regionaal/folk.
-- Maat/ritme: varieert.
-- Formatie: rij of kring.
 
 Basis: herhalende stappen met mogelijke dubbele accenten.
 
-Tips: raadpleeg lokale bronnen voor exacte figuren en uitvoering.
+Bronnen:
+- Nog te verifiëren — voeg betrouwbare bronnen toe.

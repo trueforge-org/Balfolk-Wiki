@@ -17,10 +17,8 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 `Poraie` is mogelijk een lokale dansnaam in Poitou; details zijn schaars en kunnen per dorp verschillen.
 
-- Herkomst: regionaal.
-- Maat/ritme: variabel.
-- Formatie: waarschijnlijk kring of rij.
 
 Basis: eenvoudige, herhalende stappen.
 
-Tips: vraag lokale dansers voor specifieke instructies.
+Bronnen:
+- Nog te verifiëren — voeg betrouwbare bronnen toe.

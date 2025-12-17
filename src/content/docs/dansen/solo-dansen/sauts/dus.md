@@ -17,10 +17,8 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 `Dus` is mogelijk een korte aanduiding voor een spring- of saut-figuur; lokale bronnen geven meer details.
 
-- Herkomst: regionaal/folk.
-- Maat/ritme: varieert.
-- Formatie: solo of kleine groep.
 
 Basis: eenvoudige sprongen en accenten.
 
-Tips: controleer lokale varianten voor correcte uitvoering.
+Bronnen:
+- Nog te verifiëren — voeg betrouwbare bronnen toe.

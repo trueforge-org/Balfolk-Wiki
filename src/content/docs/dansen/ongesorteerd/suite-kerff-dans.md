@@ -17,10 +17,8 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 `Suite Kerff` lijkt op een lokale suite van dansen; specifieke stappen en figuren zijn regionaal bepaald.
 
-- Herkomst: lokaal/regionaal.
-- Maat/ritme: varieert per deel.
-- Formatie: groep of set.
 
 Basis: meerdere korte dansdelen die als suite worden opgevoerd.
 
-Tips: leer de suite in gedeelten en raadpleeg lokale bronnen voor authenticiteit.
+Bronnen:
+- Nog te verifiëren — voeg betrouwbare bronnen toe.

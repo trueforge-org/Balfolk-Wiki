@@ -19,10 +19,8 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 De Kadootjesbourrée is een speelse variant van de bourrée, vaak met kleine figuren die lijken op het 'geven' van een presentje.
 
-- Herkomst: regio Berry/centraal-Frankrijk.
-- Maat/ritme: snel 2/4.
-- Formatie: in paren of kleine groepen.
 
 Basis: korte stappen, vaak afgewisseld met speelse arm- of handgebaren.
 
-Tips: houd het speelse karakter; accentueer gebaren en houd het tempo licht.
+Bronnen:
+- Nog te verifiëren — voeg betrouwbare bronnen toe.
