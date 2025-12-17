@@ -9,8 +9,6 @@ import starlightImageZoom from "starlight-image-zoom";
 import sitemap from "@astrojs/sitemap";
 // https://github.com/alextim/astro-lib/tree/main/packages/astro-robots-txt#readme
 import robotsTxt from "astro-robots-txt";
-// https://github.com/giuseppelt/astro-lottie
-import lottie from "astro-integration-lottie";
 // https://github.com/risu729/astro-better-image-service
 import betterImageService from "astro-better-image-service";
 // https://github.com/Playform/Compress
@@ -131,7 +129,6 @@ export default defineConfig({
     }),
     sitemap(),
     robotsTxt(),
-    lottie(),
     betterImageService(),
     playformCompress({
       HTML: false,
