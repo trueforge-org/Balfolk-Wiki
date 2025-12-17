@@ -35,6 +35,7 @@ const { pathname } = Astro.url;
             ${isActive ? "scale-110 border-b-4" : "hover:scale-110 hover:border-b-4"}`}
           href={link.href}
           data-astro-prefetch="load"
+          style={`border-bottom-color: var(--sl-color-accent, #c64533)`}
         >
           <p class="font-bold text-lg max-lg:text-xs max-md:text-xs">
             {link.name}
