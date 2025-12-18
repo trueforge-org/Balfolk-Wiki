@@ -11,12 +11,8 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-
-
 `Sauts de Satan` is waarschijnlijk een dramatisch benoemde sprong- of solovariant; details zijn schaars.
-
 
 Basis: sprongen en theatrale accenten.
 
 Bronnen:
-

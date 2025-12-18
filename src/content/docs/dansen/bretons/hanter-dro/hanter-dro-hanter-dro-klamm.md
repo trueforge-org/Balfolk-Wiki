@@ -11,8 +11,6 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-
-
 ### Hanter Dro Klamm
 
 Een variant van de [Hanter Dro](hanter-dro-hanter-dro-klamm.md).

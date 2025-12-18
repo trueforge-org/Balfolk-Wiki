@@ -11,7 +11,6 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-
 :::warning
 
 Dit bestand is aangevuld middels AI.
@@ -23,8 +22,6 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 `Ronde du Quercy` is een traditionele ronde- of kringdans uit de Quercy-regio in Zuidwest-Frankrijk.
 
-
 Basis: herhalende passen en eenvoudige wendingen, vaak met een zachte, ritmische pas.
 
 Bronnen:
-

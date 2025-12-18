@@ -133,12 +133,6 @@ Idem aan de andere kant van de Volger.
 Bij een vrijere dans kunnen bijvoorbeeld richtingsveranderingen en
 andere initiatieven aangekondigd worden met een frappé.
 
-
-
-
-
-
-
 ### Bourrée d'Auvergne
 
 De moeder van alle bourrées
@@ -169,8 +163,8 @@ Altijd blijft de plat-bal-plat gehandhaafd. Dit kan lastig zijn bij met name de 
 
 Officieel is niets vastgelegd, maar als houvast kan de volgende volgorde dienen die op bals te doen gebruikelijk is:
 
-* 4 x banaan
-* 4 x rond
+- 4 x banaan
+- 4 x rond
 
 ##### Uitleg
 
@@ -190,11 +184,11 @@ Te doen gebruikelijk is wel dat de asdraaiende tegengesteld draait aan de paar-d
 
 De “volger” spiegelt de lichaamshouding van de “leider”.
 
-* Frontaal
-* Linkerschouders naar elkaar
-* Rechterschouders naar elkaar
-* Diagonaal links
-* Diagonaal rechts
+- Frontaal
+- Linkerschouders naar elkaar
+- Rechterschouders naar elkaar
+- Diagonaal links
+- Diagonaal rechts
 
 De “leider” kan/mag/moet van oriëntatie wisselen en de “volger” volgt. Er is altijd contact met de partner.
 
@@ -214,9 +208,9 @@ Bij een vrijere dans kunnen bijvoorbeeld richtingsveranderingen en andere initia
 
 ### Voorbeeld muziekjes en filmpjes
 
-* Bourrée 3t d'Auvergne instructie
+- Bourrée 3t d'Auvergne instructie
 
-* Chemins de Traverse au bal folk de Bures-sur-Yvette le samedi 19 mai 2007
+- Chemins de Traverse au bal folk de Bures-sur-Yvette le samedi 19 mai 2007
 
 <!-- preserved-video-start -->
 <iframe allowfullscreen="" frameborder="0" height="350" scrolling="no" src="https://www.youtube.com/embed/A186jBMs6sE" width="425"></iframe>

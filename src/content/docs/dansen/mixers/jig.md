@@ -11,8 +11,6 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-
-
 ### Jig
 
 Gezellige mixer. In Frankrijk chapeloise genoemd en in Engeland gigue.
@@ -65,8 +63,8 @@ Rechterhand Leider en linkerhand Volger zijn vast, hand van Leider is onder)
 
 * Bladmuziek [Texel Gigue](http://bladmuziek.dennisreidsma.nl/gonnagles/index.php/tunes/single/139 "http://bladmuziek.dennisreidsma.nl/gonnagles/index.php/tunes/single/139"):
 
-  + [PDF Bladmuziek](http://bladmuziek.dennisreidsma.nl/gonnagles/index.php/sheets/download/370 "http://bladmuziek.dennisreidsma.nl/gonnagles/index.php/sheets/download/370")
-  + [midi](http://bladmuziek.dennisreidsma.nl/gonnagles/index.php/sheets/download/370/midi "http://bladmuziek.dennisreidsma.nl/gonnagles/index.php/sheets/download/370/midi")
+  * [PDF Bladmuziek](http://bladmuziek.dennisreidsma.nl/gonnagles/index.php/sheets/download/370 "http://bladmuziek.dennisreidsma.nl/gonnagles/index.php/sheets/download/370")
+  * [midi](http://bladmuziek.dennisreidsma.nl/gonnagles/index.php/sheets/download/370/midi "http://bladmuziek.dennisreidsma.nl/gonnagles/index.php/sheets/download/370/midi")
 * Opname [Texel Gigue](http://bladmuziek.dennisreidsma.nl/gonnagles/index.php/tunes/single/139 "http://bladmuziek.dennisreidsma.nl/gonnagles/index.php/tunes/single/139")
 
 * Op Elf Fantasy Fair ([EmBRUN](http://embrun.be/ "http://embrun.be/"))

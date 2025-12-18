@@ -11,12 +11,8 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-
-
 `Rond de l'Épine` is een lokale rondedans met eenvoudige, herhalende passen die in de gemeenschap worden uitgevoerd.
-
 
 Basis: rustige herhalende passen en kleine wendingen.
 
 Bronnen:
-

@@ -11,8 +11,6 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-
-
 ### Wals in 14 tijden
 
 Komt in het wild niet voor.

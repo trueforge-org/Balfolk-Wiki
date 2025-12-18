@@ -99,12 +99,6 @@ Open houding, hier moet nog een omschrijving voor komen.
 - Als een man een vrouw naar de vloer begeleidt, of bijvoorbeeld een
   Cercle danst, dan is de hand van de man onder.
 
-
-
-
-
-
-
 ### Danshouding
 
 *Vul de tekst op deze pagina vooral aan of verbeter deze. Het is hier een opzet die (net als de tekst van de rest van de site) nog niet correct en volledig is.*
@@ -136,7 +130,7 @@ Open
 
 #### Aanwijzingen
 
-* Om samen te kunnen draaien in een koppeldans, is het belangrijk dat de Volger licht leunt in de rechterarm van de Leider. Daardoor vorm je als koppel 1 geheel en krijg je een gezamelijk zwaarte-/draaipunt. De Volger moet hiervoor durven te leunen, maar de Leider moet ook het vertrouwen geven dat nodig is om te durven leunen. Dit is een subtiele balans tussen tegendruk geven en tegelijkertijd laten vieren. Oefen dit vooral eens 'droog', en durf tegen elkaar te zeggen hoe het voelt of hoe het anders zou kunnen.
-* De Volger leunt als het ware als een plank naar achter, in de arm van de Leider. dus niet met een holle rug, als een hoepeltje achterover, maar ook niet door je kont naar achter te steken.
-* In het stijldansen staan paren vaak tot en met de heupen tegen elkaar aangeplakt, en komt veel van het leiden ook door de heupen. Veel balfolkies hebben echter een houding waarbij wat afstand zit, en het leiden met de heupen niet werkt. Het is dan belangrijk om de rechter-arm (voor de Leider) stevig te houden en deze alle bewegingen van het lichaam te laten vertalen naar de rug van de Volger. Het is echt wel zo dat wanneer je leidt met je volledige lichaam en je een lichte spanning in de armen houdt de vrouw hierop kan volgen. Het is daarbij wel belangrijk dat je vanuit je bovenlichaam beweegt.
-* Als een man een vrouw naar de vloer begeleidt, of bijvoorbeeld een Cercle danst, dan is de hand van de man onder.
+- Om samen te kunnen draaien in een koppeldans, is het belangrijk dat de Volger licht leunt in de rechterarm van de Leider. Daardoor vorm je als koppel 1 geheel en krijg je een gezamelijk zwaarte-/draaipunt. De Volger moet hiervoor durven te leunen, maar de Leider moet ook het vertrouwen geven dat nodig is om te durven leunen. Dit is een subtiele balans tussen tegendruk geven en tegelijkertijd laten vieren. Oefen dit vooral eens 'droog', en durf tegen elkaar te zeggen hoe het voelt of hoe het anders zou kunnen.
+- De Volger leunt als het ware als een plank naar achter, in de arm van de Leider. dus niet met een holle rug, als een hoepeltje achterover, maar ook niet door je kont naar achter te steken.
+- In het stijldansen staan paren vaak tot en met de heupen tegen elkaar aangeplakt, en komt veel van het leiden ook door de heupen. Veel balfolkies hebben echter een houding waarbij wat afstand zit, en het leiden met de heupen niet werkt. Het is dan belangrijk om de rechter-arm (voor de Leider) stevig te houden en deze alle bewegingen van het lichaam te laten vertalen naar de rug van de Volger. Het is echt wel zo dat wanneer je leidt met je volledige lichaam en je een lichte spanning in de armen houdt de vrouw hierop kan volgen. Het is daarbij wel belangrijk dat je vanuit je bovenlichaam beweegt.
+- Als een man een vrouw naar de vloer begeleidt, of bijvoorbeeld een Cercle danst, dan is de hand van de man onder.

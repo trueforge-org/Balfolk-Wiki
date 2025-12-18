@@ -11,6 +11,4 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-
-
 [Festifal a 3temps](http://festival.3temps.com/nl/home/ "http://festival.3temps.com/nl/home/")

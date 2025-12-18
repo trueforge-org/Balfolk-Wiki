@@ -11,12 +11,8 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-
-
 `Mazurka in 13` is een onregelmatige mazurka-variant met 13-tellingen; dit vergt aandacht voor tellen en accenten.
-
 
 Basis: mazurka-achtige stappen met onregelmatige tussenpuls; oefen secties los.
 
 Bronnen:
-

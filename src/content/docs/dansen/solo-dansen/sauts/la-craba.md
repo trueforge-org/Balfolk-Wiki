@@ -11,12 +11,8 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-
-
 `La Craba` is vermoedelijk een lokale sprong- of saut-variant; concrete beschrijvingen zijn beperkt.
-
 
 Basis: sprongen en korte figuren.
 
 Bronnen:
-

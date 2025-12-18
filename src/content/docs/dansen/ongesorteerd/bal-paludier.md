@@ -11,12 +11,8 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-
-
 `Bal Paludier` is een lokale dans verbonden aan zoutwerkersgemeenschappen (paludiers), met eenvoudige, gemeenschapsgerichte figuren.
-
 
 Basis: herhalende passen en sociale figuren.
 
 Bronnen:
-

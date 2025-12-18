@@ -11,12 +11,8 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-
-
 `Mariana` is mogelijk een regionale sprong- of solodans; details verschillen per streek.
-
 
 Basis: korte sprongen en accenten; raadpleeg lokale bronnen.
 
 Bronnen:
-

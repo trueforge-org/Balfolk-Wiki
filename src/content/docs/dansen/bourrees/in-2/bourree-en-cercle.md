@@ -11,8 +11,6 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-
-
 ### Bourree en Cercle
 
 In Nederland soms ook Bourrée en Ronde genoemd. Bourréevariant die los in een cirkel of een aantal concentrische cirkels wordt gedanst. Oorspronkelijke benaming was 'Brande d'Ardentes'.

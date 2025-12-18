@@ -11,12 +11,8 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-
-
 `Avant-Deux de Long` is een langere variant van de avant-deux, vaak met uitgebreidere figuren.
-
 
 Basis: uitgebreidere figuuruitvoering over langere fraseringen.
 
 Bronnen:
-

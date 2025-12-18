@@ -11,13 +11,8 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-
-
-
 `Stigvals` is mogelijk een lokale of traditionele dansnaam; concrete informatie is schaars.
-
 
 Basis: volg lokale dansers of bronnen voor exacte stappen.
 
 Bronnen:
-

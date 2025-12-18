@@ -21,4 +21,3 @@ Stap met links, rechts, links - rechter been achterom zwaaien (rechtsom)
 
 Zet rechts neer achter links met gewicht, stap links naar schuin voor,
 kruis rechts voor links (met gewicht)
-

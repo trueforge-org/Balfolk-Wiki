@@ -11,11 +11,7 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-
-
-
 Bourrée croisée is een variant van de bourrée uit Midden-Frankrijk, vaak gedanst in tweedelige patronen.
-
 
 Basisstappen:
 
@@ -23,4 +19,3 @@ Basisstappen:
 - vaak met een kruising of gekruiste passen (vandaar "croisée");
 
 Bronnen:
-

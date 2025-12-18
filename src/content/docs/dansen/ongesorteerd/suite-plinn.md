@@ -11,12 +11,8 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-
-
 `Suite Plinn` is een reeks of variant van de Bretonse `Plinn`, met meerdere delen die achter elkaar worden gedanst.
-
 
 Basis: opeenvolgende plinn-delen met dynamische sprongen.
 
 Bronnen:
-

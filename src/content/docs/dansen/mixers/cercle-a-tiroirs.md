@@ -11,12 +11,8 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-
-
 `Cercle à tiroirs` is een mixers- of party-dans met korte, speelse figuren die deelnemers door elkaar laten bewegen.
-
 
 Basis: korte figuren en wisselingen; bedoeld om deelnemers te mengen.
 
 Bronnen:
-

@@ -11,12 +11,8 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-
-
 `Monenh` is vermoedelijk een lokale sprong- of dansnaam; details zijn beperkt en vragen lokale bronnen.
-
 
 Basis: korte sprongen of sprongetjes.
 
 Bronnen:
-

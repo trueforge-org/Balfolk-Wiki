@@ -11,8 +11,6 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-
-
 ### TRICOT
 
 Een “tricot” is elke combinatie van een Hanter-Dro en een An Dro.

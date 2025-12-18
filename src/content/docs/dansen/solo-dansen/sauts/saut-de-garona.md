@@ -11,12 +11,8 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-
-
 `Saut de Garona` is vermoedelijk een lokale sprong- of solodans met verbinding naar de regio Garona.
-
 
 Basis: sprongen met simpele ritmische patronen.
 
 Bronnen:
-

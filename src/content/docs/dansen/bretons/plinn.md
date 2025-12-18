@@ -70,12 +70,6 @@ de partner onder door draaien In het snelle deel kan je je naar elkaar
 toedraaien, lichte spanning in de armen zetten en tegen hoge snelheid al
 plinn-springend rond elkaar draaien.
 
-
-
-
-
-
-
 ### Plinn
 
 #### Opstelling
@@ -86,7 +80,7 @@ In kringen of slierten, houding zoals bij hanter dro. Afwisselend man - vrouw (b
 
 Een volledige suite bestaat uit drie delen. Buiten Bretagne speelt men wel eens enkel deel 1 of deel 3.
 
-* Deel 1 (ton simple) en 3 (ton double):
+- Deel 1 (ton simple) en 3 (ton double):
 
 Dicht bij elkaar in de kring of sliert. Geen beweging met de armen zoals bij andro of laridé. Voetenwerk: spring met twee voeten samen lichtjes naar links, spring met twee voeten samen ter plaatse, polkasprongetje ter plaatse: links-rechts-links (of samen).
 
@@ -94,15 +88,15 @@ Het ritme is: lang/lang/kort kort/lang.
 
 Vooral deel 3 wordt vaak heel erg lang gespeeld, tot je erbij neervalt of in trance bent.
 
-* Deel 2 (bal)
+- Deel 2 (bal)
 
 Dient als verademing. In koppel tegen de dansrichting in. Gekruist armen voor. Opstelling zoals bij de gigue. De muziek bestaat uit de afwisseling van een traag en een snel deel (aantal maten verschilt al naargelang de melodie en de voorkeur van de groep)
 
-* Traag deel:
+- Traag deel:
 
 Wandel langzaam tegen de klok in de kring rond. Armen bewegen daarbij ritmisch naar voor en naar achter.
 
-* Snel deel:
+- Snel deel:
 
 Zelfde pas als in deel 1 en 3. Maar nu in koppel. Eerste sprong naar links, tijdens andere sprongen keer je langzaam naar je oorspronkelijke plaats terug.
 

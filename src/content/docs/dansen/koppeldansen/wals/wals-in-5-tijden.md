@@ -11,8 +11,6 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-
-
 ### Wals in 5 tijden
 
 Een dans met 5 tellen in de maat.

@@ -61,52 +61,46 @@ Gewoon in paren, half-open houding, over de dansvloer heen
   hij bukt zelf meteen onder de armen van de Volger uit om haar voor deel
   A weer op te vangen.
 
-
-
-
-
-
-
 ### Scottisch
 
 #### Opstelling
 
 #### Basis
 
-* **A**: 123-123-
-* **B**: 1-2-3-4-
+- **A**: 123-123-
+- **B**: 1-2-3-4-
 
 #### Variaties
 
-* Draaien van de Volger
+- Draaien van de Volger
 
-  + Een basisvariatie is op het B gedeelte de Volger één, twee, drie of vier rondjes te lates draaien (vanuit de linkerhand van de Leider).
-  + Ook op het A gedeelte kunnen draaien worden gemaakt
-  + De Leider kan bij de draai van de vrouw zijn rechterarm contact laten houden met de rug, en na de draai de Volger de andere kant op terug laten draaien
-* Omsluiten, elkaar los laten en in het A deel (dus 6 stappen) om een paar heen lopen (allebei een kant), B deel weer vrolijk samen verder dansen.
-* Hele figuur zijwaarts: het tweede deel van A gaat dus binnendoor en deel B is een soort 'naast elkaar lopen', zo kan ook wat afstand worden afgelegd naar een rustig plekje op de dansvloer.
-* Op deel A uit elkaar gaan en gestrekte armen vastpakken en weer naar binnen gaan naar: danshouding, of handen vast voor het hart, of indraaien (Volger onder de linkerarm van de Leider door). Hier een tijdje in dansen, dan de Volger met een kort rukje aan haar linkerarm uit laten draaien op deel B.
-* openvouwen naar links (voor de Leider) en omdraaien naar rechts (voor de Leider) op deel A en op deel B hard ronddraaien met de armen van de Leider om de schouders van de Volger en de armen van de Volger om de nek van de Leider. Op deel A kan zo wat heen en weer gewiebeld worden (ellebogen horizontaal) en op deel B kunnen wel twee rondjes worden gedraaid. Om hier uit te komen laat de Leider de Volger twee rondjes alleen draaien en hij bukt zelf meteen onder de armen van de Volger uit om haar voor deel A weer op te vangen.
+  - Een basisvariatie is op het B gedeelte de Volger één, twee, drie of vier rondjes te lates draaien (vanuit de linkerhand van de Leider).
+  - Ook op het A gedeelte kunnen draaien worden gemaakt
+  - De Leider kan bij de draai van de vrouw zijn rechterarm contact laten houden met de rug, en na de draai de Volger de andere kant op terug laten draaien
+- Omsluiten, elkaar los laten en in het A deel (dus 6 stappen) om een paar heen lopen (allebei een kant), B deel weer vrolijk samen verder dansen.
+- Hele figuur zijwaarts: het tweede deel van A gaat dus binnendoor en deel B is een soort 'naast elkaar lopen', zo kan ook wat afstand worden afgelegd naar een rustig plekje op de dansvloer.
+- Op deel A uit elkaar gaan en gestrekte armen vastpakken en weer naar binnen gaan naar: danshouding, of handen vast voor het hart, of indraaien (Volger onder de linkerarm van de Leider door). Hier een tijdje in dansen, dan de Volger met een kort rukje aan haar linkerarm uit laten draaien op deel B.
+- openvouwen naar links (voor de Leider) en omdraaien naar rechts (voor de Leider) op deel A en op deel B hard ronddraaien met de armen van de Leider om de schouders van de Volger en de armen van de Volger om de nek van de Leider. Op deel A kan zo wat heen en weer gewiebeld worden (ellebogen horizontaal) en op deel B kunnen wel twee rondjes worden gedraaid. Om hier uit te komen laat de Leider de Volger twee rondjes alleen draaien en hij bukt zelf meteen onder de armen van de Volger uit om haar voor deel A weer op te vangen.
 
 ### Voorbeeld muziekjes en filmpjes
 
-* Bladmuziek [Le Canal en Octobre](http://bladmuziek.dennisreidsma.nl/gonnagles/index.php/tunes/single/276 "http://bladmuziek.dennisreidsma.nl/gonnagles/index.php/tunes/single/276"):
-* Opname [Le Canal en Octobre](http://bladmuziek.dennisreidsma.nl/gonnagles/index.php/tunes/single/276 "http://bladmuziek.dennisreidsma.nl/gonnagles/index.php/tunes/single/276"):
+- Bladmuziek [Le Canal en Octobre](http://bladmuziek.dennisreidsma.nl/gonnagles/index.php/tunes/single/276 "http://bladmuziek.dennisreidsma.nl/gonnagles/index.php/tunes/single/276"):
+- Opname [Le Canal en Octobre](http://bladmuziek.dennisreidsma.nl/gonnagles/index.php/tunes/single/276 "http://bladmuziek.dennisreidsma.nl/gonnagles/index.php/tunes/single/276"):
 
-* Scottish instructie
+- Scottish instructie
 
-* Wen en Cryssie
+- Wen en Cryssie
 
-* Chananja en Cecilia
+- Chananja en Cecilia
 
 (Filmpje gemaakt door Iris)
 
 ### Externe Pagina's
 
-* Basisuitleg op folkforum, door Cooper
-* [Celtic Bompa Scottish](BFdances.html#scottish "https://web.archive.org/web/20130308005157/http://celticbompa.4t.com/BFdances.html#scottish")
-* [Celtic Bompa workshop door Bernard Coclet aantekeningen](Wattrelos20040131.html#scottish "https://web.archive.org/web/20130308005157/http://celticbompa.4t.com/Wattrelos20040131.html#scottish")
-* [Folkroddels.be: Scottish voor fijnproevers](http://www.folkroddels.be/artikels/1770.html "http://www.folkroddels.be/artikels/1770.html")
+- Basisuitleg op folkforum, door Cooper
+- [Celtic Bompa Scottish](BFdances.html#scottish "https://web.archive.org/web/20130308005157/http://celticbompa.4t.com/BFdances.html#scottish")
+- [Celtic Bompa workshop door Bernard Coclet aantekeningen](Wattrelos20040131.html#scottish "https://web.archive.org/web/20130308005157/http://celticbompa.4t.com/Wattrelos20040131.html#scottish")
+- [Folkroddels.be: Scottish voor fijnproevers](http://www.folkroddels.be/artikels/1770.html "http://www.folkroddels.be/artikels/1770.html")
 
 <!-- preserved-video-start -->
 <iframe allowfullscreen="" frameborder="0" height="350" scrolling="no" src="https://www.youtube.com/embed/y1mfTqRCfyg" width="425"></iframe>

@@ -11,12 +11,8 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-
-
 `Branle de Noirmoutier` is een lokale branle-variant vernoemd naar Noirmoutier, met herhalende groepsfiguren.
-
 
 Basis: traditionele branle-patronen met lokale varianten.
 
 Bronnen:
-

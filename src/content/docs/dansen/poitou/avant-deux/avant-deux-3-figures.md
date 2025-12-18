@@ -11,12 +11,8 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-
-
 `Avant-Deux (3 figures)` beschrijft een uitvoering van de avant-deux met drie onderscheiden figuren.
-
 
 Basis: drie opeenvolgende figuren met wisselingen tussen de paren.
 
 Bronnen:
-

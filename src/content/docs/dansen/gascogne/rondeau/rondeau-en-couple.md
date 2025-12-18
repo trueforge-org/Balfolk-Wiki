@@ -33,10 +33,3 @@ Armen in elkaar als in de Hanterdro
 
 Armzwaai van langs het lichaam naar iets omhoog op elke eerste tel van
 elke maat
-
-
-
-
-
-
-

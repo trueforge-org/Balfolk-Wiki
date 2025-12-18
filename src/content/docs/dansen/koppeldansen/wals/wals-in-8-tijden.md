@@ -11,8 +11,6 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-
-
 ### Wals in 8 tijden
 
 Zie de [wals in 5 tijden](wals-in-5-tijden.md).

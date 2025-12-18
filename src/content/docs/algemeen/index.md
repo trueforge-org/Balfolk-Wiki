@@ -33,10 +33,3 @@ Juist omdat de basis niet al te ingewikkeld is kunnen beginners meteen
 meedoen. Dat maakt deze vorm van dansen heel toegankelijk. Iedereen is
 welkom: jong, oud, woest en rustig. Zolang je bij het dansen rekening
 houdt met je mededansers is alles toegestaan!
-
-
-
-
-
-
-

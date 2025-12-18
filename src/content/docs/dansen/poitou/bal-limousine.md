@@ -11,12 +11,8 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-
-
 `Bal Limousine` is een dans of baltraditie uit de Limousin-regio, vaak met lokale dansvormen en sociale figuren.
-
 
 Basis: sociale dansfiguren, soms regionale varianten van bekende dansvormen.
 
 Bronnen:
-

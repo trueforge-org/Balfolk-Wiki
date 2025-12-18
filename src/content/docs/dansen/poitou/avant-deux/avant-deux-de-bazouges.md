@@ -11,12 +11,8 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-
-
 `Avant-Deux de Bazouges` is een lokale variant van de avant-deux, genoemd naar de plaats Bazouges.
-
 
 Basis: typische avant-deux-figuren met lokale accenten.
 
 Bronnen:
-

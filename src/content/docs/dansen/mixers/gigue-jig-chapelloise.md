@@ -84,6 +84,3 @@ Rechterhand Leider en linkerhand Volger zijn vast, hand van Leider is onder)
 - Halverwege I draait de Leider de Volger met één of twee handen een hele
   slag in en ze lopen nog steeds vooruit en bij het eerste deel van B
   achteruit. In het tweede deel van B volgt een draai 'uit'.
-
-
-

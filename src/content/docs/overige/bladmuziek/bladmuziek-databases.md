@@ -11,8 +11,6 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-
-
 ### Badmuziek Databases
 
 Hier staan links naar verscheidene databases met muziek.

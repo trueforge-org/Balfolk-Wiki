@@ -11,12 +11,8 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-
-
 `Rond de Barbâtre` is een lokale rondedans verbonden aan Barbâtre; vaak eenvoudig en gemeenschapsgericht.
-
 
 Basis: herhalende passen en kleine wendingen.
 
 Bronnen:
-

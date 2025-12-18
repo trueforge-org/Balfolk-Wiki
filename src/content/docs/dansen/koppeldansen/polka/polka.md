@@ -47,12 +47,6 @@ Heel veel, wees crea! Een kort lijstje:
 - Variaties in ritme: je kan de polkapas afwisselen met de pas van deel
   B van de scottisch, liefst op het einde van een muzikaal deeltje.
 
-
-
-
-
-
-
 ### Polka
 
 #### Opstelling
@@ -69,16 +63,16 @@ Als je het nog niet zo goed kunt dat je in een rechte lijn de dansvloer tegen de
 
 Heel veel, wees crea! Een kort lijstje:
 
-* Variaties in stijl: je kan de polka heel plat dansen (bijna niet springen) of net heel springerig
-* Variaties in plaats: de variaties van wals en scottisch zijn ook bruikbaar voor de polka.
-* Variaties in ritme: je kan de polkapas afwisselen met de pas van deel B van de scottisch, liefst op het einde van een muzikaal deeltje.
+- Variaties in stijl: je kan de polka heel plat dansen (bijna niet springen) of net heel springerig
+- Variaties in plaats: de variaties van wals en scottisch zijn ook bruikbaar voor de polka.
+- Variaties in ritme: je kan de polkapas afwisselen met de pas van deel B van de scottisch, liefst op het einde van een muzikaal deeltje.
 
 ### Voorbeeld muziekjes en filmpjes
 
-* [Bladmuziek Polka van Wim](http://bladmuziek.dennisreidsma.nl/gonnagles/index.php/tunes/single/269 "http://bladmuziek.dennisreidsma.nl/gonnagles/index.php/tunes/single/269") (PDF en midi)
-* [Opname Polka van Wim](http://bladmuziek.dennisreidsma.nl/gonnagles/index.php/tunes/single/269 "http://bladmuziek.dennisreidsma.nl/gonnagles/index.php/tunes/single/269"):
+- [Bladmuziek Polka van Wim](http://bladmuziek.dennisreidsma.nl/gonnagles/index.php/tunes/single/269 "http://bladmuziek.dennisreidsma.nl/gonnagles/index.php/tunes/single/269") (PDF en midi)
+- [Opname Polka van Wim](http://bladmuziek.dennisreidsma.nl/gonnagles/index.php/tunes/single/269 "http://bladmuziek.dennisreidsma.nl/gonnagles/index.php/tunes/single/269"):
 
 ### Externe Pagina's
 
-* [Celtic Bompa Polka](BFdances.html#polka "https://web.archive.org/web/20130308005157/http://celticbompa.4t.com/BFdances.html#polka")
-* [Folkroddels.be: Juffrouw wil jij de polka leren](http://www.folkroddels.be/artikels/3471.html "http://www.folkroddels.be/artikels/3471.html")
+- [Celtic Bompa Polka](BFdances.html#polka "https://web.archive.org/web/20130308005157/http://celticbompa.4t.com/BFdances.html#polka")
+- [Folkroddels.be: Juffrouw wil jij de polka leren](http://www.folkroddels.be/artikels/3471.html "http://www.folkroddels.be/artikels/3471.html")

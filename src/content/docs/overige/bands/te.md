@@ -11,8 +11,6 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-
-
 ### Té
 
 Té is een Nederlandse band die zich voornamelijk bezighoudt met [balfolkmuziek](te.md). Hun muziekstijl is een mix van folk, balkan, klezmer, jazz en jazzmanouche.

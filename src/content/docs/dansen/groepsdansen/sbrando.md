@@ -11,12 +11,8 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-
-
 `Sbrando` is een groepsdans met mogelijk mediterrane of lokale invloeden, uitgevoerd in sets of rijen.
-
 
 Basis: herhalende stappen en wendingen met eenvoudige figuren.
 
 Bronnen:
-

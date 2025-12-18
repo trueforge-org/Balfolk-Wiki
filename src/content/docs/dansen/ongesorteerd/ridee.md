@@ -11,12 +11,8 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-
-
 `Ridée` is een traditionele rond- of rijdans (herhaald), met variaties per streek.
-
 
 Basis: herhalende passen en eenvoudige wendingen; vaak gemeenschapsgericht.
 
 Bronnen:
-

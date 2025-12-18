@@ -46,6 +46,3 @@ herhaalt 4 keer.
 Is hetzelfde als deel 1, maar de armen gaan nu meezwaaien (voorste
 danser geeft dit aan). Meestal gaat het tempo van de muziek wat onhoog
 tijdens dit deel.
-
-
-

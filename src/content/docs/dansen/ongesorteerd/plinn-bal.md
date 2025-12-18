@@ -11,12 +11,8 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-
-
 `Plinn Bal` is een variant van de Bretonse `Plinn`, een energieke dans met springerige passen.
-
 
 Basis: opzwepende sprongen en draaiende figuren; typisch Bretons karakter.
 
 Bronnen:
-

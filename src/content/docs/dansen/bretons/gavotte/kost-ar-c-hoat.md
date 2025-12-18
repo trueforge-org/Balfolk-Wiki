@@ -11,8 +11,6 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-
-
 ### Kost ar C'hoat
 
 ### Voorbeeld muziekjes en filmpjes

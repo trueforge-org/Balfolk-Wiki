@@ -11,12 +11,8 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-
-
 `Plin-ton double` is waarschijnlijk een dubbele variant van een plinn- of plin-ton dans; specifieke details zijn lokaal.
-
 
 Basis: herhalende stappen met mogelijke dubbele accenten.
 
 Bronnen:
-

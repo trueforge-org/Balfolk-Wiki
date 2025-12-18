@@ -12,11 +12,8 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-
 `Langdans` (lange dans) is een type groepsdans waarbij dansers in lange rijen of ketens bewegen, vaak met eenvoudige stappatronen.
-
 
 Basis: herhalende stappen en wendingen, nadruk op voortbewegen in de rij.
 
 Bronnen:
-

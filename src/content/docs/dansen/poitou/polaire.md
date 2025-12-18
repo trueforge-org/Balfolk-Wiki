@@ -11,12 +11,8 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-
-
 `Polaire` lijkt op een lokale dansterm; precieze betekenis en uitvoering kunnen per plaats verschillen.
-
 
 Basis: eenvoudige herhalende passen en wendingen.
 
 Bronnen:
-

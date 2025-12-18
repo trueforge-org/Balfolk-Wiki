@@ -87,12 +87,6 @@ In 1 of meerdere lange slierten. Mannetje/vrouwtje maakt niet uit
 - Nog even over die pinken: de palm van je hand wijst omlaag. Je pink
   zit dan dus aan de "buitenkant" van je hand.
 
-
-
-
-
-
-
 ### Laride
 
 Er is nog geen omschrijving toegevoegd
@@ -113,9 +107,9 @@ Zie An Dro
 
 ### Voorbeeld muziekjes en filmpjes
 
-* Laridé 8 temps
+- Laridé 8 temps
 
-* Filmpje van Boombalfestival 2009 (muzikant onbekend) (opgenomen door Herman Horsten, [www.hermanhorsten.be](http://www.hermanhorsten.be/ "http://www.hermanhorsten.be")):
+- Filmpje van Boombalfestival 2009 (muzikant onbekend) (opgenomen door Herman Horsten, [www.hermanhorsten.be](http://www.hermanhorsten.be/ "http://www.hermanhorsten.be")):
 
 <!-- preserved-video-start -->
 <iframe allowfullscreen="" frameborder="0" height="350" scrolling="no" src="https://www.youtube.com/embed/4mZwUelKKw0" width="425"></iframe>

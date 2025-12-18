@@ -241,12 +241,6 @@ geplaatst.
 
 Hierbij worden de RECHTER voeten met de BUITENKANTEN naast elkaar gezet.
 
-
-
-
-
-
-
 ### Terminologie
 
 Op deze pagina staat een overzicht van gebruikte begrippen en afkortingen.
@@ -265,19 +259,19 @@ Dit is een afzet van één van beide voeten of van allebei tegelijk, daarna een 
 
 1. afzetten van beide en neerkomen op beide:
 
-* *Sluitsprong:* neerkomen op gesloten voeten
-* *Spreidsprong:* neerkomen in spreidstand
+- *Sluitsprong:* neerkomen op gesloten voeten
+- *Spreidsprong:* neerkomen in spreidstand
 
-2. afzetten van twee voeten en neerkomen op één:
+1. afzetten van twee voeten en neerkomen op één:
 
-* op de plaats
-* Zijwaarts
-* voorwaarts
-* achterwaarts
+- op de plaats
+- Zijwaarts
+- voorwaarts
+- achterwaarts
 
-3. sprong van de ene op de andere voet (Loopsprong)
+1. sprong van de ene op de andere voet (Loopsprong)
 
-4. sprong van de ene voet, neerkomen op dezelfde: hup of hop
+2. sprong van de ene voet, neerkomen op dezelfde: hup of hop
 
 #### Tik
 
@@ -376,4 +370,3 @@ Op de “slow” van het quick-quick-slow ritme. Elke tel draai je 1/4
 Eigenlijk draai je steeds een halve slag op het zweefmoment van de “hup”. Voet wordt niet zo erg duidelijk tussen de voeten van de partner geplaatst.
 
 ##### Spinnen
-

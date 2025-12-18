@@ -11,12 +11,8 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-
-
 `Poraie` is mogelijk een lokale dansnaam in Poitou; details zijn schaars en kunnen per dorp verschillen.
-
 
 Basis: eenvoudige, herhalende stappen.
 
 Bronnen:
-

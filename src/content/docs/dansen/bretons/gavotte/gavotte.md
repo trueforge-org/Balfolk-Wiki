@@ -38,4 +38,3 @@ kan het ook als volgt tellen: een, twee, ee - ne twee, een, twee, een
 
 Of gebruik dit als ezelsbruggetje: een, twee, in de maat, anders wordt
 de juffrouw "hop"
-

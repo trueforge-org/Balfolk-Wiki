@@ -11,12 +11,8 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-
-
 `Ronde de Chantecorps` is een lokale rondedans vernoemd naar Chantecorps, met eenvoudige groepsfiguren.
-
 
 Basis: herhalende passen en eenvoudige wendingen.
 
 Bronnen:
-

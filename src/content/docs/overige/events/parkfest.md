@@ -11,8 +11,6 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-
-
 ### Parkfest
 
 Parkfest is een meerdaags festival voor folkmuziek uit Nederland, Vlaanderen, Frankrijk, Ierland/Schotland/Engeland en wat uitstapjes daarbuiten. De programmering bestaat uit ongeveer 20 optredens, waarvan bijna de helft Balfolk is. Naast muziek en dans zijn er workshops voor muzikanten, danslessen, een markt, kinderactiviteiten en een sessiepodium. Verder is er een goede catering en uitgebreide bar. Bezoekers van Parkfest zijn van alle leeftijden.

@@ -11,11 +11,7 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-
-
-
 De Bourrée des Jeunes is een eenvoudige bourrée-variant uit de Berry-regio, vaak gebruikt als oefenstuk.
-
 
 Basisstappen:
 
@@ -23,4 +19,3 @@ Basisstappen:
 - Eenvoudige figuren en herhalingen, geschikt voor beginnende dansers.
 
 Bronnen:
-

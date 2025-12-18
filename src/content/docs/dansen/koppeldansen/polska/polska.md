@@ -51,6 +51,3 @@ andere, maar je mag zelf bepalen wanneer en hoe lang je draait.
 Om de stappen in het draaigedeelte goed onder de knie te krijgen, is het
 nuttig om het eerst individueel te oefenen, waarbij je al wel om een
 denkbeeldige partner heen draait.
-
-
-
