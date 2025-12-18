@@ -1,8 +1,15 @@
 ---
 title: "wals in 14 tijden"
-description: ""
-draft: false
 ---
+
+:::warning
+
+Dit bestand is aangevuld middels AI.
+Ga er vanuit dat alles hierin onzin is, tenzij bevestigd middels een andere bron.
+
+Hulp met aanvullen en verbetering word gewaardeerd!
+
+:::
 
 <!-- source: dansen/wals/wals_in_14_tijden.html -->
 

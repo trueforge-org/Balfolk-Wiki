@@ -1,7 +1,5 @@
 ---
 title: "avant deux 3 figures"
-description: ""
-draft: false
 ---
 
 :::warning
@@ -12,7 +10,6 @@ Ga er vanuit dat alles hierin onzin is, tenzij bevestigd middels een andere bron
 Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
-
 
 
 

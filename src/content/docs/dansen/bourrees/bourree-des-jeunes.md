@@ -1,10 +1,6 @@
 ---
 title: "bourree des jeunes"
-description: ""
-draft: false
 ---
-
-<!-- source: dansen/bourree_du_berry_bourree_des_jeunes.html -->
 
 :::warning
 
@@ -14,6 +10,7 @@ Ga er vanuit dat alles hierin onzin is, tenzij bevestigd middels een andere bron
 Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
+
 
 
 

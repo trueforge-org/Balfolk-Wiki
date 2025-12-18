@@ -1,10 +1,6 @@
 ---
 title: "Dit onderwerp bestaat nog niet"
-description: ""
-draft: false
 ---
-
-<!-- source: dansen/polska_springlek.html -->
 
 :::warning
 
@@ -14,6 +10,7 @@ Ga er vanuit dat alles hierin onzin is, tenzij bevestigd middels een andere bron
 Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
+
 
 
 
