@@ -1,3 +1,7 @@
+---
+title: "Balfolk-Wiki Readme"
+---
+
 # Balfolk-Wiki Readme
 
 ## Supported Code Block Languages
