@@ -185,7 +185,7 @@ Hoe houd je vast…
 
 ### Externe Pagina's
 
-* [Celtic Bompa Circassian Circle](BFdances.html#tovercirkel "http://celticbompa.4t.com/BFdances.html#tovercirkel")
+* [Celtic Bompa Circassian Circle](BFdances.html#tovercirkel "https://web.archive.org/web/20130308005157/http://celticbompa.4t.com/BFdances.html#tovercirkel")
 
 <!-- preserved-video-start -->
 <iframe allowfullscreen="" frameborder="0" height="350" scrolling="no" src="https://www.youtube.com/embed/-G0zatPjrh4" width="425"></iframe>

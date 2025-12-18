@@ -8,7 +8,7 @@ draft: false
 
 ### Wals in 8 tijden
 
-Zie de [wals in 5 tijden](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕wals﹕wals_in_5_tijden.html "nl:dansen:wals:wals_in_5_tijden").
+Zie de [wals in 5 tijden](wals-in-5-tijden.md).
 
 Ook deze dans is opgebouwd uit een combinatie van walspassen en tweestapsdraaipassen.
 

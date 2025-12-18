@@ -8,7 +8,7 @@ draft: false
 
 ### Té
 
-Té is een Nederlandse band die zich voornamelijk bezighoudt met [balfolkmuziek](doku.php﹖id=doku.php﹖id=nl﹕algemeen﹕balfolk.html "nl:algemeen:balfolk"). Hun muziekstijl is een mix van folk, balkan, klezmer, jazz en jazzmanouche.
+Té is een Nederlandse band die zich voornamelijk bezighoudt met [balfolkmuziek](te.md). Hun muziekstijl is een mix van folk, balkan, klezmer, jazz en jazzmanouche.
 
 #### Samenstelling
 
@@ -21,7 +21,7 @@ Té speelt zowel als kwartet als als trio, maar tot op heden meestal als trio. D
 
 #### Optredens
 
-Té speelt veelal op [balfolk](doku.php﹖id=doku.php﹖id=nl﹕algemeen﹕balfolk.html "nl:algemeen:balfolk") evenementen in Nederland en heeft hierbij ook al op verscheidene festivals opgetreden zoals [Folkwoods](doku.php﹖id=doku.php﹖id=nl﹕event﹕parkfest.html "nl:event:folkwoods") (2012), Festival Mundial (2012), [Castlefest](doku.php﹖id=doku.php﹖id=nl﹕event﹕castlefest.html "nl:event:castlefest") (2011), [Cadansa](doku.php﹖id=doku.php﹖id=nl﹕event﹕cadansa.html "nl:event:cadansa") (2012), [Dansstage](doku.php﹖id=doku.php﹖id=nl﹕event﹕dansstage.html "nl:event:dansstage") (2014) en [Dennefeest](doku.php﹖id=doku.php﹖id=nl﹕event﹕dennefeest.html "nl:event:dennefeest") (2013). Ook hebben ze in de laatste jaren in het buitenland steeds meer populariteit gekregen. Ze hebben zodoende onder andere al opgetreden in België, Duitsland, Frankrijk, Engeland, Tsjechië, Polen en Canada [1)](#refnotes:1:note1).
+Té speelt veelal op [balfolk](te.md) evenementen in Nederland en heeft hierbij ook al op verscheidene festivals opgetreden zoals Folkwoods (2012), Festival Mundial (2012), [Castlefest](../events/castlefest.md) (2011), [Cadansa](../events/cadansa.md) (2012), [Dansstage](../events/dansstage.md) (2014) en [Dennefeest](../events/dennefeest.md) (2013). Ook hebben ze in de laatste jaren in het buitenland steeds meer populariteit gekregen. Ze hebben zodoende onder andere al opgetreden in België, Duitsland, Frankrijk, Engeland, Tsjechië, Polen en Canada 1).
 
 De band heeft zich in de muziek laten inspireren op Alice in Wonderland. Dit is onder andere terug te vinden in een aantal van hun nummers die ook al op hun eerste cd staan, maar ook te zien aan de optredens. Zodoende zijn er op het podium vaak theemutsen en een wekker of klok terug te vinden net als wanneer Alice op theebezoek is in het verhaal van Lewis Carroll. Hierbij wordt er ook ingespeeld op dat de fonetische uitspraak van Té overeenkomt met die van thee.
 
@@ -34,38 +34,38 @@ Té heeft dusver één cd uitgebracht in mei 2012 getiteld *Flamingo's Gambit*. 
 | Flamingo's Gambit | | | |
 | --- | --- | --- | --- |
 | **#** | Naam | **Duur** | **Dans** |
-| 1 | Madhatter & Cooooooooooo | 4:24 | [Cercle](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕cercle.html "nl:dansen:cercle") |
-| 2 | Bour wat zeg je van mijn Reeën | 3:48 | [Bourrée du Berry](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕bourree_du_berry﹕kadootjesbourree.html "nl:dansen:bourree_du_berry") |
-| 3 | Lullaby for a Cheshire Cat | 5:36 | [Wals in 5 tijden](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕wals﹕wals_in_5_tijden.html "nl:dansen:wals:wals_in_5_tijden") |
-| 4 | De worp | 4:18 | [Scottisch](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕scottisch.html "nl:dansen:scottisch") |
-| 5 | Quantos Costa? | 4:07 | [Kost ar c'hoat](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕kost_ar_c_hoat.html "nl:dansen:kost_ar_c_hoat") |
-| 6 | aldus sprak toen de goudvis | 5:30 | [Wals in 8 tijden](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕wals﹕wals_in_8_tijden.html "nl:dansen:wals:wals_in_8_tijden") |
-| 7 | Luistervink | 3:50 | [Polska](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕polska﹕slaengpolska.html "nl:dansen:polska") (Bingsjö) |
-| 8 | Steak Bourrée | 4:14 | [Bourrée d'Auvergne](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕bourree_d_auvergne.html "nl:dansen:bourree_d_auvergne") |
-| 9 | Turkish tea with a twist | 4:43 | [Rondeau en Couple](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕rondeau_en_couple.html "nl:dansen:rondeau_en_couple") |
-| 10 | Theelief/Tea leaf | 5:27 | [Mazurka](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕mazurka.html "nl:dansen:mazurka") |
-| 11 | Breiwerk | 4:24 | [Tricot](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕tricot.html "nl:dansen:tricot") |
-| 12 | Walsjemenou?! | 5:13 | [Wals](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕wals﹕wals_in_14_tijden.html "nl:dansen:wals") |
+| 1 | Madhatter & Cooooooooooo | 4:24 | [Cercle](../../dansen/mixers/cercle-in-6.md) |
+| 2 | Bour wat zeg je van mijn Reeën | 3:48 | [Bourrée du Berry](../../dansen/bourrees/in-2/bourree-du-berry.md) |
+| 3 | Lullaby for a Cheshire Cat | 5:36 | [Wals in 5 tijden](../../dansen/koppeldansen/wals/wals-in-5-tijden copy.md) |
+| 4 | De worp | 4:18 | [Scottisch](../../dansen/koppeldansen/scottish/scottisch.md) |
+| 5 | Quantos Costa? | 4:07 | [Kost ar c'hoat](../../dansen/bretons/gavotte/kost-ar-c-hoat.md) |
+| 6 | aldus sprak toen de goudvis | 5:30 | [Wals in 8 tijden](../../dansen/koppeldansen/wals/wals-in-8-tijden.md) |
+| 7 | Luistervink | 3:50 | [Polska](../../dansen/polska/polska-springlek.md) (Bingsjö) |
+| 8 | Steak Bourrée | 4:14 | [Bourrée d'Auvergne](../../dansen/bourrees/bourree-d-auvergne.md) |
+| 9 | Turkish tea with a twist | 4:43 | [Rondeau en Couple](../../dansen/gascogne/rondeau/rondeau-en-couple.md) |
+| 10 | Theelief/Tea leaf | 5:27 | [Mazurka](../../dansen/koppeldansen/mazurka/mazurka-in-11.md) |
+| 11 | Breiwerk | 4:24 | [Tricot](../../dansen/bretons/tricot.md) |
+| 12 | Walsjemenou?! | 5:13 | [Wals](../../dansen/koppeldansen/wals/wals-in-5-tijden copy.md) |
 
 ##### CD 2: The Squirrel's Stash
 
-Met behulp van een crowdfunding project in samenwerking met de gemeente Tilburg hebben ze hun tweede CD uitgebracht op 23 April[2)](#refnotes:1:note2). Dit vond plaats in de Tilburgse stadsbrasserie Dudok en naast Té trad [Avendans](doku.php﹖id=doku.php﹖id=nl﹕bands﹕te.html "nl:bands:avendans") hier ook op. De naam van dit project is Lets Té Together [3)](#refnotes:1:note3)
+Met behulp van een crowdfunding project in samenwerking met de gemeente Tilburg hebben ze hun tweede CD uitgebracht op 23 April2). Dit vond plaats in de Tilburgse stadsbrasserie Dudok en naast Té trad Avendans hier ook op. De naam van dit project is Lets Té Together 3)
 
 | The Squirrel's Stash | | | |
 | --- | --- | --- | --- |
 | **#** | Naam | **Duur** | **Dans** |
-| 1 | Brunch Bourrée | 3:45 | [Bourrée du Berry](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕bourree_du_berry﹕kadootjesbourree.html "nl:dansen:bourree_du_berry") |
-| 2 | Scotch On The Rocks (Crooked Scottish) | 3:56 | [Scottisch](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕scottisch.html "nl:dansen:scottisch") |
-| 3 | Wittebroodswals (Waltz) | 4:48 | [Wals](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕wals﹕wals_in_14_tijden.html "nl:dansen:wals") |
-| 4 | There Goes Bill (Cercle Circassien / Tover Cirkel) | 4:05 | [Cercle](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕cercle.html "nl:dansen:cercle") |
-| 5 | Jig Bourguignon | 3:38 | [Jig](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕jig.html "nl:dansen:jig") |
-| 6 | Scottish Fo Oriane | 4:08 | [Scottisch](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕scottisch.html "nl:dansen:scottisch") |
-| 7 | Chai (Suite Gavotte) | 6:57 | [Gavotte des Montagnes](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕gavotte_des_montagnes.html "nl:dansen:gavotte_des_montagnes:gavotte_des_montagnes") |
-| 8 | Zweibelschnitzel / Market Thief (Polkas) | 3:40 | [Polka](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕polka.html "nl:dansen:polka") |
-| 9 | Anna's Apple Orchard (Ridée) | 5:57 | [Ridée](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕laride﹕ridee.html "nl:dansen:laride:ridee") |
-| 10 | 15 Minute Jig | 3:55 | [Jig](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕jig.html "nl:dansen:jig") |
-| 11 | Flamingo's Croquet (Bourrée) | 4:20 | [Bourrée du Berry](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕bourree_du_berry﹕kadootjesbourree.html "nl:dansen:bourree_du_berry") |
-| 12 | Shadow Dance (Mazurka) | 5:36 | [Mazurka](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕mazurka.html "nl:dansen:mazurka") |
+| 1 | Brunch Bourrée | 3:45 | [Bourrée du Berry](../../dansen/bourrees/in-2/bourree-du-berry.md) |
+| 2 | Scotch On The Rocks (Crooked Scottish) | 3:56 | [Scottisch](../../dansen/koppeldansen/scottish/scottisch.md) |
+| 3 | Wittebroodswals (Waltz) | 4:48 | [Wals](../../dansen/koppeldansen/wals/wals-in-5-tijden copy.md) |
+| 4 | There Goes Bill (Cercle Circassien / Tover Cirkel) | 4:05 | [Cercle](../../dansen/mixers/cercle-in-6.md) |
+| 5 | Jig Bourguignon | 3:38 | [Jig](../../dansen/mixers/gigue-jig-chapelloise.md) |
+| 6 | Scottish Fo Oriane | 4:08 | [Scottisch](../../dansen/koppeldansen/scottish/scottisch.md) |
+| 7 | Chai (Suite Gavotte) | 6:57 | [Gavotte des Montagnes](../../dansen/bretons/gavotte/gavotte-des-montagnes.md) |
+| 8 | Zweibelschnitzel / Market Thief (Polkas) | 3:40 | [Polka](../../dansen/koppeldansen/polka/polka.md) |
+| 9 | Anna's Apple Orchard (Ridée) | 5:57 | [Ridée](../../dansen/ongesorteerd/ridee.md) |
+| 10 | 15 Minute Jig | 3:55 | [Jig](../../dansen/mixers/gigue-jig-chapelloise.md) |
+| 11 | Flamingo's Croquet (Bourrée) | 4:20 | [Bourrée du Berry](../../dansen/bourrees/in-2/bourree-du-berry.md) |
+| 12 | Shadow Dance (Mazurka) | 5:36 | [Mazurka](../../dansen/koppeldansen/mazurka/mazurka-in-11.md) |
 
 ### Externe Pagina's
 
@@ -75,14 +75,14 @@ Met behulp van een crowdfunding project in samenwerking met de gemeente Tilburg 
 
 ---
 
-**[1)](#refnotes:1:ref1)**
+**1)**
 
 [Lijst met optredens van Té](https://www.facebook.com/TeBalfolk?sk=events "https://www.facebook.com/TeBalfolk?sk=events")
 
-**[2)](#refnotes:1:ref2)**
+**2)**
 
 [CD Presentatie Té](http://www.balfolk.nl/agenda.php?bal=1213 "http://www.balfolk.nl/agenda.php?bal=1213")
 
-**[3)](#refnotes:1:ref3)**
+**3)**
 
 [Lets Té Together crowdfundingproject](https://www.tilburgvoorcultuur.nl/project/lets-te-together/ "https://www.tilburgvoorcultuur.nl/project/lets-te-together/")

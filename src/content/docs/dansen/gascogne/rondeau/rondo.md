@@ -55,7 +55,7 @@ Armzwaai van langs het lichaam naar iets omhoog op elke eerste tel van elke maat
 
 #### Variaties
 
-* [Rondeau en Couple](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕rondeau_en_couple.html "nl:dansen:rondeau_en_couple")
+* [Rondeau en Couple](rondeau-en-couple.md)
 
 ### Voorbeeld muziekjes en filmpjes
 

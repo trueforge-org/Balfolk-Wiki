@@ -97,8 +97,8 @@ Gewoon in paren, half-open houding, over de dansvloer heen
 ### Externe Pagina's
 
 * Basisuitleg op folkforum, door Cooper
-* [Celtic Bompa Scottish](BFdances.html#scottish "http://celticbompa.4t.com/BFdances.html#scottish")
-* [Celtic Bompa workshop door Bernard Coclet aantekeningen](Wattrelos20040131.html#scottish "http://celticbompa.4t.com/Wattrelos20040131.html#scottish")
+* [Celtic Bompa Scottish](BFdances.html#scottish "https://web.archive.org/web/20130308005157/http://celticbompa.4t.com/BFdances.html#scottish")
+* [Celtic Bompa workshop door Bernard Coclet aantekeningen](Wattrelos20040131.html#scottish "https://web.archive.org/web/20130308005157/http://celticbompa.4t.com/Wattrelos20040131.html#scottish")
 * [Folkroddels.be: Scottish voor fijnproevers](http://www.folkroddels.be/artikels/1770.html "http://www.folkroddels.be/artikels/1770.html")
 
 <!-- preserved-video-start -->

@@ -62,7 +62,7 @@ Half-open houding, gewoon in paren over de dansvloer heen.
 
 #### Opstelling
 
-[Half-open houding](doku.php﹖id=doku.php﹖id=nl﹕algemeen﹕danshouding.html#half-open "nl:algemeen:danshouding"), gewoon in paren over de dansvloer heen.
+[Half-open houding](../../../algemeen/danshouding.md), gewoon in paren over de dansvloer heen.
 
 #### Basis
 
@@ -103,9 +103,9 @@ Half-open houding, gewoon in paren over de dansvloer heen.
 
 ### Externe Pagina's
 
-* [Celtic Bompa Mazurka](BFdances.html#mazurka "http://celticbompa.4t.com/BFdances.html#mazurka")
-* [Celtic Bompa Workshop Mazurka Variaties door Bernard Coclet aantekeningen](Wattrelos20040131.html#mazurka "http://celticbompa.4t.com/Wattrelos20040131.html#mazurka")
-* [Celtic Bompa Workshop Mazurka door Koen aantekeningen](Koen200403.html#mazurka "http://celticbompa.4t.com/Koen200403.html#mazurka")
+* [Celtic Bompa Mazurka](BFdances.html#mazurka "https://web.archive.org/web/20130308005157/http://celticbompa.4t.com/BFdances.html#mazurka")
+* [Celtic Bompa Workshop Mazurka Variaties door Bernard Coclet aantekeningen](Wattrelos20040131.html#mazurka "https://web.archive.org/web/20130308005157/http://celticbompa.4t.com/Wattrelos20040131.html#mazurka")
+* [Celtic Bompa Workshop Mazurka door Koen aantekeningen](Koen200403.html#mazurka "https://web.archive.org/web/20130308005157/http://celticbompa.4t.com/Koen200403.html#mazurka")
 
 <!-- preserved-video-start -->
 <iframe allowfullscreen="" frameborder="0" height="350" scrolling="no" src="https://www.youtube.com/embed/SOMAKkDINZU" width="425"></iframe>

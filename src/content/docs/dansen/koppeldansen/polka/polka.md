@@ -73,5 +73,5 @@ Heel veel, wees crea! Een kort lijstje:
 
 ### Externe Pagina's
 
-* [Celtic Bompa Polka](BFdances.html#polka "http://celticbompa.4t.com/BFdances.html#polka")
+* [Celtic Bompa Polka](BFdances.html#polka "https://web.archive.org/web/20130308005157/http://celticbompa.4t.com/BFdances.html#polka")
 * [Folkroddels.be: Juffrouw wil jij de polka leren](http://www.folkroddels.be/artikels/3471.html "http://www.folkroddels.be/artikels/3471.html")

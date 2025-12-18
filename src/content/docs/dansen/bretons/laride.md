@@ -102,7 +102,7 @@ In 1 of meerdere lange slierten.
 
 #### Aanwijzingen
 
-Zie [An Dro](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕an_dro.html "nl:dansen:an_dro")
+Zie An Dro
 
 ### Voorbeeld muziekjes en filmpjes
 

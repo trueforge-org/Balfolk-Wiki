@@ -57,13 +57,13 @@ De dans bestaat verder uit een A- en een B-deel:
 * Deel B
 
   + Niet met de schouders naar elkaar staan, maar recht tegenover elkaar beginnen. Dan in de eerste drie tellen een halve draai maken zodat je al van plaats bent gewisseld en elkaar aankijkt. Dan tel 4, 5 en 6 op de plaats blijven en de volgende tellen gebruiken om recht naar achter te gaan (al dan niet met een draai). Deze variatie is logisch te vervolgen op een deel A dat recht naar elkaar wordt gedanst, vaak heeft de muziek een stopje op tel 4, 5 en 6 waardoor deze variatie goed uit de verf komt.
-* [Bourree en cercle](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕bourree_du_berry﹕bourree_en_cercle.html "nl:dansen:bourree_du_berry:bourree_en_cercle")
-* [Bourree des Jeunes](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕bourree_du_berry﹕bourree_des_jeunes.html "nl:dansen:bourree_du_berry:bourree_des_jeunes")
-* [Bourree croisé](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕bourree_du_berry﹕bourree_croisee.html "nl:dansen:bourree_du_berry:bourree_croise")
-* [Bourree carré](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕bourree_du_berry﹕kadootjesbourree.html "nl:dansen:bourree_du_berry:kadootjesbourree")
-* [La grande potterie](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕bourree_du_berry﹕la_grande_potterie.html "nl:dansen:bourree_du_berry:la_grande_potterie")
-* [Bourree valsé d'Issoudun](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕bourree_du_berry﹕bourree_valse_d_issoudun.html "nl:dansen:bourree_du_berry:bourree_valse_d_issoudun")
-* [Kadootjesbourree](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕bourree_du_berry﹕kadootjesbourree.html "nl:dansen:bourree_du_berry:kadootjesbourree")
+* [Bourree en cercle](bourree-en-cercle.md)
+* [Bourree des Jeunes](../bourree-des-jeunes.md)
+* Bourree croisé
+* [Bourree carré](../kadootjesbourree.md)
+* [La grande potterie](../la-grande-potterie.md)
+* [Bourree valsé d'Issoudun](../bourree-valse-d-issoudun.md)
+* [Kadootjesbourree](../kadootjesbourree.md)
 * (Vul maar aan)
 
 ### Instructiefilmpjes
@@ -74,9 +74,9 @@ De dans bestaat verder uit een A- en een B-deel:
 
 ### Externe pagina's
 
-* [Celtic Bompa Bourree](BFdances.html#bourree "http://celticbompa.4t.com/BFdances.html#bourree")
-* [Celtic Bompa Bourree Workshop-aantekeningen](Bourree.html#head "http://celticbompa.4t.com/Bourree.html#head")
-* [Celtic Bompa Bourree-filmpjes](Wattrelos20040131.html#bourree "http://celticbompa.4t.com/Wattrelos20040131.html#bourree")
+* [Celtic Bompa Bourree](BFdances.html#bourree "https://web.archive.org/web/20130308005157/http://celticbompa.4t.com/BFdances.html#bourree")
+* [Celtic Bompa Bourree Workshop-aantekeningen](Bourree.html#head "https://web.archive.org/web/20130308005157/http://celticbompa.4t.com/Bourree.html#head")
+* [Celtic Bompa Bourree-filmpjes](Wattrelos20040131.html#bourree "https://web.archive.org/web/20130308005157/http://celticbompa.4t.com/Wattrelos20040131.html#bourree")
 * [Folkroddels.be: Naar een bourree met stijl](http://www.folkroddels.be/artikels/1885.html "http://www.folkroddels.be/artikels/1885.html")
 
 <!-- preserved-video-start -->

@@ -87,11 +87,11 @@ Je staat in half-open houding, ergens op de dansvloer. De paren die snel willen 
 
 #### Variaties
 
-* [Wals in 5 tijden](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕wals﹕wals_in_5_tijden.html "nl:dansen:wals:wals_in_5_tijden")
-* [Wals in 7 tijden](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕wals﹕wals_in_7_tijden.html "nl:dansen:wals:wals_in_7_tijden")
-* [Wals in 8 tijden](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕wals﹕wals_in_8_tijden.html "nl:dansen:wals:wals_in_8_tijden")
-* [Wals in 11 tijden](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕wals﹕wals_in_11_tijden.html "nl:dansen:wals:wals_in_11_tijden")
-* [Wals in 14 tijden](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕wals﹕wals_in_14_tijden.html "nl:dansen:wals:wals_in_14_tijden")
+* [Wals in 5 tijden](wals-in-5-tijden copy.md)
+* [Wals in 7 tijden](wals-overige/wals-in-7-tijden.md)
+* [Wals in 8 tijden](wals-in-8-tijden.md)
+* [Wals in 11 tijden](wals-in-11-tijden.md)
+* [Wals in 14 tijden](wals-overige/wals-in-14-tijden.md)
 
 ### Voorbeeld muziekjes en filmpjes
 
@@ -105,8 +105,8 @@ Je staat in half-open houding, ergens op de dansvloer. De paren die snel willen 
 
 ### Externe Pagina's
 
-* [Celtic Bompa 5-Step Waltz](BFdances.html#5stepwaltz "http://celticbompa.4t.com/BFdances.html#5stepwaltz")
-* [Celtic Bompa aantekeningen zwiefacher workshop](Zwiebo.html#zwiefacher "http://celticbompa.4t.com/Zwiebo.html#zwiefacher")
+* [Celtic Bompa 5-Step Waltz](BFdances.html#5stepwaltz "https://web.archive.org/web/20130308005157/http://celticbompa.4t.com/BFdances.html#5stepwaltz")
+* [Celtic Bompa aantekeningen zwiefacher workshop](Zwiebo.html#zwiefacher "https://web.archive.org/web/20130308005157/http://celticbompa.4t.com/Zwiebo.html#zwiefacher")
 
 <!-- preserved-video-start -->
 <iframe allowfullscreen="" frameborder="0" height="350" scrolling="no" src="https://www.youtube.com/embed/honwsw_O-W" width="425"></iframe>

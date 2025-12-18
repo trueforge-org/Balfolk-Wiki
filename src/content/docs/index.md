@@ -10,7 +10,7 @@ variaties en tips voor dansers, instructeurs en muzikanten.
 
 ## Algemeen
 
-- [Balfolk](#balfolk)
+- Balfolk
 
 - Danshouding
 
@@ -22,7 +22,7 @@ variaties en tips voor dansers, instructeurs en muzikanten.
 
 -
 
-- [An Dro](#an-dro)
+- An Dro
 
   - An Dro retourné
 
@@ -44,15 +44,15 @@ variaties en tips voor dansers, instructeurs en muzikanten.
 
 - Bourrée d'Auvergne
 
-- [Cercle](#cercle) (Tovercirkel)
+- Cercle (Tovercirkel)
 
 - Fandango
 
 - Gavotte
 
-- [Gigue](#gigue-jig-chapelloise) *(Jig, Chapelloise)*
+- Gigue *(Jig, Chapelloise)*
 
-- [HanterDro](#hanter-dro)
+- HanterDro
 
   - Hanter dro klamm
 
@@ -76,7 +76,7 @@ variaties en tips voor dansers, instructeurs en muzikanten.
 
   - Rondeau en Couple
 
-- [Scottisch](#scottisch)
+- Scottisch
 
 - Tarantella
 
@@ -98,109 +98,109 @@ variaties en tips voor dansers, instructeurs en muzikanten.
 
 
 
-Deze pagina is een alias naar de Nederlandse startpagina. De echte pagina staat hier: [Start](doku.php﹖id=doku.php﹖id=nl﹕start.html "nl:start")
+Deze pagina is een alias naar de Nederlandse startpagina. De echte pagina staat hier: Start
 
-Deze wiki bevat informatie over verschillende balfolk dansen, hun variaties en tips voor dansers, instructeurs en muzikanten. Iedereen is welkom om de informatie op deze site te verbeteren en aan te vullen, daarvoor kun je je [hier](doku.php﹖id=doku.php﹖id=nl﹕start.html "doku.php﹖id=doku.php﹖id=nl﹕start.html") aanmelden om een account te maken.
+Deze wiki bevat informatie over verschillende balfolk dansen, hun variaties en tips voor dansers, instructeurs en muzikanten. Iedereen is welkom om de informatie op deze site te verbeteren en aan te vullen, daarvoor kun je je hier aanmelden om een account te maken.
 
 De oorspronkelijke DansWiki werd hoofdzakelijk onderhouden en gehost door de Gonnagles. De hiervoor gebtruikte server is helaas niet meer in de lucht en vandaar dat hij nu hier staat. Grote delen zijn dan ook direct over genomen uit de oorspronkelijke DansWiki.
 
-Deze DansWiki is ook nog vol in ontwikkeling en het zou kunnen dat er aan het thema e.d. nog het een en ander veranderd te komende tijd. Mocht je zelf nog (nuttige) suggesties hebben voor verbeteringen en/of aanpassingen, laat het dan vooral even weten! Dit kan door een berichtje te sturen naar Balfolk Enschede, of door het aan te geven op de [gevraagd](doku.php﹖id=doku.php﹖id=nl﹕algemeen﹕gevraagd.html "nl:algemeen:gevraagd") pagina onder verbeteringen.
+Deze DansWiki is ook nog vol in ontwikkeling en het zou kunnen dat er aan het thema e.d. nog het een en ander veranderd te komende tijd. Mocht je zelf nog (nuttige) suggesties hebben voor verbeteringen en/of aanpassingen, laat het dan vooral even weten! Dit kan door een berichtje te sturen naar Balfolk Enschede, of door het aan te geven op de [gevraagd](algemeen/gevraagd.md) pagina onder verbeteringen.
 
 # Algemeen
 
-* [Balfolk](doku.php﹖id=doku.php﹖id=nl﹕algemeen﹕balfolk.html "nl:algemeen:balfolk")
-* [Danshouding](doku.php﹖id=doku.php﹖id=nl﹕algemeen﹕danshouding.html "nl:algemeen:danshouding")
-* [Etikette](doku.php﹖id=doku.php﹖id=nl﹕algemeen﹕etikette.html "nl:algemeen:etikette")
-* [Gevraagd](doku.php﹖id=doku.php﹖id=nl﹕algemeen﹕gevraagd.html "nl:algemeen:gevraagd")
-* [Links](doku.php﹖id=doku.php﹖id=nl﹕algemeen﹕links.html "nl:algemeen:links")
-* [Nieuws](doku.php﹖id=doku.php﹖id=nl﹕algemeen﹕nieuws.html "nl:algemeen:nieuws")
-* [Terminologie](doku.php﹖id=doku.php﹖id=nl﹕algemeen﹕terminologie.html "nl:algemeen:terminologie")
-* Hoe werkt de [DansWiki](doku.php﹖id=doku.php﹖id=nl﹕algemeen﹕danswiki.html "nl:algemeen:danswiki")
+* [Balfolk](index.md)
+* [Danshouding](algemeen/danshouding.md)
+* [Etikette](algemeen/etikette.md)
+* [Gevraagd](algemeen/gevraagd.md)
+* [Links](algemeen/links.md)
+* Nieuws
+* [Terminologie](algemeen/terminologie.md)
+* Hoe werkt de [DansWiki](algemeen/danswiki.md)
 
 # Dansen
 
-* [An Dro](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕an_dro.html "nl:dansen:an_dro")
+* An Dro
 
-  + [An Dro retourné](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕an_dro.html "nl:dansen:an_dro:an_dro_retourne")
-* [Bourrée du Berry](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕bourree_du_berry﹕kadootjesbourree.html "nl:dansen:bourree_du_berry") (Bourrée in 2)
+  + An Dro retourné
+* [Bourrée du Berry](dansen/bourrees/in-2/bourree-du-berry.md) (Bourrée in 2)
 
-  + [Bourree en cercle (bourree en ronde)](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕bourree_du_berry﹕bourree_en_cercle.html "nl:dansen:bourree_du_berry:bourree_en_cercle")
-  + [Bourree des Jeunes](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕bourree_du_berry﹕bourree_des_jeunes.html "nl:dansen:bourree_du_berry:bourree_des_jeunes")
-  + [Bourree croisée](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕bourree_du_berry﹕bourree_croisee.html "nl:dansen:bourree_du_berry:bourree_croisee")
-  + [Bourree carrée](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕bourree_du_berry﹕kadootjesbourree.html "nl:dansen:bourree_du_berry:bourree_carree")
-  + [Bourrée tournante des Grandes Poteries](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕bourree_du_berry﹕la_grande_potterie.html "nl:dansen:bourree_du_berry:la_grande_potterie")
-  + [Bourree valsé d'Issoudun](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕bourree_du_berry﹕bourree_valse_d_issoudun.html "nl:dansen:bourree_du_berry:bourree_valse_d_issoudun")
-  + [Kadootjesbourree](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕bourree_du_berry﹕kadootjesbourree.html "nl:dansen:bourree_du_berry:kadootjesbourree")
-* [Bourrée d'Auvergne](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕bourree_d_auvergne.html "nl:dansen:bourree_d_auvergne") (Bourrée in 3)
-* [Cercle](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕cercle.html "nl:dansen:cercle") (Tovercirkel)
-* [Fandango](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕fandango.html "nl:dansen:fandango")
-* [Gavotte des Montagnes](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕gavotte_des_montagnes.html "nl:dansen:gavotte_des_montagnes")
-* [Gavotte de l'Aven](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕cercle.html "nl:dansen:gavotte_de_l_aven")
-* [Jig](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕jig.html "nl:dansen:jig") (Gigue, Chapelloise)
-* [Hanter-Dro](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕hanter_dro﹕hanter-dro_klamm.html "nl:dansen:hanter_dro")
+  + [Bourree en cercle (bourree en ronde)](dansen/bourrees/in-2/bourree-en-cercle.md)
+  + [Bourree des Jeunes](dansen/bourrees/bourree-des-jeunes.md)
+  + [Bourree croisée](dansen/bourrees/bourree-croisee.md)
+  + Bourree carrée
+  + [Bourrée tournante des Grandes Poteries](dansen/bourrees/la-grande-potterie.md)
+  + [Bourree valsé d'Issoudun](dansen/bourrees/bourree-valse-d-issoudun.md)
+  + [Kadootjesbourree](dansen/bourrees/kadootjesbourree.md)
+* [Bourrée d'Auvergne](dansen/bourrees/bourree-d-auvergne.md) (Bourrée in 3)
+* [Cercle](dansen/mixers/cercle-in-6.md) (Tovercirkel)
+* [Fandango](dansen/solo-dansen/fandango.md)
+* [Gavotte des Montagnes](dansen/bretons/gavotte/gavotte-des-montagnes.md)
+* [Gavotte de l'Aven](dansen/bretons/gavotte/gavotte-de-l-aven.md)
+* [Jig](dansen/mixers/gigue-jig-chapelloise.md) (Gigue, Chapelloise)
+* [Hanter-Dro](dansen/bretons/hanter-dro/hanter-dro-hanter-dro-klamm.md)
 
-  + [Hanter-Dro Klamm](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕hanter_dro﹕hanter-dro_klamm.html "nl:dansen:hanter_dro:hanter-dro_klamm")
-* [Horo](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕horo.html "nl:dansen:horo")
-* [Kost ar c'hoat](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕kost_ar_c_hoat.html "nl:dansen:kost_ar_c_hoat")
-* [Laridé](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕laride﹕ridee.html "nl:dansen:laride")
+  + [Hanter-Dro Klamm](dansen/bretons/hanter-dro/hanter-dro-hanter-dro-klamm.md)
+* [Horo](dansen/ongesorteerd/horo.md)
+* [Kost ar c'hoat](dansen/bretons/gavotte/kost-ar-c-hoat.md)
+* [Laridé](dansen/ongesorteerd/laride-in-6.md)
 
-  + [Ridée](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕laride﹕ridee.html "nl:dansen:laride:ridee")
-* [Madison](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕cercle.html "nl:dansen:madison")
-* [Mazurka](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕mazurka.html "nl:dansen:mazurka")
-* [Plinn](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕plinn.html "nl:dansen:plinn")
-* [Polka](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕polka.html "nl:dansen:polka")
-* [Polska](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕polska﹕slaengpolska.html "nl:dansen:polska") (Bingsjö)
+  + [Ridée](dansen/ongesorteerd/ridee.md)
+* [Madison](dansen/solo-dansen/madison.md)
+* [Mazurka](dansen/koppeldansen/mazurka/mazurka-in-11.md)
+* [Plinn](dansen/ongesorteerd/plinn-bal.md)
+* [Polka](dansen/koppeldansen/polka/polka.md)
+* [Polska](dansen/polska/polska-springlek.md) (Bingsjö)
 
-  + [Boda](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕polska﹕boda.html "nl:dansen:polska:boda")
-  + [Springlek](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕polska﹕springlek.html "nl:dansen:polska:springlek")
-  + [Slängpolska](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕polska﹕slaengpolska.html "nl:dansen:polska:slaengpolska")
-* [Rond de Saint-Vincent](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕rond_de_saint-vincent.html "nl:dansen:rond_de_saint-vincent")
-* [Rondo](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕rondo.html "nl:dansen:rondo")
-* [Rondeau en Couple](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕rondeau_en_couple.html "nl:dansen:rondeau_en_couple")
-* [Scottisch](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕scottisch.html "nl:dansen:scottisch")
-* [Stigvals](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕stigvals.html "nl:dansen:stigvals") (Stegvals, Zweedse wals)
-* [Tarantella](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕tarantella.html "nl:dansen:tarantella")
-* [Tricot](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕tricot.html "nl:dansen:tricot")
-* [Wals](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕wals﹕wals_in_14_tijden.html "nl:dansen:wals") (Wals in 3 tijden)
+  + [Boda](dansen/polska/polska-boda.md)
+  + [Springlek](dansen/polska/polska-springlek.md)
+  + [Slängpolska](dansen/polska/polska-slaengpolska.md)
+* [Rond de Saint-Vincent](dansen/bretons/rond-de-saint-vincent.md)
+* [Rondo](dansen/gascogne/rondeau/rondo.md)
+* [Rondeau en Couple](dansen/gascogne/rondeau/rondeau-en-couple.md)
+* [Scottisch](dansen/koppeldansen/scottish/scottisch.md)
+* [Stigvals](dansen/ongesorteerd/stigvals.md) (Stegvals, Zweedse wals)
+* [Tarantella](dansen/groepsdansen/tarantella.md)
+* [Tricot](dansen/bretons/tricot.md)
+* [Wals](dansen/koppeldansen/wals/wals-in-5-tijden copy.md) (Wals in 3 tijden)
 
-  + [Wals in 5 tijden](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕wals﹕wals_in_5_tijden.html "nl:dansen:wals:wals_in_5_tijden")
-  + [Wals in 7 tijden](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕wals﹕wals_in_7_tijden.html "nl:dansen:wals:wals_in_7_tijden")
-  + [Wals in 8 tijden](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕wals﹕wals_in_8_tijden.html "nl:dansen:wals:wals_in_8_tijden")
-  + [Wals in 11 tijden](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕wals﹕wals_in_11_tijden.html "nl:dansen:wals:wals_in_11_tijden")
-  + [Wals in 14 tijden](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕wals﹕wals_in_14_tijden.html "nl:dansen:wals:wals_in_14_tijden")
+  + [Wals in 5 tijden](dansen/koppeldansen/wals/wals-in-5-tijden copy.md)
+  + [Wals in 7 tijden](dansen/koppeldansen/wals/wals-overige/wals-in-7-tijden.md)
+  + [Wals in 8 tijden](dansen/koppeldansen/wals/wals-in-8-tijden.md)
+  + [Wals in 11 tijden](dansen/koppeldansen/wals/wals-in-11-tijden.md)
+  + [Wals in 14 tijden](dansen/koppeldansen/wals/wals-overige/wals-in-14-tijden.md)
 
 # Evenementen
 
 ## Nederland
 
-* [Dansstage](doku.php﹖id=doku.php﹖id=nl﹕event﹕dansstage.html "nl:event:dansstage")
-* [Cadansa](doku.php﹖id=doku.php﹖id=nl﹕event﹕cadansa.html "nl:event:cadansa")
-* [Dennefeest](doku.php﹖id=doku.php﹖id=nl﹕event﹕dennefeest.html "nl:event:dennefeest")
-* [Parkfest](doku.php﹖id=doku.php﹖id=nl﹕event﹕parkfest.html "nl:event:parkfest") (voorheen: “Folkwoods”)
-* [Castlefest](doku.php﹖id=doku.php﹖id=nl﹕event﹕castlefest.html "nl:event:castlefest")
+* [Dansstage](overige/events/dansstage.md)
+* [Cadansa](overige/events/cadansa.md)
+* [Dennefeest](overige/events/dennefeest.md)
+* [Parkfest](overige/events/parkfest.md) (voorheen: “Folkwoods”)
+* [Castlefest](overige/events/castlefest.md)
 
 ## Belgie
 
-* [Boombal Festival](doku.php﹖id=doku.php﹖id=nl﹕event﹕boombalfestival.html "nl:event:boombalfestival")
-* [Boombal Stage](doku.php﹖id=doku.php﹖id=nl﹕event﹕boombalstage.html "nl:event:boombalstage")
+* [Boombal Festival](overige/events/boombalfestival.md)
+* [Boombal Stage](overige/events/boombalstage.md)
 
 ## Overig
 
-* [Festival a 3temps](doku.php﹖id=doku.php﹖id=nl﹕event﹕festival_a_3temps.html "nl:event:festival_a_3temps")
-* [Weekend à Yvré l'Evêque](doku.php﹖id=doku.php﹖id=nl﹕events﹕saintgervais.html "nl:events:weekendayvreleveque")
-* [Les grands bals de l'Europe Gennetines](doku.php﹖id=doku.php﹖id=nl﹕events﹕gennetines.html "nl:events:gennetines")
-* [Les grands bals de l'Europe Saint-Gervais](doku.php﹖id=doku.php﹖id=nl﹕events﹕saintgervais.html "nl:events:saintgervais")
+* [Festival a 3temps](overige/events/festival-a-3temps.md)
+* Weekend à Yvré l'Evêque
+* [Les grands bals de l'Europe Gennetines](overige/events/gennetines.md)
+* [Les grands bals de l'Europe Saint-Gervais](overige/events/saintgervais.md)
 
 # Muziek
 
 ## Bands
 
-* [Té](doku.php﹖id=doku.php﹖id=nl﹕bands﹕te.html "nl:bands:te")
+* [Té](algemeen/etikette.md)
 
 ## Bladmuziek
 
-* [Databases](doku.php﹖id=doku.php﹖id=nl﹕muziek﹕bladmuziek﹕databases.html "nl:muziek:bladmuziek:databases"): Hier vind je links naar databases aan bladmuziek. (Meerdere stukken op dezelfde pagina/website.)
-* [Losse muziek](doku.php﹖id=doku.php﹖id=nl﹕muziek﹕bladmuziek﹕losse_muziek.html "nl:muziek:bladmuziek:losse_muziek"): Hier vind je links naar losse stukken bladmuziek.
+* [Databases](overige/bladmuziek/bladmuziek-databases.md): Hier vind je links naar databases aan bladmuziek. (Meerdere stukken op dezelfde pagina/website.)
+* [Losse muziek](overige/bladmuziek/bladmuziek-losse-muziek.md): Hier vind je links naar losse stukken bladmuziek.
 
 2016/03/16 12:57
 · admin
@@ -212,8 +212,8 @@ Deze DansWiki is ook nog vol in ontwikkeling en het zou kunnen dat er aan het th
 
 ### Dansen
 
-* [Bravade](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕cercle.html "nl:dansen:bravade")
-* [Grabbelton](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕cercle.html "nl:dansen:grabbelton")
+* Bravade
+* [Grabbelton](dansen/mixers/grabbelton.md)
 
 ### Evenementen
 

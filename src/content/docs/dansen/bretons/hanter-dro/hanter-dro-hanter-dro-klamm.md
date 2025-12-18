@@ -8,11 +8,11 @@ draft: false
 
 ### Hanter Dro Klamm
 
-Een variant van de [Hanter Dro](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕hanter_dro﹕hanter-dro_klamm.html "nl:dansen:hanter_dro").
+Een variant van de [Hanter Dro](hanter-dro-hanter-dro-klamm.md).
 
 #### Opstelling
 
-Zie [Hanter Dro](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕hanter_dro﹕hanter-dro_klamm.html "nl:dansen:hanter_dro")
+Zie [Hanter Dro](hanter-dro-hanter-dro-klamm.md)
 
 #### Basis
 

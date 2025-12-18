@@ -20,7 +20,7 @@ Na het registreren kun je de pagina's dus aanpassen. Dit is allemaal heel leuk e
 
 ##### Syntax
 
-Daarbij is het handig als je weet welke [syntax](doku.php﹖id=doku.php﹖id=nl﹕algemeen﹕danswiki.html "wiki:syntax") te gebruiken. De syntax is de manier waarop je teksten zodanig in kunt voeren dat ze er ook uit komen te zien zoals je bedoelt met de juiste kopjes, linkjes e.d. De DansWiki is gebaseerd op [DokuWiki](doku.php﹖id=doku.php﹖id=nl﹕algemeen﹕danswiki.html "wiki:dokuwiki"). Dit is een simpele vorm van wiki software zonder al te veel restricties en hij is vrij te gebruiken. De DokuWiki [syntax](doku.php﹖id=doku.php﹖id=nl﹕algemeen﹕danswiki.html "wiki:syntax") is dan ook de syntax die je nodig hebt om hier pagina's te kunnen maken en aanpassen.
+Daarbij is het handig als je weet welke syntax te gebruiken. De syntax is de manier waarop je teksten zodanig in kunt voeren dat ze er ook uit komen te zien zoals je bedoelt met de juiste kopjes, linkjes e.d. De DansWiki is gebaseerd op DokuWiki. Dit is een simpele vorm van wiki software zonder al te veel restricties en hij is vrij te gebruiken. De DokuWiki syntax is dan ook de syntax die je nodig hebt om hier pagina's te kunnen maken en aanpassen.
 
 ##### Links
 
@@ -32,11 +32,11 @@ Wanner je andermans materiaal gebruikt op de DansWiki, controleer dan even onder
 
 ##### Pagina-overzicht/Index
 
-Als je graag wilt weten welke pagina's er allemaal al zijn, kun je op de hoofdpagina kijken, maar er is een kans dat er al een pagina bestaat die daar nog helemaal niet terug is te vinden. Daarvoor kun je in de [index](doku.php﹖id=doku.php﹖id=nl﹕algemeen﹕danswiki.html "doku.php﹖id=doku.php﹖id=nl﹕algemeen﹕danswiki.html") kijken, waar een zogenaamde sitemap staat van alle pagina's die er al zijn. Je kunt er ook komen door “&do=index” zonder de aanhalingstekens in je adresbalk te zetten achter ongeveer elk denkbare adres waarmee je op de DansWiki aanwezig bent.
+Als je graag wilt weten welke pagina's er allemaal al zijn, kun je op de hoofdpagina kijken, maar er is een kans dat er al een pagina bestaat die daar nog helemaal niet terug is te vinden. Daarvoor kun je in de index kijken, waar een zogenaamde sitemap staat van alle pagina's die er al zijn. Je kunt er ook komen door “&do=index” zonder de aanhalingstekens in je adresbalk te zetten achter ongeveer elk denkbare adres waarmee je op de DansWiki aanwezig bent.
 
 ##### Recente wijzigingen
 
-De DansWiki heeft de mogelijkheid om per pagina te kijken naar de recente wijzigingen. Dit doe je door via het menu bovenin naar “Recente aanpassingen” te gaan of door “&do=recent” zonder aanhalingstekens achter de URL van de pagina te plakken. Er is ook een pagina waarmee je alle recente aanpassingen van over de hele DansWiki kunt zien. Deze vindt je of via de hiervoor genoemde pagina of je kunt er direct naartoe gaan via [Recente wijzigingen](doku.php﹖id=doku.php﹖id=nl﹕start.html "doku.php﹖id=doku.php﹖id=nl﹕start.html").
+De DansWiki heeft de mogelijkheid om per pagina te kijken naar de recente wijzigingen. Dit doe je door via het menu bovenin naar “Recente aanpassingen” te gaan of door “&do=recent” zonder aanhalingstekens achter de URL van de pagina te plakken. Er is ook een pagina waarmee je alle recente aanpassingen van over de hele DansWiki kunt zien. Deze vindt je of via de hiervoor genoemde pagina of je kunt er direct naartoe gaan via Recente wijzigingen.
 
 #### Nieuwe pagina beginnen
 

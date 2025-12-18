@@ -49,7 +49,7 @@ In 1 of meerdere lange slierten. Mannetje/vrouwtje maakt niet uit
 
 ### Hanter Dro
 
-Nog rustiger en meditatiever dan de [An Dro](doku.php﹖id=doku.php﹖id=nl﹕dansen﹕an_dro.html "nl:dansen:an_dro")
+Nog rustiger en meditatiever dan de An Dro
 
 #### Opstelling
 
