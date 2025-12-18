@@ -2,9 +2,7 @@
 title: "Dit onderwerp bestaat nog niet"
 description: ""
 draft: false
-
-
-
+---
 
 `Polska Boda` is een variant van de polska, mogelijk gebruikt in bruids- of feestcontexten (`boda` = bruiloft in sommige talen).
 
