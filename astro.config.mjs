@@ -3,7 +3,7 @@ import starlight from "@astrojs/starlight";
 import tailwindcss from "@tailwindcss/vite";
 // TODO: reenable
 // https://github.com/HiDeoo/starlight-links-validator
-//import starlightLinksValidator from "starlight-links-validator";
+import starlightLinksValidator from "starlight-links-validator";
 // https://github.com/HiDeoo/starlight-image-zoom
 import starlightImageZoom from "starlight-image-zoom";
 // https://docs.astro.build/en/guides/integrations-guide/sitemap/
@@ -81,18 +81,11 @@ export default defineConfig({
         Sidebar: "./src/components/CustomSidebar.astro",
       },
       plugins: [
-        // starlightBlog({
-        //   prefix: "news",
-        //   title: "TrueCharts News",
-        //   postCount: 5,
-        //   recentPostCount: 10,
-        //   authors: authors,
-        // }),
         starlightImageZoom(),
-        //starlightLinksValidator({
-        //  errorOnRelativeLinks: false,
-        //  errorOnFallbackPages: false,
-        //  errorOnLocalLinks: false,
+        starlightLinksValidator({
+          errorOnRelativeLinks: false,
+          errorOnFallbackPages: false,
+          errorOnLocalLinks: false,
         //  exclude: [
         //    "/s/charts",
         //    "/s/discord",
@@ -105,7 +98,7 @@ export default defineConfig({
         //    "/s/tg",
         //    "/s/twitter",
         //  ],
-        //}),
+        }),
       ],
       sidebar: [
         {
