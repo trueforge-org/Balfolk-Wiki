@@ -1,5 +1,5 @@
 ---
-title: "wals in 5 tijden copy"
+title: "wals in 5 tijden"
 description: ""
 draft: false
 ---
