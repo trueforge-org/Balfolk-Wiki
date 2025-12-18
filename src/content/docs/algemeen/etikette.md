@@ -123,7 +123,7 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 
 
-<!-- source: algemeen/etikette.html -->
+
 
 ### Etikette
 

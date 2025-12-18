@@ -52,7 +52,7 @@ In 1 of meerdere lange slierten. Mannetje/vrouwtje maakt niet uit
 
 
 
-<!-- source: dansen/hanter_dro.html -->
+
 
 ### Hanter Dro
 

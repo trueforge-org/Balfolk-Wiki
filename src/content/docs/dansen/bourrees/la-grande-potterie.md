@@ -11,7 +11,7 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-<!-- source: dansen/bourree_du_berry_la_grande_potterie.html -->
+
 
 ### La grande potterie
 

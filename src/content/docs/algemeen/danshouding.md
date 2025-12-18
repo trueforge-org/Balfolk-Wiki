@@ -103,7 +103,7 @@ Open houding, hier moet nog een omschrijving voor komen.
 
 
 
-<!-- source: algemeen/danshouding.html -->
+
 
 ### Danshouding
 

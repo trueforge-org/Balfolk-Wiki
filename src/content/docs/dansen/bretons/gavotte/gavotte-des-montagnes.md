@@ -11,7 +11,7 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-<!-- source: dansen/gavotte_des_montagnes.html -->
+
 
 ### Gavotte des Montagnes
 

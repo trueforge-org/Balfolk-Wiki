@@ -68,7 +68,7 @@ midden.
 - Wals in 11 tijden
 
 
-<!-- source: dansen/wals/wals.html -->
+
 
 Wals
 

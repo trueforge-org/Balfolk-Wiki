@@ -245,7 +245,7 @@ Hierbij worden de RECHTER voeten met de BUITENKANTEN naast elkaar gezet.
 
 
 
-<!-- source: algemeen/terminologie.html -->
+
 
 ### Terminologie
 

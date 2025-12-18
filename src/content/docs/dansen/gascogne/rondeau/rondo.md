@@ -45,7 +45,7 @@ Rondeau en couple
 
 
 
-<!-- source: dansen/rondo.html -->
+
 
 ### Rondo
 

@@ -126,7 +126,7 @@ Hoe houd je vast...
 
 
 
-<!-- source: dansen/cercle.html -->
+
 
 ### Cercle
 

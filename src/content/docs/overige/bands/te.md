@@ -11,7 +11,7 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-<!-- source: bands/te.html -->
+
 
 ### Té
 

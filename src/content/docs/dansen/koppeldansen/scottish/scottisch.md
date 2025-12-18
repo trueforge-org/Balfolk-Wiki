@@ -65,7 +65,7 @@ Gewoon in paren, half-open houding, over de dansvloer heen
 
 
 
-<!-- source: dansen/scottisch.html -->
+
 
 ### Scottisch
 

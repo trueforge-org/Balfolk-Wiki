@@ -51,7 +51,7 @@ Heel veel, wees crea! Een kort lijstje:
 
 
 
-<!-- source: dansen/polka.html -->
+
 
 ### Polka
 

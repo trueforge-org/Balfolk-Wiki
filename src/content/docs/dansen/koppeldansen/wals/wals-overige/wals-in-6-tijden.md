@@ -11,7 +11,7 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-<!-- source: dansen/wals/wals_in_5_tijden.html -->
+
 
 ### Wals in 5 tijden
 

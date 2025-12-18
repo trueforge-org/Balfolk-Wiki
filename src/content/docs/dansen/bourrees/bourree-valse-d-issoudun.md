@@ -11,7 +11,7 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-<!-- source: dansen/bourree_du_berry_bourree_valse_d_issoudun.html -->
+
 
 ### Bourrée valsé d'Issoudun
 

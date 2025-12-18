@@ -11,7 +11,7 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-<!-- source: dansen/kost_ar_c_hoat.html -->
+
 
 ### Kost ar C'hoat
 

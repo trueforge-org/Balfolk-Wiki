@@ -11,7 +11,7 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-<!-- source: algemeen/danswiki.html -->
+
 
 ### Hoe werkt de DansWiki
 

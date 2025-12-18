@@ -137,7 +137,7 @@ andere initiatieven aangekondigd worden met een frappé.
 
 
 
-<!-- source: dansen/bourree_d_auvergne.html -->
+
 
 ### Bourrée d'Auvergne
 

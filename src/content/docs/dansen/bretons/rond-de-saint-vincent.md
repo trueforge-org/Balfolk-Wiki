@@ -56,7 +56,7 @@ Vooral als je heel snel wilt dansen, maximaal zes personen per kring.
 
 
 
-<!-- source: dansen/rond_de_saint-vincent.html -->
+
 
 ### Rond de Saint-Vincent
 

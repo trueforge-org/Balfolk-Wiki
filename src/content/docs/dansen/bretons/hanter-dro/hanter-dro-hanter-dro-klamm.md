@@ -11,7 +11,7 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-<!-- source: dansen/hanter_dro_hanter-dro_klamm.html -->
+
 
 ### Hanter Dro Klamm
 

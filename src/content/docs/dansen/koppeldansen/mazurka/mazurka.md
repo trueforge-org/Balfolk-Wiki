@@ -63,7 +63,7 @@ Half-open houding, gewoon in paren over de dansvloer heen.
 
 
 
-<!-- source: dansen/mazurka.html -->
+
 
 ### Mazurka
 

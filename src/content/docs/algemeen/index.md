@@ -38,5 +38,5 @@ houdt met je mededansers is alles toegestaan!
 
 
 
-<!-- source: algemeen/balfolk.html -->
+
 

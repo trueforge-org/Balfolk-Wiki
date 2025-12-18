@@ -85,7 +85,7 @@ blijft.
 
 
 
-<!-- source: dansen/tarantella.html -->
+
 
 ### Tarantella
 
