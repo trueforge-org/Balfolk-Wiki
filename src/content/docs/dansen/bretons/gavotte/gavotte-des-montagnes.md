@@ -31,7 +31,7 @@ Of gebruik dit als ezelsbruggetje: een, twee, in de maat, anders wordt de juffro
 
 ### Voorbeeld muziekjes en filmpjes
 
-* Bert Leemans en Jeroen Geerinck
+- Bert Leemans en Jeroen Geerinck
 
 <!-- preserved-video-start -->
 <iframe allowfullscreen="" frameborder="0" height="350" scrolling="no" src="https://www.youtube.com/embed/ICEaGHf6a94" width="425"></iframe>

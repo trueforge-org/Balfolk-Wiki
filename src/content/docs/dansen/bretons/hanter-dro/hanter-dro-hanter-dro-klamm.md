@@ -25,11 +25,11 @@ Een variant van de Hanter Dro waarbij je af en toe één tel helemaal stilstaat 
 
 #### Aanwijzingen
 
-* Je hoort deze “pauze” in de muziek (als het goed is …) en moet dus wat beter luisteren.
+- Je hoort deze “pauze” in de muziek (als het goed is …) en moet dus wat beter luisteren.
 
 #### Variaties
 
-* Het is toegestaan om een brul te slaken (tekst suggestie: “Hee!”) op de pauze.
+- Het is toegestaan om een brul te slaken (tekst suggestie: “Hee!”) op de pauze.
 
 ### Voorbeeld muziekjes en filmpjes
 

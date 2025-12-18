@@ -42,7 +42,7 @@ Deze dans wordt in principe alleen op deze melodie uit de Berry gedanst.
 
 ### Voorbeeld muziekjes en filmpjes
 
-* Matres & P in Muiderpoort
+- Matres & P in Muiderpoort
 
 <!-- preserved-video-start -->
 <iframe allowfullscreen="" frameborder="0" height="350" scrolling="no" src="https://www.youtube.com/embed/7hqgbkhjFXE" width="425"></iframe>

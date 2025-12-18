@@ -19,13 +19,13 @@ Ook deze dans is opgebouwd uit een combinatie van walspassen en tweestapsdraaipa
 
 Er zijn de volgende tellingen mogelijk:
 
-* 123 - 123 - 12
-* 12 - 123 - 123
-* 123 - 12 - 123
+- 123 - 123 - 12
+- 12 - 123 - 123
+- 123 - 12 - 123
 
 ### Voorbeeld muziekjes en filmpjes
 
-* Wals in 8 tijden (123 - 12 - 123) door Eric Theze (boombalfestival 2009):
+- Wals in 8 tijden (123 - 12 - 123) door Eric Theze (boombalfestival 2009):
 
 <!-- preserved-video-start -->
 <iframe allowfullscreen="" frameborder="0" height="350" scrolling="no" src="https://www.youtube.com/embed/eEkhL88ElRM" width="425"></iframe>

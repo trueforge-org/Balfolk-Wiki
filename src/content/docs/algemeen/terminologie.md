@@ -34,9 +34,9 @@ op allebei.
 
 1\. afzetten van beide en neerkomen op beide:
 
-*Sluitsprong*:         neerkomen op gesloten voeten
+_Sluitsprong_:         neerkomen op gesloten voeten
 
-*Spreidsprong*:      neerkomen in spreidstand
+_Spreidsprong_:      neerkomen in spreidstand
 
 2\. afzetten van twee voeten en neerkomen op één:
 
@@ -259,8 +259,8 @@ Dit is een afzet van één van beide voeten of van allebei tegelijk, daarna een 
 
 1. afzetten van beide en neerkomen op beide:
 
-- *Sluitsprong:* neerkomen op gesloten voeten
-- *Spreidsprong:* neerkomen in spreidstand
+- _Sluitsprong:_ neerkomen op gesloten voeten
+- _Spreidsprong:_ neerkomen in spreidstand
 
 1. afzetten van twee voeten en neerkomen op één:
 
@@ -321,9 +321,9 @@ Drie wandelpassen in het ritme kort/kort/lang, waarbij de tweede pas meestal een
 
 ##### Schotse pas
 
-Een Schotse pas in een gelijkmatig, langzaam ritme wordt ook wel een *wissel-hop-pas* genoemd en in Frankrijk heet dat dan weer een *Pas de Gavotte*.
+Een Schotse pas in een gelijkmatig, langzaam ritme wordt ook wel een _wissel-hop-pas_ genoemd en in Frankrijk heet dat dan weer een _Pas de Gavotte_.
 
-Vroeger werd deze pas ook wel aangeduid als een *polka-pas*.
+Vroeger werd deze pas ook wel aangeduid als een _polka-pas_.
 
 #### Mayim pas
 

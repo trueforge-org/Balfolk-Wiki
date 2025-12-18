@@ -28,7 +28,6 @@ Gewoon in paren, half-open houding, over de dansvloer heen
 ## Variaties
 
 - Draaien van de Volger
-
   - Een basisvariatie is op het B gedeelte de Volger één, twee, drie of
     vier rondjes te laten draaien (vanuit de linkerhand van de Leider).
 
@@ -73,10 +72,10 @@ Gewoon in paren, half-open houding, over de dansvloer heen
 #### Variaties
 
 - Draaien van de Volger
-
   - Een basisvariatie is op het B gedeelte de Volger één, twee, drie of vier rondjes te lates draaien (vanuit de linkerhand van de Leider).
   - Ook op het A gedeelte kunnen draaien worden gemaakt
   - De Leider kan bij de draai van de vrouw zijn rechterarm contact laten houden met de rug, en na de draai de Volger de andere kant op terug laten draaien
+
 - Omsluiten, elkaar los laten en in het A deel (dus 6 stappen) om een paar heen lopen (allebei een kant), B deel weer vrolijk samen verder dansen.
 - Hele figuur zijwaarts: het tweede deel van A gaat dus binnendoor en deel B is een soort 'naast elkaar lopen', zo kan ook wat afstand worden afgelegd naar een rustig plekje op de dansvloer.
 - Op deel A uit elkaar gaan en gestrekte armen vastpakken en weer naar binnen gaan naar: danshouding, of handen vast voor het hart, of indraaien (Volger onder de linkerarm van de Leider door). Hier een tijdje in dansen, dan de Volger met een kort rukje aan haar linkerarm uit laten draaien op deel B.

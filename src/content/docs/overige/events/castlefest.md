@@ -19,7 +19,7 @@ Voor meer info, zie de [Wikipedia pagina over Castlefest](https://nl.wikipedia.o
 
 ### Externe Pagina's
 
-* [Officiële website](http://www.castlefest.nl/ "http://www.castlefest.nl/")
+- [Officiële website](http://www.castlefest.nl/ "http://www.castlefest.nl/")
 
 #### Referenties en bronnen
 

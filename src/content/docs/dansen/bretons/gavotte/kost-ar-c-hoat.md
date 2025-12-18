@@ -15,7 +15,7 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 ### Voorbeeld muziekjes en filmpjes
 
-* Initiation Kost ar C'hoat (instructie)
+- Initiation Kost ar C'hoat (instructie)
 
 <!-- preserved-video-start -->
 <iframe allowfullscreen="" frameborder="0" height="350" scrolling="no" src="https://www.youtube.com/embed/fUTWJGoBXqo" width="425"></iframe>

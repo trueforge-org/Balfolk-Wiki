@@ -68,7 +68,7 @@ In 1 of meerdere lange slierten. Mannetje/vrouwtje maakt niet uit
 
 - Rustig in de swing van het liedje blijven.
 
-- De eerste stap naar links een *beetje* nadruk en zwier geven
+- De eerste stap naar links een _beetje_ nadruk en zwier geven
 
 - Loop niet te hard, anders rekken de middelsten zo uit
 

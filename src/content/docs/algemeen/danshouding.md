@@ -101,7 +101,7 @@ Open houding, hier moet nog een omschrijving voor komen.
 
 ### Danshouding
 
-*Vul de tekst op deze pagina vooral aan of verbeter deze. Het is hier een opzet die (net als de tekst van de rest van de site) nog niet correct en volledig is.*
+_Vul de tekst op deze pagina vooral aan of verbeter deze. Het is hier een opzet die (net als de tekst van de rest van de site) nog niet correct en volledig is._
 
 Een goede danshouding is natuurlijk belangrijk. Er zijn een paar verschillende houdingen voor koppeldansen. Voor het gemak wordt “Volger” en “Leider” gebruikt ter aanduiding van de 2 danspartners, maar de rollen kunnen ook omgedraaid worden. Ook gebeurt het wel dat 2 Volgers of 2 heren met elkaar dansen. Beter kan dus eigenlijk gesproken worden van “leider m/v” en “volger m/v” (en zelfs dat kan door bijvoorbeeld een variatie uit te voeren binnen een dans veranderen).
 

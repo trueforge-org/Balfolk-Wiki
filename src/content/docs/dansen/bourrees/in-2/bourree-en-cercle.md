@@ -25,13 +25,13 @@ De pas is de basispas van de bourrée, maar wel in de épaule-variant: tijdens d
 
 ### Tips voor muzikanten
 
-* Deze dans is Leiderlijk om akoestisch midden op de dansvloer te spelen, aan het eind van een lang en laat optreden
+- Deze dans is Leiderlijk om akoestisch midden op de dansvloer te spelen, aan het eind van een lang en laat optreden
 
 ### Voorbeeld muziekjes en filmpjes
 
-* Gonnagles in Hamburg
+- Gonnagles in Hamburg
 
-* Bourree en cercle op de manier die gebruikelijk is in Frankrijk. De melodie komt van VAG.
+- Bourree en cercle op de manier die gebruikelijk is in Frankrijk. De melodie komt van VAG.
 
 <!-- preserved-video-start -->
 <iframe allowfullscreen="" frameborder="0" height="350" scrolling="no" src="https://www.youtube.com/embed/xhUJk05QnBQ" width="425"></iframe>

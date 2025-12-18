@@ -47,7 +47,7 @@ Muziek in 3 delen (A, B,C), elk deel 2x herhaald
 - Pak je partner beet.
 
 - (8 maten/16 tellen) Draai klokwaarts rondjes op de muziek als paar.
-  Dit heet *spinnen*. Een manier van draaien die heel moeilijk is uit te
+  Dit heet _spinnen_. Een manier van draaien die heel moeilijk is uit te
   leggen. In ieder geval is de meest gangbare houding om te spinnen in
   Nederland met de rechterhand op rechterschouder van de partner en de
   linkerhanden ferm in elkaar daaronder. Waarbij de rechtervoet met de
@@ -80,7 +80,6 @@ Hoe houd je vast...
 - A: gewoon handen vast, heren handen onder.
 
 - B: verschillende mogelijkheden:
-
   - meest gebruikt in Nederland en Vlaanderen: rechter hand bij partner
     op rechter schouder, linker hand er onder door: pols beetpakken.
     houdt er spanning op zodat je allebei naar achter kan hangen om er
@@ -104,7 +103,6 @@ Hoe houd je vast...
 - De 2 personen naast je draaien tijdens naar binnen lopen
 
 - heren doen leuke dingen als ze in het midden komen
-
   -
 
   - Hi5
@@ -156,9 +154,9 @@ Hoe houd je vast…
 
 - A: gewoon handen vast, heren handen onder.
 - B: verschillende mogelijkheden:
-
   - meest gebruikt in Nederland en Vlaanderen: rechter hand bij partner op rechter schouder, linker hand er onder door: pols beetpakken. houdt er spanning op zodat je allebei naar achter kan hangen om er meer vaart in te houden. plaats de rechtervoeten met de buitenkant tegen elkaar in het midden. hier draai je omheen door met de linkervoet te 'steppen'.
   - meest gebruikt in Wallonië en Frankrijk: ga in halfopen danshouding staan, maar met de rechtervoeten aan de buitenkant tegen elkaar. 'Step' met de linkervoet erom heen. Op het einde van het tollen is het dan het makkelijkst om gewoon te openen en in deel C in open danshouding rond te wandelen.
+
 - C: rechterhanden hoog (Volger houdt rekening met de armlengte van de Leider), linkerhanden op heuphoogte
 
 #### Variaties
@@ -166,11 +164,11 @@ Hoe houd je vast…
 - Jezelf na met zn allen naar binnen te zijn gelopen laten draaien
 - De 2 personen naast je draaien tijdens naar binnen lopen (ooit maar 1 keer op filmpje gezien)
 - heren doen leuke dingen als ze in midden komen
-
   - Hi5
   - Springen met de borst tegen elkaar aan
   - Ruilen van plek met een andere Leider
   - Bokje springen
+
 - Volgers kunnen dit ook doen
 - In C-deel
 - Tijdens het draaien elkaar bij het middel vastpakken voor snellere kleinere draaicirkel.

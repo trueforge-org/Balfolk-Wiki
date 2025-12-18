@@ -17,6 +17,6 @@ De Boombal stage wordt ieder jaar georganiseerd voor het [Boombal festival](boom
 
 ### Externe Pagina's
 
-* [Officiële website](http://www.boombalfestival.be/stage/ "http://www.boombalfestival.be/stage/")
+- [Officiële website](http://www.boombalfestival.be/stage/ "http://www.boombalfestival.be/stage/")
 
 #### Referenties en bronnen

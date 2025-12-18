@@ -21,7 +21,7 @@ Het belangrijkste is echter de sfeer. Elk jaar voelen we ons dankbaar dat we dit
 
 ### Externe Pagina's
 
-* [Officiële website](http://www.dansstage.nl/ "http://www.dansstage.nl/")
+- [Officiële website](http://www.dansstage.nl/ "http://www.dansstage.nl/")
 
 #### Referenties en bronnen
 
@@ -29,4 +29,4 @@ Het belangrijkste is echter de sfeer. Elk jaar voelen we ons dankbaar dat we dit
 
 **1)**
 
-[www.dansstage.nl/nl\_NL](http://www.dansstage.nl/nl_NL/ "http://www.dansstage.nl/nl_NL/")
+[www.dansstage.nl/nl_NL](http://www.dansstage.nl/nl_NL/ "http://www.dansstage.nl/nl_NL/")

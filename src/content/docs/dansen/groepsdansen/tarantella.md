@@ -31,7 +31,6 @@ gewoon in koppels kriskras door elkaar.
 Dans in vier delen van telkens 16 maten.
 
 - **deel 1**: sprong en swing
-
   - **maat 1-4 (of A-deel melodie 1)**
     Set-pas met rechts, met je linkerhand neem je een imaginaire hoed af
     naar links. Zelfde met links. Herhaal.
@@ -47,7 +46,6 @@ Dans in vier delen van telkens 16 maten.
     Herhaling 5-8.
 
 - **deel 2**: knieval en draai
-
   - **maat 1-4 (of A-deel melodie 2)**
     Leider valt op de linkerknie voor zijn Volger en leidt haar linksom rond
     hem. Volger in Schotse pas rond
@@ -63,7 +61,6 @@ Dans in vier delen van telkens 16 maten.
     herhaal maat 5-8
 
 - **deel 3**: handenklap en dos à dos
-
   - **maat 1-4**
     Schuin naar elkaar toelopen, tot je naast elkaar staat. Daarna
     achterwaarts weer naar je plaats. Naar elkaar toe ga je van laag
@@ -96,7 +93,6 @@ In koppels tegenover elkaar dwars op de kringlijn; in balfolk vaak gewoon in kop
   - Set-pas met rechts, met je linkerhand neem je een imaginaire hoed af naar links. Zelfde met links. Herhaal.
   - **maat 5-8 (of B-deel melodie 1)**
 - Swing rond, met rechterarm rond elkaars middel en linkerarm hoog gestrekt.
-
   - **maat 9-12 (of A-deel melodie 1)**
   - Herhaling 1-4.
   - **maat 13-16 (of B-deel melodie 1)**

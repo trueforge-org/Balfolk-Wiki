@@ -27,7 +27,7 @@ het begin van de rij.
   wijst omlaag. Je haakt je pink in de pink van de persoon naast je. Ook
   al hebben alleen de pinken elkaar vast, de hele onderarm houdt
   contact. Op die manier 'verlies' je elkaar niet. De leider en laatste
-  *kunnen* de vrije arm op de rug doen. In Bretagne wordt dit heel vaak
+  _kunnen_ de vrije arm op de rug doen. In Bretagne wordt dit heel vaak
   ook niet gedaan. Voor Volgers: mocht je iets met de vrije arm willen
   doen, pak dan je rok in je hand. De hand op de rug is traditioneel
   iets voor mannen.
@@ -36,7 +36,6 @@ het begin van de rij.
   beweegt dus zijwaarts, en altijd alleen naar links.
 
 - Patroon voeten van 2x vier tellen (dus twee maten):
-
   - **I**: wisselpas naar links gevolgd door een tel rust (links -
     rechts - links - rust)
 
@@ -61,7 +60,7 @@ het begin van de rij.
 
 - Rustig in de swing van het liedje blijven.
 
-- De eerste stap naar links een *beetje* nadruk en zwier geven
+- De eerste stap naar links een _beetje_ nadruk en zwier geven
 
 - Loop niet te hard, anders rekken de middelsten zo uit
 
@@ -85,7 +84,6 @@ het begin van de rij.
 - Maak meer dan een sliert.
 
 - patronen door de leider:
-
   - ga vaak weer vlak voor de heensliert weer terug zodat iedereen
     elkaar aan kan kijken.
 
@@ -120,9 +118,9 @@ Iedereen in 1 of meerdere lange slierten. Waar mannen en vrouwen in de rij staan
 - Volg-de-leider: houdt elkaar vast bij de pinken, palm van de hand wijst omlaag. Je haakt je pink in de pink van de persoon naast je. Ook al hebben alleen de pinken elkaar vast, de hele onderarm houdt contact. Op die manier 'verlies' je elkaar niet. De leider en laatste kunnen de vrije arm op de rug doen. In Bretagne wordt dit heel vaak ook niet gedaan. Voor Volgers: mocht je iets met de vrije arm willen doen, pak dan je rok in je hand. De hand op de rug is traditioneel iets voor mannen.
 - Verplaatsingsrichting is naar links, kijkrichting is vooruit. Je beweegt dus zijwaarts, en altijd alleen naar links.
 - Patroon voeten van 2x vier tellen (dus twee maten):
-
   - I: wisselpas naar links gevolgd door een tel rust (links - rechts - links - rust)
   - II: wisselpas op de plaats, begint met rechts, gevolgd door een tel rust (rechts - links - rechts - rust)
+
 - Patroon handen van 2x vier tellen: draaibeweging met handen. De beweging lijkt op een “9”, draai hem van onderaf in met rustpunt op de drie van de eerste maat, daarna bovenlangs weer terug. Deze armbeweging gaat niet hoger dan de schouders.
 
 #### Aanwijzingen
@@ -144,6 +142,5 @@ Iedereen in 1 of meerdere lange slierten. Waar mannen en vrouwen in de rij staan
 
 - Maak meer dan een sliert.
 - patronen door de leider:
-
   - ga vaak weer vlak voor de heensliert weer terug zodat iedereen elkaar aan kan kijken.
   - ga voor de grap eens onder iemands a

@@ -21,10 +21,10 @@ Iedereen in 1 of meerdere cirkels of rijen.
 
 #### Basis
 
-* Kruisstap naar rechts met de linkervoet
-* Stap naar rechts met de rechtervoet
-* Schop naar rechts met de linkervoet
-* Schop naar links met de rechtervoet
+- Kruisstap naar rechts met de linkervoet
+- Stap naar rechts met de rechtervoet
+- Schop naar rechts met de linkervoet
+- Schop naar links met de rechtervoet
 
 #### Voorbeeld muziekjes en filmpjes
 

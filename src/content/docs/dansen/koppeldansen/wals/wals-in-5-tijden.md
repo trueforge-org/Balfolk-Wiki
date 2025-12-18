@@ -30,19 +30,19 @@ Er zijn twee varianten (bepaald door de muziek):
 
 Hierbij geldt:
 
-* de “een-twee-drie” is de gewone wals-pas
-* de “een-twee” is een dubbele voetwissel met desnoods weining draai of verplaatsing.
+- de “een-twee-drie” is de gewone wals-pas
+- de “een-twee” is een dubbele voetwissel met desnoods weining draai of verplaatsing.
 
 #### Variaties
 
-* Je kunt nu een heel rondje draaien per maat (een halve op de walspas en een halve op de wisselpas).
-* Je kunt nu ook een half rondje draaien per maat, en dus rustig vijf tellen hier over doen.
+- Je kunt nu een heel rondje draaien per maat (een halve op de walspas en een halve op de wisselpas).
+- Je kunt nu ook een half rondje draaien per maat, en dus rustig vijf tellen hier over doen.
 
 ### Voorbeeld muziekjes en filmpjes
 
-* Valse 5 temps instructie
+- Valse 5 temps instructie
 
-* Wals in 5 tijden (Bert Leemans en Jeroen Geerinck)
+- Wals in 5 tijden (Bert Leemans en Jeroen Geerinck)
 
 <!-- preserved-video-start -->
 <iframe allowfullscreen="" frameborder="0" height="350" scrolling="no" src="https://www.youtube.com/embed/LTW4X6qfz2w" width="425"></iframe>

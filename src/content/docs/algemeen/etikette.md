@@ -44,7 +44,7 @@ Hulp met aanvullen en verbetering word gewaardeerd!
   dansen. Maar het is wel heel onbeleefd om eerst iemand te weigeren en
   dan vervolgens wel met iemand anders te gaan dansen.
 
-- Wanneer je met elkaar danst, bedenk dat je *met elkaar* danst. Dus als
+- Wanneer je met elkaar danst, bedenk dat je _met elkaar_ danst. Dus als
   een Volger niet meteen je variaties volgt, wordt dan niet boos of
   ongeduldig. Het gaat gewoon even anders en niet persé fout. Je kan
   bovendien ook nooit met zekerheid zeggen of de fout in het volgen lag

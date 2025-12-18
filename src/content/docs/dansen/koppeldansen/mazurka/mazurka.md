@@ -25,7 +25,6 @@ Half-open houding, gewoon in paren over de dansvloer heen.
 
 - De dans bestaat uit een afwisseling van een mazurka-maat en een
   wals-maat
-
   - **Mazurka**: 1-2-wacht
 
   - **Wals**: 1-2-3 (heen en weer)
@@ -34,10 +33,10 @@ Half-open houding, gewoon in paren over de dansvloer heen.
 
 ## Aanwijzingen
 
-- Bij de *wacht* wordt het gewicht stil gehouden boven het standbeen.
+- Bij de _wacht_ wordt het gewicht stil gehouden boven het standbeen.
   Dit is heel belangrijk.
 
-- Bij de *wacht* kun je wel lichtjes veren door het standbeen.
+- Bij de _wacht_ kun je wel lichtjes veren door het standbeen.
 
 ## Variaties
 
@@ -52,7 +51,6 @@ Half-open houding, gewoon in paren over de dansvloer heen.
   op houden en zo de hele maat blijven
 
 - in plaats van mazurka-wals-mazurka-wals andere variaties:
-
   - mazurka-mazurka-wals-wals
 
   - mazurka-mazurka-mazurka-wals
@@ -69,15 +67,15 @@ Half-open houding, gewoon in paren over de dansvloer heen.
 
 - De Volger begint rechts, de Leider links
 - De dans bestaat uit een afwisseling van een mazurka-maat en een wals-maat
-
   - **Mazurka**: 1-2-wacht
   - **Wals**: 1-2-3 (heen en weer)
+
 - De wachtvoet wordt bij de volgende 1 weer neergezet
 
 #### Aanwijzingen
 
-- Bij de *wacht* wordt het gewicht stil gehouden boven het standbeen. Dit is heel belangrijk.
-- Bij de *wacht* kun je wel lichtjes veren door het standbeen.
+- Bij de _wacht_ wordt het gewicht stil gehouden boven het standbeen. Dit is heel belangrijk.
+- Bij de _wacht_ kun je wel lichtjes veren door het standbeen.
 
 #### Variaties
 
@@ -86,10 +84,10 @@ Half-open houding, gewoon in paren over de dansvloer heen.
 - in plaats van 1-2-3 alleen een 1 maken, hier het gewicht echt op houden en zo de hele maat blijven
 - in plaats van de 1-2-wacht alleen een 1 maken, hier het gewicht echt op houden en zo de hele maat blijven
 - in plaats van mazurka-wals-mazurka-wals andere variaties:
-
   - mazurka-mazurka-wals-wals
   - mazurka-mazurka-mazurka-wals
   - wat je voelt op basis van de muziek
+
 - zie het tweede onderstaande filmpje (van bert en nog iemand) voor inspiratie, daar worden zeer veel mooie variaties gedanst.
 
 ### Voorbeeld muziekjes en filmpjes

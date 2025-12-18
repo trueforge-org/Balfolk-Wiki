@@ -18,6 +18,6 @@ In de dagen voor het festival wordt de [Boombal Stage](boombalstage.md) georgani
 
 ### Externe Pagina's
 
-* [Officiële website](http://boombalfestival.be/ "http://boombalfestival.be/")
+- [Officiële website](http://boombalfestival.be/ "http://boombalfestival.be/")
 
 #### Referenties en bronnen

@@ -21,5 +21,5 @@ Parkfest is de opvolger van International Folk Festival “Folkwoods” dat van 
 
 ### Externe Pagina's
 
-* [Officiële website](http://www.parkfest.nl/ "http://www.parkfest.nl/")
-* [Officiële Facebookpagina](https://www.facebook.com/parkfesteindhoven/ "https://www.facebook.com/parkfesteindhoven/")
+- [Officiële website](http://www.parkfest.nl/ "http://www.parkfest.nl/")
+- [Officiële Facebookpagina](https://www.facebook.com/parkfesteindhoven/ "https://www.facebook.com/parkfesteindhoven/")
