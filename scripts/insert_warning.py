@@ -2,7 +2,7 @@
 import sys
 import os
 
-warn = (":::warning\n\nDit bestand is aangevuld middels AI.\u2028Ga er vanuit dat alles hierin onzin is, tenzij bevestigd middels een andere bron.\u2028\u2028Hulp met aanvullen en verbetering word gewaardeerd!\n\n:::\n")
+warn = (":::caution\n\nDit bestand is aangevuld middels AI.\u2028Ga er vanuit dat alles hierin onzin is, tenzij bevestigd middels een andere bron.\u2028\u2028Hulp met aanvullen en verbetering word gewaardeerd!\n\n:::\n")
 
 files = sys.stdin.read().splitlines()
 if not files:

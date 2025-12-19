@@ -2,7 +2,7 @@
 title: "Polska Springlek"
 ---
 
-:::warning
+:::caution
 
 Dit bestand is aangevuld middels AI.
 Ga er vanuit dat alles hierin onzin is, tenzij bevestigd middels een andere bron.
