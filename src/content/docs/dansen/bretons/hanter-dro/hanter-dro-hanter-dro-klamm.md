@@ -2,7 +2,6 @@
 title: "hanter dro hanter dro klamm"
 ---
 
-## Samenvatting
 
 Een variant van de [Hanter Dro](hanter-dro-hanter-dro-klamm.md).
 
@@ -26,7 +25,7 @@ Een variant van de Hanter Dro waarbij je af en toe één tel helemaal stilstaat 
 
 ## Instructiefilmpjes
 
-<!-- preserved-video-start -->
+
 <iframe allowfullscreen="" frameborder="0" height="350" scrolling="no" src="https://www.youtube.com/embed/XyYs53rtXkY" width="425"></iframe>
 
-<!-- preserved-video-end -->
+

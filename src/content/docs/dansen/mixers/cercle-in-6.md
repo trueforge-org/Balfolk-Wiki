@@ -11,7 +11,6 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-## Samenvatting
 
 `Cercle in 6` is een mixers- of kringdans uitgevoerd in een 6-tellingspatroon; ideaal voor groepen.
 

@@ -11,7 +11,6 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-## Samenvatting
 
 `Mardi-Gras` als dansreferentie verwijst naar feestelijke dansen die bij Vastenavond-activiteiten horen; vaak speels en uitbundig.
 

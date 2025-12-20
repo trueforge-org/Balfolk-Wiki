@@ -11,7 +11,6 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-## Samenvatting
 
 `Rond d'Argenton` is een traditionele Bretonse rondedans, vernoemd naar de streek of plaats Argenton.
 

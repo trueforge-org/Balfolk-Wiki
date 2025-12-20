@@ -11,7 +11,6 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-## Samenvatting
 
 `Rond Paludier` is een traditionele dans geassocieerd met kust- of zoutwinningsgemeenschappen (paludiers) in Bretagne.
 

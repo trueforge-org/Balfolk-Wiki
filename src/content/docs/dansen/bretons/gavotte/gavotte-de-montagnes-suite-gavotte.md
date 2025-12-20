@@ -2,7 +2,6 @@
 title: "Gavotte de Montagnes (Suite Gavotte)"
 ---
 
-## Samenvatting
 
 Is een "suite" die bestaat uit drie delen.
 

@@ -2,7 +2,6 @@
 title: "fandango"
 ---
 
-## Samenvatting
 
 Fandango (traditionele vorm) — paren of kleine kringjes met een serie van vier delen.
 

@@ -11,7 +11,6 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-## Samenvatting
 
 `Bal à 4` is een dans voor vier personen of twee paren, met figuren die samenwerken in kleine groepjes.
 
@@ -30,5 +29,3 @@ Basis: eenvoudige figuren, partner- en groepswissels.
 ## Instructiefilmpjes
 
 ## Externe Referenties
-
-Bronnen:

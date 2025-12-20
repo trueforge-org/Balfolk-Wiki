@@ -11,7 +11,6 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-## Samenvatting
 
 De Kadootjesbourrée is een speelse variant van de bourrée, vaak met kleine figuren die lijken op het 'geven' van een presentje.
 

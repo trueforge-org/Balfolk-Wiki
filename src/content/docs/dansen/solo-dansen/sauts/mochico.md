@@ -14,5 +14,3 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 `Mochico` is waarschijnlijk een regionale sprong- of dansnaam; weinig bronnen zijn beschikbaar.
 
 Basis: korte sprongen; raadpleeg lokale bronnen voor details.
-
-Bronnen:

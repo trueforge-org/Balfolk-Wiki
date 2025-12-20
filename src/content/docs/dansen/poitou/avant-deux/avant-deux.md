@@ -11,7 +11,6 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-## Samenvatting
 
 `Avant-Deux` is een traditionele Franse dans in contrasterende paren, vaak met wisselende figuren tussen twee rijen.
 

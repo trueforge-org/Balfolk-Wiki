@@ -2,7 +2,6 @@
 title: "tricot"
 ---
 
-## Samenvatting
 
 Een “tricot” is elke combinatie van een Hanter-Dro en een An Dro.
 

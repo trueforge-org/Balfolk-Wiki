@@ -14,5 +14,3 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 `Los Cauterers` is vermoedelijk een regionale sprong- of dansnaam; weinig gedocumenteerde bronnen beschikbaar.
 
 Basis: korte sprongen, accents en mogelijke theatrale elementen.
-
-Bronnen:

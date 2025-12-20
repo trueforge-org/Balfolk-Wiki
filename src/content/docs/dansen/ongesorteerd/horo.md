@@ -2,7 +2,6 @@
 title: "horo"
 ---
 
-## Samenvatting
 
 Dit is een tamelijk snelle dans.
 

@@ -2,7 +2,6 @@
 title: "Hanter Dro"
 ---
 
-## Samenvatting
 
 Nog rustiger en meditatiever dan de An Dro
 

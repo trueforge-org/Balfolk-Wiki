@@ -2,7 +2,6 @@
 title: "Bourree"
 ---
 
-## Samenvatting
 
 Spannende dans
 
@@ -73,12 +72,12 @@ De dans bestaat verder uit een A- en een B-deel:
 - [Celtic Bompa Bourree-filmpjes](Wattrelos20040131.html#bourree "https://web.archive.org/web/20130308005157/http://celticbompa.4t.com/Wattrelos20040131.html#bourree")
 - [Folkroddels.be: Naar een bourree met stijl](http://www.folkroddels.be/artikels/1885.html "http://www.folkroddels.be/artikels/1885.html")
 
-<!-- preserved-video-start -->
+
 <iframe allowfullscreen="" frameborder="0" height="350" scrolling="no" src="https://www.youtube.com/embed/0lN6jjY7RqU" width="425"></iframe>
 
 <iframe allowfullscreen="" frameborder="0" height="350" scrolling="no" src="https://www.youtube.com/embed/yDCbfE0p3" width="425"></iframe>
 
-<!-- preserved-video-end -->
+
 
 ## Aanvullende Samenvatting
 

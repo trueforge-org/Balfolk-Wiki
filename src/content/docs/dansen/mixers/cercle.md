@@ -2,7 +2,6 @@
 title: "Cercle"
 ---
 
-## Samenvatting
 
 Een vrolijke mixer. Wordt in Vlaanderen Tovercirkel genoemd. En in
 Frankrijk Cercle circassien
@@ -179,9 +178,9 @@ Hoe houd je vast…
 
 - [Celtic Bompa Circassian Circle](BFdances.html#tovercirkel "https://web.archive.org/web/20130308005157/http://celticbompa.4t.com/BFdances.html#tovercirkel")
 
-<!-- preserved-video-start -->
+
 <iframe allowfullscreen="" frameborder="0" height="350" scrolling="no" src="https://www.youtube.com/embed/-G0zatPjrh4" width="425"></iframe>
 
 <iframe allowfullscreen="" frameborder="0" height="350" scrolling="no" src="https://www.youtube.com/embed/0GK8_DS5ZMg" width="425"></iframe>
 
-<!-- preserved-video-end -->
+

@@ -14,5 +14,3 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 `Petit Anheth` is waarschijnlijk een kleine sprong- of solovariant; de naam geeft aan dat het om een kort element gaat.
 
 Basis: korte sprongen en accenten.
-
-Bronnen:

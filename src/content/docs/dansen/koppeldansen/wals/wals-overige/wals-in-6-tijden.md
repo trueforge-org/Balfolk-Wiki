@@ -2,7 +2,6 @@
 title: "wals in 6 tijden"
 ---
 
-## Samenvatting
 
 Een dans met 5 tellen in de maat.
 
@@ -38,11 +37,11 @@ Hierbij geldt:
 - Valse 5 temps instructie
 - Wals in 5 tijden (Bert Leemans en Jeroen Geerinck)
 
-<!-- preserved-video-start -->
+
 <iframe allowfullscreen="" frameborder="0" height="350" scrolling="no" src="https://www.youtube.com/embed/LTW4X6qfz2w" width="425"></iframe>
 
 <iframe allowfullscreen="" frameborder="0" height="350" scrolling="no" src="https://www.youtube.com/embed/tqTzLUOpC7E" width="425"></iframe>
 
-<!-- preserved-video-end -->
+
 
 ## Externe Referenties

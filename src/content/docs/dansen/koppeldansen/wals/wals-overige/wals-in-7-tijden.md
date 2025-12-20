@@ -11,7 +11,6 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-## Samenvatting
 
 `Wals in 7 tijden` is een onregelmatige walspartij waarbij een tussenpas en afwijkende frasering voorkomen.
 

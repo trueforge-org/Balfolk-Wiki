@@ -11,7 +11,6 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-## Samenvatting
 
 `Grand Danse` is een verzamelnaam voor grotere, vaak ceremoniele dansen of uitgebreide dansvormen binnen lokale tradities.
 
@@ -30,5 +29,3 @@ Basis: uitgebreide figuren en herhalingen, soms met theatrale elementen.
 ## Instructiefilmpjes
 
 ## Externe Referenties
-
-Bronnen:

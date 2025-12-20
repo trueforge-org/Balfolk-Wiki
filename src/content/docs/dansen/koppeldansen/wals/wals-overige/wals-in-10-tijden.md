@@ -11,7 +11,6 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-## Samenvatting
 
 De wals in 11 heeft net als alle onregelmatige walsen een tussenpas. Waar de walspas drie tellen bestrijkt, heeft de tussenpas er twee. Het is afhankelijk van de muziek wanneer deze tussenpas valt; meestal is het erg duidelijk te horen.
 

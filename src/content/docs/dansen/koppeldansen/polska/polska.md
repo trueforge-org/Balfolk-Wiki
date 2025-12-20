@@ -2,7 +2,6 @@
 title: "Polska"
 ---
 
-## Samenvatting
 
 Zweedse parendans
 

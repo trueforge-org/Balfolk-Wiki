@@ -11,7 +11,6 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-## Samenvatting
 
 De Bourrée in 3 uit Berry is een zeldzamere variant waarbij de bourrée-figuur in driekwartsachtige frasering valt.
 

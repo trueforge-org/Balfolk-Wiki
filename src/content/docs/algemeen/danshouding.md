@@ -2,7 +2,6 @@
 title: "Danshouding"
 ---
 
-## samenvatting
 
 Een goede danshouding is natuurlijk belangrijk. Er zijn een paar
 verschillende houdingen voor koppeldansen. Voor het gemak wordt Volger en

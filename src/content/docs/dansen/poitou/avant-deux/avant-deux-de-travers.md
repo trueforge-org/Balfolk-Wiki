@@ -11,7 +11,6 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-## Samenvatting
 
 `Avant-Deux de Travers` is een regionale avant-deux met specifieke travers-figuren en omkeringen.
 

@@ -2,7 +2,6 @@
 title: "Tarantella"
 ---
 
-## Samenvatting
 
 De Tarantella is een leuk pseudo-Italiaans dansje — het is binnen Balfolk sterk gechoreografeerd en daarom niet te vergelijken met de oorspronkelijke Italiaanse improvisatiedans. Het kan zijn dat de dans zijn naam dankt aan de Italiaanse stad Tarente, maar het verhaal gaat ook dat de naam afstamt van de Tarantula spin. Het zou een dans zijn tegen het spinnengif en de Tarantella moet daarom ook fel gespeeld en gedanst worden: het spinnengif moet eruit gezweet!
 

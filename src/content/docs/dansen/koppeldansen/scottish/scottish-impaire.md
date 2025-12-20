@@ -14,5 +14,3 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 `Scottish Impaire` is een scottish-variant met onregelmatige figuren of oneven afmetingen; typisch voor set-dansen.
 
 Basis: scottish-achtige stappen met afwisselende figuren en partnerwissels.
-
-Bronnen:

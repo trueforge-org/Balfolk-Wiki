@@ -2,7 +2,6 @@
 title: "bourree valse d issoudun"
 ---
 
-## Samenvatting
 
 Bourrée valsé d'Issoudun
 
@@ -20,9 +19,9 @@ Het A deel wordt gedanst als gewone bourrée, in paren, met een wisseling van pl
 
 ## Instructiefilmpjes
 
-<!-- preserved-video-start -->
+
 <iframe allowfullscreen="" frameborder="0" height="350" scrolling="no" src="https://www.youtube.com/embed/nvwPnfwSpvU" width="425"></iframe>
 
-<!-- preserved-video-end -->
+
 
 ## Externe Referenties

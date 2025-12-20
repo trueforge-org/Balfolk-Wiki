@@ -11,7 +11,6 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-## Samenvatting
 
 `Rond de Landéda` is een lokale Bretonse kringdans, typisch voor de omgeving van Landéda.
 
@@ -30,5 +29,3 @@ Basis: eenvoudige stappen in samenhang, vaak met kleine wendingen.
 ## Instructiefilmpjes
 
 ## Externe Referenties
-
-Bronnen:

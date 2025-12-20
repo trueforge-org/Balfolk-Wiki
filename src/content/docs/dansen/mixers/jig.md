@@ -2,7 +2,6 @@
 title: "jig"
 ---
 
-## Samenvatting
 
 Gezellige mixer. In Frankrijk chapeloise genoemd en in Engeland gigue.
 
@@ -72,7 +71,7 @@ Rechterhand Leider en linkerhand Volger zijn vast, hand van Leider is onder)
 
 - [Folkroddels.be: Waarom dansen wij het Aapje op een jig?](http://www.folkroddels.be/artikels/1548.html "http://www.folkroddels.be/artikels/1548.html")
 
-<!-- preserved-video-start -->
+
 <iframe allowfullscreen="" frameborder="0" height="350" scrolling="no" src="https://www.youtube.com/embed/fqx-kKXLIWE" width="425"></iframe>
 
 <iframe allowfullscreen="" frameborder="0" height="350" scrolling="no" src="https://www.youtube.com/embed/UhtkFaeZm20" width="425"></iframe>
@@ -81,4 +80,4 @@ Rechterhand Leider en linkerhand Volger zijn vast, hand van Leider is onder)
 
 <iframe allowfullscreen="" frameborder="0" height="350" scrolling="no" src="https://www.youtube.com/embed/0o5TBDryY9E" width="425"></iframe>
 
-<!-- preserved-video-end -->
+

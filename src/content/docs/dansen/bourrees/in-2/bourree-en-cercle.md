@@ -2,7 +2,6 @@
 title: "bourree en cercle"
 ---
 
-## Samenvatting
 
 In Nederland soms ook Bourrée en Ronde genoemd. Bourréevariant die los in een cirkel of een aantal concentrische cirkels wordt gedanst. Oorspronkelijke benaming was 'Brande d'Ardentes'.
 
@@ -22,11 +21,11 @@ De pas is de basispas van de bourrée, maar wel in de épaule-variant: tijdens d
 
 ## Instructiefilmpjes
 
-<!-- preserved-video-start -->
+
 <iframe allowfullscreen="" frameborder="0" height="350" scrolling="no" src="https://www.youtube.com/embed/xhUJk05QnBQ" width="425"></iframe>
 
 <iframe allowfullscreen="" frameborder="0" height="350" scrolling="no" src="https://www.youtube.com/embed/DNXi_O3fe8o" width="425"></iframe>
 
-<!-- preserved-video-end -->
+
 
 ## Externe Referenties

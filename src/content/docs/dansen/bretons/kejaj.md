@@ -11,7 +11,6 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-## Samenvatting
 
 `Kejaj` is een regionale Bretonse dans; de precieze historische achtergrond varieert per streek.
 
@@ -30,5 +29,3 @@ Basis: herhalende stappatronen en eenvoudige overgangen; aandacht voor samenhang
 ## Instructiefilmpjes
 
 ## Externe Referenties
-
-Bronnen:

@@ -2,7 +2,6 @@
 title: "Rond de Saint Vincent"
 ---
 
-## Samenvatting
 
 Rond, en rond, en rond...
 
@@ -54,9 +53,9 @@ Vooral als je heel snel wilt dansen, maximaal zes personen per kring.
 
 - [Rond de Saint Vincent-sur-Oust op TKPédia](Rond_de_Saint-Vincent-sur-Oust "https://web.archive.org/web/20090214043036/http://tkpedia.tamm-kreiz.com/index.php/Rond_de_Saint-Vincent-sur-Oust")
 
-<!-- preserved-video-start -->
+
 <iframe allowfullscreen="" frameborder="0" height="350" scrolling="no" src="https://www.youtube.com/embed/UjTZ13zRNPw" width="425"></iframe>
 
-<!-- preserved-video-end -->
+
 
 ### Voorbeeld muziekjes en filmpjes

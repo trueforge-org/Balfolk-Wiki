@@ -11,7 +11,6 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-## Samenvatting
 
 `Branle Barbâtre` is een lokale branle-dans, vernoemd naar Barbâtre of een nabijgelegen plaats, met eenvoudige groepsfiguren.
 
@@ -30,5 +29,3 @@ Basis: herhalende stappen en eenvoudige wendingen.
 ## Instructiefilmpjes
 
 ## Externe Referenties
-
-Bronnen:

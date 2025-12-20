@@ -2,7 +2,6 @@
 title: "Rondo"
 ---
 
-## samenvatting
 
 Vlotte rijdans met lekker veel vaart
 
@@ -53,7 +52,7 @@ Armzwaai van langs het lichaam naar iets omhoog op elke eerste tel van elke maat
 
 - Rondeau en Couple (door Bert Leemans en Jeroen Geerinck)
 
-<!-- preserved-video-start -->
+
 <iframe allowfullscreen="" frameborder="0" height="350" scrolling="no" src="https://www.youtube.com/embed/rtVukyXDG0M" width="425"></iframe>
 
-<!-- preserved-video-end -->
+

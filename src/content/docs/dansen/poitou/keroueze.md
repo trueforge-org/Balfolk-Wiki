@@ -11,7 +11,6 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-## Samenvatting
 
 `Keroueze` is vermoedelijk een lokale dansnaam in de Poitou-regio; exacte details verschillen per bron.
 

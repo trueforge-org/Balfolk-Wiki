@@ -11,7 +11,6 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-## Samenvatting
 
 `Pas d'été` is een solodans of stapvariatie (letterlijk: zomerstap) die in verschillende tradities voorkomt.
 
@@ -30,5 +29,3 @@ Basis: eenvoudige stapcombinaties, vaak licht en vloeiend.
 ## Instructiefilmpjes
 
 ## Externe Referenties
-
-Bronnen:

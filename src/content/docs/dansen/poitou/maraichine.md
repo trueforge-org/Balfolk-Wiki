@@ -11,7 +11,6 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-## Samenvatting
 
 `Maraîchine` verwijst naar een dans of traditie uit de Marais-regio; locale varianten hebben vaak eenvoudige sociale patronen.
 

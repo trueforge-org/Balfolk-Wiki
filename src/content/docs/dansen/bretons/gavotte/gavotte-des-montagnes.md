@@ -2,7 +2,6 @@
 title: "gavotte des montagnes"
 ---
 
-## Samenvatting
 
 Snelle rijdans
 
@@ -28,9 +27,9 @@ Of gebruik dit als ezelsbruggetje: een, twee, in de maat, anders wordt de juffro
 
 ## Instructiefilmpjes
 
-<!-- preserved-video-start -->
+
 <iframe allowfullscreen="" frameborder="0" height="350" scrolling="no" src="https://www.youtube.com/embed/ICEaGHf6a94" width="425"></iframe>
 
-<!-- preserved-video-end -->
+
 
 ## Externe Referenties

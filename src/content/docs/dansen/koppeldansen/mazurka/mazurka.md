@@ -2,7 +2,6 @@
 title: "Mazurka"
 ---
 
-## Samenvatting
 
 Romantische parendans
 
@@ -97,7 +96,7 @@ Half-open houding, gewoon in paren over de dansvloer heen.
 - [Celtic Bompa Workshop Mazurka Variaties door Bernard Coclet aantekeningen](Wattrelos20040131.html#mazurka "https://web.archive.org/web/20130308005157/http://celticbompa.4t.com/Wattrelos20040131.html#mazurka")
 - [Celtic Bompa Workshop Mazurka door Koen aantekeningen](Koen200403.html#mazurka "https://web.archive.org/web/20130308005157/http://celticbompa.4t.com/Koen200403.html#mazurka")
 
-<!-- preserved-video-start -->
+
 <iframe allowfullscreen="" frameborder="0" height="350" scrolling="no" src="https://www.youtube.com/embed/SOMAKkDINZU" width="425"></iframe>
 
 <iframe allowfullscreen="" frameborder="0" height="350" scrolling="no" src="https://www.youtube.com/embed/a2O36J2rgdA" width="425"></iframe>
@@ -108,4 +107,4 @@ Half-open houding, gewoon in paren over de dansvloer heen.
 
 <iframe allowfullscreen="" frameborder="0" height="350" scrolling="no" src="https://www.youtube.com/embed/v7Upg0GSpgU" width="425"></iframe>
 
-<!-- preserved-video-end -->
+

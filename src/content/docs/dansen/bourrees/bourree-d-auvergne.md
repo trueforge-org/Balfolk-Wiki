@@ -2,7 +2,6 @@
 title: "Bourree d’Auvergne"
 ---
 
-## Samenvatting
 
 De moeder van alle bourrées
 
@@ -130,9 +129,9 @@ andere initiatieven aangekondigd worden met een frappé.
 
 - Chemins de Traverse au bal folk de Bures-sur-Yvette le samedi 19 mai 2007
 
-<!-- preserved-video-start -->
+
 <iframe allowfullscreen="" frameborder="0" height="350" scrolling="no" src="https://www.youtube.com/embed/A186jBMs6sE" width="425"></iframe>
 
 <iframe allowfullscreen="" frameborder="0" height="350" scrolling="no" src="https://www.youtube.com/embed/NcIXw6u-65U" width="425"></iframe>
 
-<!-- preserved-video-end -->
+

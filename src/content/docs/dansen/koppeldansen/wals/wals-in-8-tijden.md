@@ -2,7 +2,6 @@
 title: "wals in 8 tijden"
 ---
 
-## Samenvatting
 
 Zie de [wals in 5 tijden](wals-in-5-tijden.md).
 
@@ -28,9 +27,9 @@ Er zijn de volgende tellingen mogelijk:
 
 - Wals in 8 tijden (123 - 12 - 123) door Eric Theze (boombalfestival 2009):
 
-<!-- preserved-video-start -->
+
 <iframe allowfullscreen="" frameborder="0" height="350" scrolling="no" src="https://www.youtube.com/embed/eEkhL88ElRM" width="425"></iframe>
 
-<!-- preserved-video-end -->
+
 
 ## Externe Referenties

@@ -11,7 +11,6 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-## Samenvatting
 
 `Polaire` lijkt op een lokale dansterm; precieze betekenis en uitvoering kunnen per plaats verschillen.
 

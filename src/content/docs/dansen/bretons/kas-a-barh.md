@@ -11,7 +11,6 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-## Samenvatting
 
 `Kas a Barh` is een Bretonse dans met lokaal karakter, vaak uitgevoerd in kleine groepen of in de rij.
 
@@ -30,5 +29,3 @@ Basis: eenvoudige stappen, afgewisseld met korte figuren en wendingen.
 ## Instructiefilmpjes
 
 ## Externe Referenties
-
-Bronnen:

@@ -14,5 +14,3 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 `Dus` is mogelijk een korte aanduiding voor een spring- of saut-figuur; lokale bronnen geven meer details.
 
 Basis: eenvoudige sprongen en accenten.
-
-Bronnen:

@@ -2,7 +2,6 @@
 title: "Wals"
 ---
 
-## Samenvatting
 
 Een gevarieerde parendans
 
@@ -102,7 +101,7 @@ Je staat in half-open houding, ergens op de dansvloer. De paren die snel willen 
 - [Celtic Bompa 5-Step Waltz](BFdances.html#5stepwaltz "https://web.archive.org/web/20130308005157/http://celticbompa.4t.com/BFdances.html#5stepwaltz")
 - [Celtic Bompa aantekeningen zwiefacher workshop](Zwiebo.html#zwiefacher "https://web.archive.org/web/20130308005157/http://celticbompa.4t.com/Zwiebo.html#zwiefacher")
 
-<!-- preserved-video-start -->
+
 <iframe allowfullscreen="" frameborder="0" height="350" scrolling="no" src="https://www.youtube.com/embed/honwsw_O-W" width="425"></iframe>
 
 <iframe allowfullscreen="" frameborder="0" height="350" scrolling="no" src="https://www.youtube.com/embed/1MWgBDObNgg" width="425"></iframe>
@@ -113,4 +112,4 @@ Je staat in half-open houding, ergens op de dansvloer. De paren die snel willen 
 
 <iframe allowfullscreen="" frameborder="0" height="350" scrolling="no" src="https://www.youtube.com/embed/QN8XqDbfbps" width="425"></iframe>
 
-<!-- preserved-video-end -->
+

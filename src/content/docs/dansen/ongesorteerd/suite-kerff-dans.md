@@ -11,7 +11,6 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-## Samenvatting
 
 `Suite Kerff` lijkt op een lokale suite van dansen; specifieke stappen en figuren zijn regionaal bepaald.
 
@@ -30,5 +29,3 @@ Basis: meerdere korte dansdelen die als suite worden opgevoerd.
 ## Instructiefilmpjes
 
 ## Externe Referenties
-
-Bronnen:

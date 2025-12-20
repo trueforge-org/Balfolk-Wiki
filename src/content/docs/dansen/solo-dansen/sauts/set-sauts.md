@@ -14,5 +14,3 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 `Set Sauts` is een verzameling saut- of sprongelementen, vaak gebruikt in solo-danspraktijken.
 
 Basis: meerdere kleine sprongfiguren samengevoegd tot een set.
-
-Bronnen:

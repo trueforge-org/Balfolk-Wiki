@@ -2,7 +2,6 @@
 title: "wals ecossaise"
 ---
 
-## Samenvatting
 
 Komt in het wild niet voor.
 

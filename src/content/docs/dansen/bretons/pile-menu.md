@@ -11,7 +11,6 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-## Samenvatting
 
 `Pile Menu` is een korte, vaak speelse Bretonse dans met een eenvoudig ritme en herhalende passen.
 
@@ -30,5 +29,3 @@ Basis: korte stapjes en terugkerende figuren die makkelijk aan te leren zijn.
 ## Instructiefilmpjes
 
 ## Externe Referenties
-
-Bronnen:

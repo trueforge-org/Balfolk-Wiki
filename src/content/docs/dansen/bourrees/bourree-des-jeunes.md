@@ -2,7 +2,6 @@
 title: "bourree des jeunes"
 ---
 
-## Samenvatting
 
 De Bourrée des Jeunes is een eenvoudige bourrée-variant uit de Berry-regio, vaak gebruikt als oefenstuk.
 
@@ -22,5 +21,3 @@ De Bourrée des Jeunes is een eenvoudige bourrée-variant uit de Berry-regio, va
 ## Instructiefilmpjes
 
 ## Externe Referenties
-
-Bronnen:

@@ -11,7 +11,6 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-## Samenvatting
 
 `Branle d'Écosse` is een branle-variant die invloed toont van Schotse of Britse ritmes, uitgevoerd in groepen.
 

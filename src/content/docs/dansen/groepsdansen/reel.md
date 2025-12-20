@@ -11,7 +11,6 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-## Samenvatting
 
 `Reel` is een enerzijds Schotse/Engelse dansvorm, die ook in Franse folk-omgevingen voorkomt als energieke set- of kottradans.
 

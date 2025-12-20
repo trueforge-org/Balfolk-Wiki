@@ -11,7 +11,6 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-## Samenvatting
 
 `Laride in 6` is een variant van de Laride-dans met secties die over 6 tellen lopen.
 
@@ -30,5 +29,3 @@ Basis: herhalende stappen verdeeld over zes tellen; luister naar de muzikale fra
 ## Instructiefilmpjes
 
 ## Externe Referenties
-
-Bronnen:

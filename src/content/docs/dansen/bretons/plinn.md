@@ -2,7 +2,6 @@
 title: "Plinn"
 ---
 
-## Samenvatting
 
 Bretons springen tot je er bij neervalt
 

@@ -11,7 +11,6 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-## Samenvatting
 
 `Mazurka in 8` is een mazurka-variant met een 8-tellingsvorm, eenvoudiger dan onregelmatige varianten.
 
@@ -30,5 +29,3 @@ Basis: mazurka-stappen met nadruk op energie en heupaccenten; tel de groepen.
 ## Instructiefilmpjes
 
 ## Externe Referenties
-
-Bronnen:

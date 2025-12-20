@@ -2,7 +2,6 @@
 title: "Bourree Croisee"
 ---
 
-## Samenvatting
 
 Bourrée croisée is een variant van de bourrée uit Midden-Frankrijk, vaak gedanst in tweedelige patronen.
 

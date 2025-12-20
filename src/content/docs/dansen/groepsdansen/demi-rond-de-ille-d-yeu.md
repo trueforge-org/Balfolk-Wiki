@@ -11,7 +11,6 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-## Samenvatting
 
 `Demi-Rond de Île d'Yeu` is een lokale ronde dans uit het eilandgebied van Île d'Yeu, vaak uitgevoerd in kleinere formaties.
 

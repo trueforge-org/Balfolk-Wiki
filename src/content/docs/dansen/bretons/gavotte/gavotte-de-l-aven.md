@@ -2,7 +2,6 @@
 title: "Gavotte de l’Aven"
 ---
 
-## Samenvatting
 
 Gavotte de l’Aven — rij- of parendans met specifieke passen.
 

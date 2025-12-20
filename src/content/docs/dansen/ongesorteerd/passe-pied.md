@@ -11,7 +11,6 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-## Samenvatting
 
 `Passe-pied` is een snelle dansvorm (Frans) met opgewekte stappen, vaak gebruikt als festijndans.
 
@@ -30,5 +29,3 @@ Basis: korte, staccato stappen; vaak speels van karakter.
 ## Instructiefilmpjes
 
 ## Externe Referenties
-
-Bronnen:

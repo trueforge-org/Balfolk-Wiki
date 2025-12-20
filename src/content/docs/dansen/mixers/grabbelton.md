@@ -11,7 +11,6 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-## Samenvatting
 
 `Grabbelton` is een traditionele mixer- of kinderspel-dans waarbij deelnemers snel van positie wisselen of opdrachten uitvoeren.
 

@@ -11,7 +11,6 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-## Samenvatting
 
 `Rigaudon` is een historische dansvorm uit Frankrijk met levendige ritmes en karakteristieke figuren.
 

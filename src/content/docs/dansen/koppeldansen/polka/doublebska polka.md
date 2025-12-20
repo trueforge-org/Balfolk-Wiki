@@ -11,7 +11,6 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-## Samenvatting
 
 `Doublebska Polka` is een variatie op de polka met specifieke regionale stappen en dubbelaccenten.
 
@@ -30,5 +29,3 @@ Basis: klassieke polka-stap (sprong- of hop-accent) met extra accentueringen.
 ## Instructiefilmpjes
 
 ## Externe Referenties
-
-Bronnen:

@@ -11,7 +11,6 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-## Samenvatting
 
 `Hanter-dro en couple` is een koppelvariant van de Bretonse `Hanter-dro`, gedanst door koppels met aangepaste passen.
 

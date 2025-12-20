@@ -11,7 +11,6 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-## Samenvatting
 
 `Pachpi` lijkt een lokale of minder bekende dansnaam te zijn; details variëren per bron.
 
@@ -30,5 +29,3 @@ Basis: eenvoudige herhalende stappen; controleer lokale bronnen voor specifieke 
 ## Instructiefilmpjes
 
 ## Externe Referenties
-
-Bronnen:

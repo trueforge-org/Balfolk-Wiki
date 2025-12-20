@@ -11,7 +11,6 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-## Samenvatting
 
 `Branle Béarnais` is een traditionele groepsdans uit Béarn (Zuid-West Frankrijk). Een variant van de branle-familie.
 

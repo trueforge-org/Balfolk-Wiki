@@ -2,7 +2,6 @@
 title: "Scottisch"
 ---
 
-## Samenvatting
 
 Eenvoudige parendans met ontelbaar veel variaties
 
@@ -92,11 +91,11 @@ Gewoon in paren, half-open houding, over de dansvloer heen
 - [Celtic Bompa workshop door Bernard Coclet aantekeningen](Wattrelos20040131.html#scottish "https://web.archive.org/web/20130308005157/http://celticbompa.4t.com/Wattrelos20040131.html#scottish")
 - [Folkroddels.be: Scottish voor fijnproevers](http://www.folkroddels.be/artikels/1770.html "http://www.folkroddels.be/artikels/1770.html")
 
-<!-- preserved-video-start -->
+
 <iframe allowfullscreen="" frameborder="0" height="350" scrolling="no" src="https://www.youtube.com/embed/y1mfTqRCfyg" width="425"></iframe>
 
 <iframe allowfullscreen="" frameborder="0" height="350" scrolling="no" src="https://www.youtube.com/embed/aZZTY6soclM" width="425"></iframe>
 
 <iframe allowfullscreen="" frameborder="0" height="350" scrolling="no" src="https://www.youtube.com/embed/nr-1u0VwLRU" width="425"></iframe>
 
-<!-- preserved-video-end -->
+

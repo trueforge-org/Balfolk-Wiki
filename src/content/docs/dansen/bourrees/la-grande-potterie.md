@@ -2,7 +2,6 @@
 title: "la grande potterie"
 ---
 
-## Samenvatting
 
 De officiële titel is: Bourrée tournante des Grandes Poteries (het is de naam van een dorpje, vandaar de hoofdletters).
 
@@ -36,11 +35,11 @@ Deze dans wordt in principe alleen op deze melodie uit de Berry gedanst.
 
 - Matres & P in Muiderpoort
 
-<!-- preserved-video-start -->
+
 <iframe allowfullscreen="" frameborder="0" height="350" scrolling="no" src="https://www.youtube.com/embed/7hqgbkhjFXE" width="425"></iframe>
 
 <iframe allowfullscreen="" frameborder="0" height="350" scrolling="no" src="https://www.youtube.com/embed/gO5p1dQX99A" width="425"></iframe>
 
-<!-- preserved-video-end -->
+
 
 ## Externe Referenties

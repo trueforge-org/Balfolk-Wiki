@@ -11,7 +11,6 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-## Samenvatting
 
 `Ronde de Chantecorps` is een lokale rondedans vernoemd naar Chantecorps, met eenvoudige groepsfiguren.
 

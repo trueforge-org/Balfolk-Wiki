@@ -2,7 +2,6 @@
 title: "wals in 14 tijden"
 ---
 
-## Samenvatting
 
 Komt in het wild niet voor.
 

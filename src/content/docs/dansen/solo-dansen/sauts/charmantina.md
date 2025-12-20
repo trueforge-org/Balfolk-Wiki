@@ -14,5 +14,3 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 `Charmantina` is een sprong- of saut-variant in solo-dansrepertoire; specifieke uitvoering is lokaal bepaald.
 
 Basis: sprongen en stedige pasaccenten.
-
-Bronnen:

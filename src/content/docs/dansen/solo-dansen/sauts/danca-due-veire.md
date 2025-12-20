@@ -14,5 +14,3 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 `Dança Due Veire` lijkt een regionale spring- of saut-naam te zijn; precieze details verschillen per bron.
 
 Basis: sprongen en korte figuren; raadpleeg lokale instructies.
-
-Bronnen:

@@ -14,5 +14,3 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 `Matelota` is een solodans of sprongvariant met mogelijk maritieme invloeden (matelot = zeeman).
 
 Basis: sprongen en ritmische accenten, thematisch maritiem.
-
-Bronnen:

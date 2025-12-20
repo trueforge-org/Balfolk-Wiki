@@ -11,7 +11,6 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-## Samenvatting
 
 `Repasseado` is een traditionele groepsdans of figuur, vaak met herhalende passen en nadruk op doorlopende beweging.
 

@@ -11,7 +11,6 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-## Samenvatting
 
 `Kerouze` is waarschijnlijk een lokale dansnaam of variant; precieze details verschillen per streek.
 
@@ -30,5 +29,3 @@ Basis: eenvoudige herhalende stappen; volg lokale uitvoeringspraktijk.
 ## Instructiefilmpjes
 
 ## Externe Referenties
-
-Bronnen:

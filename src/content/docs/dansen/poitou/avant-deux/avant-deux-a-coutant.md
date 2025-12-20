@@ -11,7 +11,6 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-## Samenvatting
 
 `Avant-Deux à Coutant` is een regionale variant van de avant-deux met specifieke figuren of wendingen.
 

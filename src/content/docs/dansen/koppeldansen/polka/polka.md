@@ -2,7 +2,6 @@
 title: "Polka"
 ---
 
-## samenvatting
 
 Springerige parendans
 

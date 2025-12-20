@@ -11,7 +11,6 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-## Samenvatting
 
 `Rond de Loudéac` is een lokale kringdans uit de streek rond Loudéac, met eenvoudige herhalingen.
 
@@ -30,5 +29,3 @@ Basis: basisstappen en kleine wendingen; nadruk op groepssamenhang.
 ## Instructiefilmpjes
 
 ## Externe Referenties
-
-Bronnen:

@@ -11,7 +11,6 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
-## Samenvatting
 
 `Portoghese` is een groepsdans met mogelijk Iberische invloeden; in folkcontexten wordt de naam gebruikt voor een serie figuren in set- of rijdans.
 
