@@ -11,8 +11,24 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
+## Samenvatting
+
 `Stigvals` is mogelijk een lokale of traditionele dansnaam; concrete informatie is schaars.
 
+## Basis
+
+### Opstelling
+
+### Basisstappen
+
 Basis: volg lokale dansers of bronnen voor exacte stappen.
+
+## Aanwijzingen
+
+## Variaties
+
+## Instructiefilmpjes
+
+## Externe Referenties
 
 Bronnen:

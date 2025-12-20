@@ -11,8 +11,22 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
+## Samenvatting
+
 `Maraîchine` verwijst naar een dans of traditie uit de Marais-regio; locale varianten hebben vaak eenvoudige sociale patronen.
+
+## Basis
+
+### Opstelling
+
+### Basisstappen
 
 Basis: sociale figuren en herhalende stappen.
 
-Bronnen:
+## Aanwijzingen
+
+## Variaties
+
+## Instructiefilmpjes
+
+## Externe Referenties

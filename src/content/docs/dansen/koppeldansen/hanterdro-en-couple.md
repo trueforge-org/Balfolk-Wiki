@@ -11,8 +11,22 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
+## Samenvatting
+
 `Hanter-dro en couple` is een koppelvariant van de Bretonse `Hanter-dro`, gedanst door koppels met aangepaste passen.
+
+## Basis
+
+### Opstelling
+
+### Basisstappen
 
 Basis: typische hanter-dro stappen aangepast naar partnerwerk, met gezamenlijke wendingen.
 
-Bronnen:
+## Aanwijzingen
+
+## Variaties
+
+## Instructiefilmpjes
+
+## Externe Referenties

@@ -11,8 +11,22 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
+## Samenvatting
+
 `Poraie` is mogelijk een lokale dansnaam in Poitou; details zijn schaars en kunnen per dorp verschillen.
+
+## Basis
+
+### Opstelling
+
+### Basisstappen
 
 Basis: eenvoudige, herhalende stappen.
 
-Bronnen:
+## Aanwijzingen
+
+## Variaties
+
+## Instructiefilmpjes
+
+## Externe Referenties

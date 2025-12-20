@@ -11,8 +11,22 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
+## Samenvatting
+
 `Gigue in 15` is een onregelmatige gigue-variant met 15-tellingsstructuur; uitdagend qua timing.
+
+## Basis
+
+### Opstelling
+
+### Basisstappen
 
 Basis: snelle, sprankelende stappen verdeeld over langere tellingen.
 
-Bronnen:
+## Aanwijzingen
+
+## Variaties
+
+## Instructiefilmpjes
+
+## Externe Referenties

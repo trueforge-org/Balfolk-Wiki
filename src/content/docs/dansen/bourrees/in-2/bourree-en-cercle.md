@@ -1,28 +1,26 @@
 ---
 title: "bourree en cercle"
 ---
- 
-### Bourree en Cercle
+
+## Samenvatting
 
 In Nederland soms ook Bourrée en Ronde genoemd. Bourréevariant die los in een cirkel of een aantal concentrische cirkels wordt gedanst. Oorspronkelijke benaming was 'Brande d'Ardentes'.
 
-#### Opstelling
+## Basis
+
+### Opstelling
 
 Iedereen staat los van elkaar in ongeveer een cirkel, het is geen rijdans dus het wordt meer een grote ring.
 
-#### Basis
+### Basisstappen
 
 De pas is de basispas van de bourrée, maar wel in de épaule-variant: tijdens de eerste twee passen (tel 1 tot 6) een halve draai maken naar midden cirkel, tijdens de volgende twee passen terugdraaien tot je weer in cirkel staat. In het B-deel draai je tijdens de eerste twee passen om de as (door eerst een halve draai naar het midden te maken en dan verder door te draaien) en loop je de volgende twee passen voort in de kring.
 
-### Tips voor muzikanten
+## Aanwijzingen
 
-- Deze dans is Leiderlijk om akoestisch midden op de dansvloer te spelen, aan het eind van een lang en laat optreden
+## Variaties
 
-### Voorbeeld muziekjes en filmpjes
-
-- Gonnagles in Hamburg
-
-- Bourree en cercle op de manier die gebruikelijk is in Frankrijk. De melodie komt van VAG.
+## Instructiefilmpjes
 
 <!-- preserved-video-start -->
 <iframe allowfullscreen="" frameborder="0" height="350" scrolling="no" src="https://www.youtube.com/embed/xhUJk05QnBQ" width="425"></iframe>
@@ -30,3 +28,5 @@ De pas is de basispas van de bourrée, maar wel in de épaule-variant: tijdens d
 <iframe allowfullscreen="" frameborder="0" height="350" scrolling="no" src="https://www.youtube.com/embed/DNXi_O3fe8o" width="425"></iframe>
 
 <!-- preserved-video-end -->
+
+## Externe Referenties

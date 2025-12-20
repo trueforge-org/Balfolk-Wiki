@@ -1,8 +1,8 @@
 ---
 title: "Mazurka"
 ---
- 
-## samenvatting
+
+## Samenvatting
 
 Romantische parendans
 

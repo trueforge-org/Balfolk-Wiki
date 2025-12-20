@@ -1,10 +1,22 @@
 ---
 title: "wals ecossaise"
 ---
- 
-### Wals in 14 tijden
+
+## Samenvatting
 
 Komt in het wild niet voor.
+
+## Basis
+
+### Opstelling
+
+### Basisstappen
+
+## Aanwijzingen
+
+## Variaties
+
+## Instructiefilmpjes
 
 #### Voorbeeld muziekjes en filmpjes
 
@@ -14,3 +26,5 @@ Komt in het wild niet voor.
 - [Dessins](http://eric.theze.free.fr/musiques/dessinslydia.mp3 "http://eric.theze.free.fr/musiques/dessinslydia.mp3")
 
 (bron: [http://eric.theze.free.fr/scores.html](http://eric.theze.free.fr/scores.html "http://eric.theze.free.fr/scores.html"))
+
+## Externe Referenties

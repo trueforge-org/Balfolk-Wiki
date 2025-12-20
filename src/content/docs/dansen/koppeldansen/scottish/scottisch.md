@@ -1,8 +1,8 @@
 ---
 title: "Scottisch"
 ---
- 
-## samenvatting
+
+## Samenvatting
 
 Eenvoudige parendans met ontelbaar veel variaties
 

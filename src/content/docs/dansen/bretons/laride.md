@@ -1,8 +1,8 @@
 ---
 title: "Laridé"
 ---
- 
-## samenvatting
+
+## Samenvatting
 
 Een dans in 8 maten waarbij de dansers zich in slierten door de ruimte
 verplaatsen.

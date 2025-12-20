@@ -2,10 +2,7 @@
 title: "Bourree d’Auvergne"
 ---
 
-
- 
-
-## samenvatting
+## Samenvatting
 
 De moeder van alle bourrees
 

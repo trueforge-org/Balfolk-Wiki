@@ -1,22 +1,24 @@
 ---
 title: "horo"
 ---
- 
-### Horo
+
+## Samenvatting
 
 Dit is een tamelijk snelle dans.
 
-#### Opstelling
+## Basis
+
+### Opstelling
 
 Iedereen in 1 of meerdere cirkels of rijen.
 
-#### Basis
+### Basisstappen
 
 - Kruisstap naar rechts met de linkervoet
 - Stap naar rechts met de rechtervoet
 - Schop naar rechts met de linkervoet
 - Schop naar links met de rechtervoet
 
-#### Voorbeeld muziekjes en filmpjes
+## Instructiefilmpjes
 
 Deze dans past op bijvoorbeeld de Witches Brew van Omnia.

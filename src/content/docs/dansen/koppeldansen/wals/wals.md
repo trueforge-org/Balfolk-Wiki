@@ -1,8 +1,8 @@
 ---
 title: "Wals"
 ---
- 
-## samenvatting
+
+## Samenvatting
 
 Een gevarieerde parendans
 

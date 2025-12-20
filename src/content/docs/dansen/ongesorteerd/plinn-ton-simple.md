@@ -11,8 +11,24 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
+## Samenvatting
+
 `Plinn Ton Simple` is een eenvoudige variant van de Plinn, geschikt voor beginnende dansers.
 
+## Basis
+
+### Opstelling
+
+### Basisstappen
+
 Basis: basisplinn-stappen en eenvoudige wendingen.
+
+## Aanwijzingen
+
+## Variaties
+
+## Instructiefilmpjes
+
+## Externe Referenties
 
 Bronnen:

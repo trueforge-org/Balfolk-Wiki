@@ -1,7 +1,7 @@
 ---
 title: "Wat is Balfolk"
 ---
- 
+
 Balfolk is dansen op live muziek. Een disco-avond op traditionele muziek
 uit West-Europa en dan vooral uit Frankrijk en Vlaanderen. Naast de
 traditionele invulling van stijl en instrumentgebruik die aan de muziek

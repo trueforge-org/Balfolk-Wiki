@@ -1,14 +1,18 @@
 ---
 title: "Gavotte de Montagnes (Suite Gavotte)"
 ---
- 
-is een "suite" die bestaat uit drie delen.
 
-Traditioneel een parendans in een gesloten kring waarbij elke Leider zijn
-Volger aan zijn rechterkant heeft staan.
+## Samenvatting
 
-Tegenwoordig (balfolk) meestal een rij waarbij Volger/Leider niet meer uit
-maakt.
+Is een "suite" die bestaat uit drie delen.
+
+## Basis
+
+### Opstelling
+
+Traditioneel een parendans in een gesloten kring waarbij elke Leider zijn Volger aan zijn rechterkant heeft staan. Tegenwoordig (balfolk) meestal een rij waarbij Volger/Leider niet meer uitmaakt.
+
+### Basisstappen
 
 ## Deel 1: Ton Simpl
 
@@ -24,16 +28,18 @@ Armen loshaken en elkaar met pinken vastpakken zoals in de An Dro.
 
 bestaat uit een afwisseling tussen twee delen:
 
-1\. wandeling: stap naar links met links, kruis rechts over waarbij de
-armen op en neer zwaaien. Dit herhaalt 4 keer.
+1. wandeling: stap naar links met links, kruis rechts over waarbij de armen op en neer zwaaien. Dit herhaalt 4 keer.
 
-2\. op de plaats: point rechts voor waarbij de armen op borsthoogte
-worden gestrekt, (recht naar voren, geen zwaai). Armen gaan naar voren
-als rechtervoet naar voren gaat . Daarna voet en armen terug. Ook dit
-herhaalt 4 keer.
+2. op de plaats: point rechts voor waarbij de armen op borsthoogte worden gestrekt, (recht naar voren, geen zwaai). Armen gaan naar voren als rechtervoet naar voren gaat . Daarna voet en armen terug. Ook dit herhaalt 4 keer.
 
 ## Deel 3: Ton Double
 
-Is hetzelfde als deel 1, maar de armen gaan nu meezwaaien (voorste
-danser geeft dit aan). Meestal gaat het tempo van de muziek wat onhoog
-tijdens dit deel.
+Is hetzelfde als deel 1, maar de armen gaan nu meezwaaien (voorste danser geeft dit aan). Meestal gaat het tempo van de muziek wat onhoog tijdens dit deel.
+
+## Aanwijzingen
+
+## Variaties
+
+## Instructiefilmpjes
+
+## Externe Referenties

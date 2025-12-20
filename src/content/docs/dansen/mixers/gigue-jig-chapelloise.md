@@ -1,12 +1,14 @@
 ---
 title: "Gigue (Jig, Chapelloise)"
 ---
- 
-## samenvatting
+
+## Samenvatting
 
 Gezellige mixer. In Frankrijk chapeloise genoemd.
 
-## Opstelling
+## Basis
+
+### Opstelling
 
 Flankkring van paren.
 
@@ -20,9 +22,9 @@ Heren aan de binnenkant van de cirkel, Volger aan de buitenkant.
 
 Rechterhand Leider en linkerhand Volger zijn vast, hand van Leider is onder)
 
-## Basis
+### Basisstappen
 
-### A
+#### A
 
 - **I**: vooruitlopen 4 passen - draai om (linkerhand Leider is nu vast
   met rechter­hand Volger) en ga achteruit  door 4 passen (nog steeds tegen
@@ -31,7 +33,7 @@ Rechterhand Leider en linkerhand Volger zijn vast, hand van Leider is onder)
 - **II**: vooruit teruglopen 4 passen - draai om en ga achteruit door 4
   passen (met de klok mee)
 
-### B
+#### B
 
 - **III**: Set-pas (driepas) naar elkaar toe - idem uit elkaar - in
   looppassen van plaats wisselen

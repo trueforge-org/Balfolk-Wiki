@@ -1,7 +1,7 @@
 ---
 title: "Etikette"
 ---
- 
+
 ## Etikette voor dansers
 
 - Sluit bij een slingerdans (an dro,hanter dro) altijd aan aan de

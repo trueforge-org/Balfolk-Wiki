@@ -11,8 +11,22 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
+## Samenvatting
+
 `Galop Nantais` is een energieke paardrij-achtige dans uit de Nantes-regio, vaak met snel galopperend ritme.
+
+## Basis
+
+### Opstelling
+
+### Basisstappen
 
 Basis: snelle stappen en sprongen, met nadruk op ritme en galopperende beweging.
 
-Bronnen:
+## Aanwijzingen
+
+## Variaties
+
+## Instructiefilmpjes
+
+## Externe Referenties

@@ -1,16 +1,18 @@
 ---
 title: "wals in 6 tijden"
 ---
- 
-### Wals in 5 tijden
+
+## Samenvatting
 
 Een dans met 5 tellen in de maat.
 
-#### Opstelling
+## Basis
+
+### Opstelling
 
 Paren in gewone danshouding
 
-=== Basis
+### Basisstappen
 
 Het ritme bestaat uit een combinatie van 3 tellen en 2 tellen.
 
@@ -24,15 +26,16 @@ Hierbij geldt:
 - de “een-twee-drie” is de gewone wals-pas
 - de “een-twee” is een dubbele voetwissel met desnoods weining draai of verplaatsing.
 
-#### Variaties
+## Aanwijzingen
+
+## Variaties
 
 - Je kunt nu een heel rondje draaien per maat (een halve op de walspas en een halve op de wisselpas).
 - Je kunt nu ook een half rondje draaien per maat, en dus rustig vijf tellen hier over doen.
 
-### Voorbeeld muziekjes en filmpjes
+## Instructiefilmpjes
 
 - Valse 5 temps instructie
-
 - Wals in 5 tijden (Bert Leemans en Jeroen Geerinck)
 
 <!-- preserved-video-start -->
@@ -41,3 +44,5 @@ Hierbij geldt:
 <iframe allowfullscreen="" frameborder="0" height="350" scrolling="no" src="https://www.youtube.com/embed/tqTzLUOpC7E" width="425"></iframe>
 
 <!-- preserved-video-end -->
+
+## Externe Referenties

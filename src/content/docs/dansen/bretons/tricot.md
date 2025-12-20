@@ -1,12 +1,18 @@
 ---
 title: "tricot"
 ---
- 
-### TRICOT
+
+## Samenvatting
 
 Een “tricot” is elke combinatie van een Hanter-Dro en een An Dro.
 
-Andro en Hanterdro wisselen elkaar dus af. Vandaar ook de naam “tricot”: recht en averecht door elkaar heen gebreid =⇒ breiwerk.
+## Basis
+
+### Opstelling
+
+### Basisstappen
+
+Andro en Hanterdro wisselen elkaar dus af. Vandaar ook de naam “tricot”: recht en averecht door elkaar heen gebreid => breiwerk.
 
 Men neemt elkaar vast bij de pinken, zoals bij de An Dro. Tijdens de Hanter-Dro gedeeltes, brengt men de rechter voorarm over de linker voorarm van de rechterbuur, zonder de pinken te lossen.
 

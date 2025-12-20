@@ -11,8 +11,24 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
+## Samenvatting
+
 `Mazurka in 11` verwijst naar een onregelmatige mazurka met een 11-tellingen patroon; variaties bestaan per regio.
 
+## Basis
+
+### Opstelling
+
+### Basisstappen
+
 Basis: mazurka-stappen (accent op de tweede tel) met onregelmatige tussenpassen; oefen tellen en accenten.
+
+## Aanwijzingen
+
+## Variaties
+
+## Instructiefilmpjes
+
+## Externe Referenties
 
 Bronnen:

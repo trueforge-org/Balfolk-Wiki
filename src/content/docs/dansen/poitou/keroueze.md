@@ -11,8 +11,22 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
+## Samenvatting
+
 `Keroueze` is vermoedelijk een lokale dansnaam in de Poitou-regio; exacte details verschillen per bron.
+
+## Basis
+
+### Opstelling
+
+### Basisstappen
 
 Basis: eenvoudige herhalende stappen; raadpleeg lokale bronnen voor details.
 
-Bronnen:
+## Aanwijzingen
+
+## Variaties
+
+## Instructiefilmpjes
+
+## Externe Referenties

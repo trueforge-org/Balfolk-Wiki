@@ -11,8 +11,22 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
+## Samenvatting
+
 `Wals in 7 tijden` is een onregelmatige walspartij waarbij een tussenpas en afwijkende frasering voorkomen.
+
+## Basis
+
+### Opstelling
+
+### Basisstappen
 
 Basis: walspassen afgewisseld met korte tussenpassen; tel en luister goed naar de muziek.
 
-Bronnen:
+## Aanwijzingen
+
+## Variaties
+
+## Instructiefilmpjes
+
+## Externe Referenties

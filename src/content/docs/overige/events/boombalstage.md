@@ -1,7 +1,7 @@
 ---
 title: "boombalstage"
 ---
- 
+
 ### Boombal Stage
 
 De Boombal stage wordt ieder jaar georganiseerd voor het [Boombal festival](boombalfestival.md). Tijdens deze stage wordt er in 3 niveaus les gegeven in balfolk.

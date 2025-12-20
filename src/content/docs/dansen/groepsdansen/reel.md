@@ -11,8 +11,22 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
+## Samenvatting
+
 `Reel` is een enerzijds Schotse/Engelse dansvorm, die ook in Franse folk-omgevingen voorkomt als energieke set- of kottradans.
+
+## Basis
+
+### Opstelling
+
+### Basisstappen
 
 Basis: patroon van stappen en wendingen met veel wissels; kenmerkend is de opzwepende ritmiek.
 
-Bronnen:
+## Aanwijzingen
+
+## Variaties
+
+## Instructiefilmpjes
+
+## Externe Referenties

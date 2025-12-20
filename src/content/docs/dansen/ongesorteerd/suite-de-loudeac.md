@@ -11,8 +11,24 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
+## Samenvatting
+
 `Suite de Loudéac` is een reeks dansen of figuren geassocieerd met Loudéac; een suite bevat meestal meerdere korte dansdelen.
 
+## Basis
+
+### Opstelling
+
+### Basisstappen
+
 Basis: opeenvolging van korte dansstukken; oefen elk deel apart.
+
+## Aanwijzingen
+
+## Variaties
+
+## Instructiefilmpjes
+
+## Externe Referenties
 
 Bronnen:

@@ -11,8 +11,22 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
+## Samenvatting
+
 `Avant-Deux de Travers` is een regionale avant-deux met specifieke travers-figuren en omkeringen.
+
+## Basis
+
+### Opstelling
+
+### Basisstappen
 
 Basis: figuren met kruisingen en wisselingen tussen paren.
 
-Bronnen:
+## Aanwijzingen
+
+## Variaties
+
+## Instructiefilmpjes
+
+## Externe Referenties

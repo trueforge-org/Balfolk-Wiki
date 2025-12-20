@@ -11,8 +11,22 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
+## Samenvatting
+
 `Branle de la Fosse-aux-Loups` is een regionale branle, met een naam die verwijst naar een lokale plaats of traditie.
+
+## Basis
+
+### Opstelling
+
+### Basisstappen
 
 Basis: herhalende stappen en eenvoudige wendingen; typisch groepskarakter.
 
-Bronnen:
+## Aanwijzingen
+
+## Variaties
+
+## Instructiefilmpjes
+
+## Externe Referenties

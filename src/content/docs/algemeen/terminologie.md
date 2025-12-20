@@ -1,7 +1,7 @@
 ---
 title: "Terminologie"
 ---
- 
+
 Op deze pagina staat een overzicht van gebruikte begrippen en
 afkortingen.
 

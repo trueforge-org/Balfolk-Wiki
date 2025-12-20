@@ -11,8 +11,24 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
+## Samenvatting
+
 `Springlek` is een speelse of springerige variant van polska; de naam duidt op sprongen of opzwepende beweging.
 
+## Basis
+
+### Opstelling
+
+### Basisstappen
+
 Basis: polska-stappen met extra sprongen en accenten.
+
+## Aanwijzingen
+
+## Variaties
+
+## Instructiefilmpjes
+
+## Externe Referenties
 
 Bronnen:

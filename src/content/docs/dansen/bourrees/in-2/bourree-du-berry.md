@@ -1,16 +1,16 @@
 ---
 title: "Bourree"
 ---
- 
-### Bourree
+
+## Samenvatting
 
 Spannende dans
 
-#### Opstelling
+### Opstelling
 
 In de meest gedanste versie staan dansparen opgesteld in rijen tegenover elkaar, op een afstand dat ze elkaars handen kunnen aanraken.
 
-#### Basis
+## Basis
 
 De basis om een bourree mee te kunnen dansen bestaat uit een **vereenvoudigde** bourreepas (de passen voor de Volger en Leider zijn in de bourree gelijk):
 
@@ -32,7 +32,7 @@ De dans bestaat verder uit een A- en een B-deel:
   - Bourreepas vooruit, maar met een kwartdraai naar links zodat de Volger en Leider tegenover elkaar staan (6 tellen)
   - Bourreepas vooruit, waarbij om de rechterschouder wordt gedraaid tot de Volger en Leider van plaats zijn gewisseld en weer met de linkerschouder naar elkaar staan (6 tellen)
 
-#### Aanwijzingen
+## Aanwijzingen
 
 - Zen-Zen: De normale bourreepas gaat eigenlijk niet op de eerste tel naar voren (of naar achter), maar twee tellen eerder. Dit betekent dat je in het A-deel op tel 4 een val maakt op het rechterbeen (je lichaam stopt met het bewegen naar voren) en al bij tel 5 je gewicht naar achteren verplaatst en dus een klein stapje naar achteren maakt. Hetzelfde geldt aan het eind van de bourreepas naar achteren: een val op 4 en een pasje naar voren op 5.
 - De bourree doet eigenlijk geen passen op de plaats: je gaat of naar voren, of naar achteren, en als je naar voren gaat dan zal iedere pas op de plaats een klein beetje naar voren zijn. Idem voor achteruit.
@@ -60,13 +60,13 @@ De dans bestaat verder uit een A- en een B-deel:
 - [Kadootjesbourree](../kadootjesbourree.md)
 - (Vul maar aan)
 
-### Instructiefilmpjes
+## Instructiefilmpjes
 
 - Le pas de bourrée à 2 temps
 
 - Bourrée 2 temps - video notes
 
-### Externe pagina's
+## Externe Referenties
 
 - [Celtic Bompa Bourree](BFdances.html#bourree "https://web.archive.org/web/20130308005157/http://celticbompa.4t.com/BFdances.html#bourree")
 - [Celtic Bompa Bourree Workshop-aantekeningen](Bourree.html#head "https://web.archive.org/web/20130308005157/http://celticbompa.4t.com/Bourree.html#head")
@@ -80,7 +80,7 @@ De dans bestaat verder uit een A- en een B-deel:
 
 <!-- preserved-video-end -->
 
-## samenvatting
+## Aanvullende Samenvatting
 
 Spannende dans
 

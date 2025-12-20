@@ -1,32 +1,27 @@
 ---
 title: "fandango"
 ---
- 
-### Fandango
 
-#### Opstelling
+## Samenvatting
 
-Leider en Volger tegenover elkaar
+Fandango (traditionele vorm) — paren of kleine kringjes met een serie van vier delen.
 
-of
+## Basis
 
-kleine kringetjes
+### Opstelling
 
-#### Basis
+Leider en Volger tegenover elkaar of in kleine kringetjes.
+
+### Basisstappen
 
 Dans bestaat uit 4 delen.
 
 Deel 1:
-Basispas voorafgegaan door stap hop.Twee kanten op.
-NB: stap op tel 1, hop op tel 3.
+Basispas voorafgegaan door stap hop. Twee kanten op. NB: stap op tel 1, hop op tel 3.
 
 Deel 2: tik met mayim pas achterlangs twee kanten op.
 
-Deel 3: draai gedeelte.
-NB: de danspassen lopen hier niet synchroon met de muziekfrase.
-Muziek is in 4-en, danspassen in 3-en
-Twee kanten op als volgt:
-Draai - draai - stop af met stap terug (gewichtswissel)
+Deel 3: draai gedeelte. NB: de danspassen lopen hier niet synchroon met de muziekfrase. Muziek is in 4-en, danspassen in 3-en. Twee kanten op als volgt: Draai - draai - stop af met stap terug (gewichtswissel).
 
 Deel 4:
 Basis pas (twee kanten op)

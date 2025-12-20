@@ -1,8 +1,8 @@
 ---
 title: "An Dro"
 ---
- 
-## samenvatting
+
+## Samenvatting
 
 Dit is een (meestal) rustige, haast meditatieve dans.
 

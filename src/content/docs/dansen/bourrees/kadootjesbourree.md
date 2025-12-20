@@ -11,8 +11,22 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
+## Samenvatting
+
 De Kadootjesbourrée is een speelse variant van de bourrée, vaak met kleine figuren die lijken op het 'geven' van een presentje.
+
+## Basis
+
+### Opstelling
+
+### Basisstappen
 
 Basis: korte stappen, vaak afgewisseld met speelse arm- of handgebaren.
 
-Bronnen:
+## Aanwijzingen
+
+## Variaties
+
+## Instructiefilmpjes
+
+## Externe Referenties

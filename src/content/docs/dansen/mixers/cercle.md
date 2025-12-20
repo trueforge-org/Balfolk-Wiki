@@ -1,8 +1,8 @@
 ---
 title: "Cercle"
 ---
- 
-## samenvatting
+
+## Samenvatting
 
 Een vrolijke mixer. Wordt in Vlaanderen Tovercirkel genoemd. En in
 Frankrijk Cercle circassien
@@ -14,6 +14,10 @@ handen vast. De vrouwen leggen hun handen bovenop de handen van de Leider.
 De 'eerstvolgende paren' zijn (man rechts/vrouw links)
 
 ## Basis
+
+### Opstelling
+
+### Basisstappen
 
 Muziek in 3 delen (A, B,C), elk deel 2x herhaald
 
@@ -93,9 +97,7 @@ Hoe houd je vast...
 
 - De 2 personen naast je draaien tijdens naar binnen lopen
 
-- heren doen leuke dingen als ze in het midden komen
-  -
-
+- ## heren doen leuke dingen als ze in het midden komen
   - Hi5
 
   - Bokje springen

@@ -11,8 +11,22 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
+## Samenvatting
+
 `Mardi-Gras` als dansreferentie verwijst naar feestelijke dansen die bij Vastenavond-activiteiten horen; vaak speels en uitbundig.
+
+## Basis
+
+### Opstelling
+
+### Basisstappen
 
 Basis: vrolijke, sociale dansen; afhankelijk van lokale tradities.
 
-Bronnen:
+## Aanwijzingen
+
+## Variaties
+
+## Instructiefilmpjes
+
+## Externe Referenties

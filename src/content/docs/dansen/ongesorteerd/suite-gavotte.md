@@ -11,8 +11,24 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
+## Samenvatting
+
 `Suite Gavotte` is een verzameling gavotte-varianten of -delen; gavottes zijn vaak ronde, ritmische dansen.
 
+## Basis
+
+### Opstelling
+
+### Basisstappen
+
 Basis: gavotte-stappen en korte herhalingen.
+
+## Aanwijzingen
+
+## Variaties
+
+## Instructiefilmpjes
+
+## Externe Referenties
 
 Bronnen:

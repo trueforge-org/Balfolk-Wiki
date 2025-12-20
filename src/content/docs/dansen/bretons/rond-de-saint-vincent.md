@@ -1,16 +1,18 @@
 ---
 title: "Rond de Saint Vincent"
 ---
- 
-## samenvatting
+
+## Samenvatting
 
 Rond, en rond, en rond...
 
-## Opstelling
+## Basis
+
+### Opstelling
 
 In een kring, met elkaars handen vast.
 
-## Basis
+### Basisstappen
 
 De benen:
 
@@ -40,29 +42,15 @@ Vooral als je heel snel wilt dansen, maximaal zes personen per kring.
 
 - Laag bij de grond (op je hurken) dansen.
 
-- Héél snel rondjes draaien. Bij sommige stappen kan de hele groep van
-  de grond komen!
-
-### Rond de Saint-Vincent
-
-Rond, en rond, en rond…
-
-#### Opstelling
-
-#### Basis
-
-#### Aanwijzingen
-
-#### Variaties
-
-- Laag bij de grond (op je hurken) dansen.
 - Héél snel rondjes draaien. Bij sommige stappen kan de hele groep van de grond komen!
+
+## Instructiefilmpjes
 
 ### Voorbeeld muziekjes en filmpjes
 
 - Rond de Saint Vincent
 
-### Externe Pagina's
+## Externe Referenties
 
 - [Rond de Saint Vincent-sur-Oust op TKPédia](Rond_de_Saint-Vincent-sur-Oust "https://web.archive.org/web/20090214043036/http://tkpedia.tamm-kreiz.com/index.php/Rond_de_Saint-Vincent-sur-Oust")
 
@@ -70,3 +58,5 @@ Rond, en rond, en rond…
 <iframe allowfullscreen="" frameborder="0" height="350" scrolling="no" src="https://www.youtube.com/embed/UjTZ13zRNPw" width="425"></iframe>
 
 <!-- preserved-video-end -->
+
+### Voorbeeld muziekjes en filmpjes

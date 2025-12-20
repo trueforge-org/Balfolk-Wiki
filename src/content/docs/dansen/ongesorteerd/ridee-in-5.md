@@ -11,8 +11,18 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
+## Samenvatting
+
 `Ridée in 5` is een variant met een 5-tellingspatroon; dit vergt aandacht voor de onregelmatige frasering.
+
+## Basis
 
 Basis: herhalende stappen verdeeld over vijf tellen; tel geduldig.
 
-Bronnen:
+## Aanwijzingen
+
+## Variaties
+
+## Instructiefilmpjes
+
+## Externe Referenties

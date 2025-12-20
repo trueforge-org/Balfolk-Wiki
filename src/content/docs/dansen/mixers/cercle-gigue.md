@@ -11,8 +11,22 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
+## Samenvatting
+
 `Cercle Gigue` is een energetische mixers-dans gebaseerd op gigue-ritmes, uitgevoerd in cirkel- of kringformatie.
+
+## Basis
+
+### Opstelling
+
+### Basisstappen
 
 Basis: sprankelende stappen en sprongen, met gedeelde wisselingen.
 
-Bronnen:
+## Aanwijzingen
+
+## Variaties
+
+## Instructiefilmpjes
+
+## Externe Referenties

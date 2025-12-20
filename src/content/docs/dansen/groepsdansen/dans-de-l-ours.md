@@ -11,8 +11,22 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
+## Samenvatting
+
 `Dans de l'Ours` (dans van de beer) is vaak een folkloristische groepsdans met theatrale elementen, mogelijk afgeleid van rituelen of spel.
+
+## Basis
+
+### Opstelling
+
+### Basisstappen
 
 Basis: eenvoudige groepsbewegingen en voorstellingen; kan elementen van rollen en acteren bevatten.
 
-Bronnen:
+## Aanwijzingen
+
+## Variaties
+
+## Instructiefilmpjes
+
+## Externe Referenties

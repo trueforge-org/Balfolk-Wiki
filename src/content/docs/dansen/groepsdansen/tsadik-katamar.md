@@ -11,8 +11,22 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
+## Samenvatting
+
 `Tsadik Katamar` is een groepsdans met mogelijk oosterse of regionale invloeden; precieze oorsprong kan lokaal verschillen.
+
+## Basis
+
+### Opstelling
+
+### Basisstappen
 
 Basis: herhalende stappen en eenvoudige wendingen met nadruk op ritme.
 
-Bronnen:
+## Aanwijzingen
+
+## Variaties
+
+## Instructiefilmpjes
+
+## Externe Referenties

@@ -11,8 +11,24 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
+## Samenvatting
+
 `Slangpolska` is een variant van de polska met een slingerende beweging ("slang"), vaak met lokale accenten.
 
+## Basis
+
+### Opstelling
+
+### Basisstappen
+
 Basis: polska-achtige stappen met draaiende of slingeringselementen.
+
+## Aanwijzingen
+
+## Variaties
+
+## Instructiefilmpjes
+
+## Externe Referenties
 
 Bronnen:

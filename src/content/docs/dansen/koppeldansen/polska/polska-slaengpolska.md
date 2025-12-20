@@ -11,8 +11,24 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
+## Samenvatting
+
 `Slaengpolska` is een regionale polska-variant met karakteristieke slingeringen of accenten.
 
+## Basis
+
+### Opstelling
+
+### Basisstappen
+
 Basis: polska-stappen met specifieke slingeringen of draai-elementen.
+
+## Aanwijzingen
+
+## Variaties
+
+## Instructiefilmpjes
+
+## Externe Referenties
 
 Bronnen:

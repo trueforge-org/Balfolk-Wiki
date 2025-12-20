@@ -11,8 +11,22 @@ Hulp met aanvullen en verbetering word gewaardeerd!
 
 :::
 
+## Samenvatting
+
 `Avant-Deux de Long` is een langere variant van de avant-deux, vaak met uitgebreidere figuren.
+
+## Basis
+
+### Opstelling
+
+### Basisstappen
 
 Basis: uitgebreidere figuuruitvoering over langere fraseringen.
 
-Bronnen:
+## Aanwijzingen
+
+## Variaties
+
+## Instructiefilmpjes
+
+## Externe Referenties

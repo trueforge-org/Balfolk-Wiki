@@ -1,12 +1,12 @@
 ---
 title: "jig"
 ---
- 
-### Jig
+
+## Samenvatting
 
 Gezellige mixer. In Frankrijk chapeloise genoemd en in Engeland gigue.
 
-#### Opstelling
+### Opstelling
 
 Flankkring van paren.
 
@@ -20,7 +20,9 @@ Heren aan de binnenkant van de cirkel, Volger aan de buitenkant.
 
 Rechterhand Leider en linkerhand Volger zijn vast, hand van Leider is onder)
 
-#### Basis
+## Basis
+
+### Basisstappen
 
 ##### A
 
@@ -32,7 +34,7 @@ Rechterhand Leider en linkerhand Volger zijn vast, hand van Leider is onder)
 - **III:** Set-pas (driepas) naar elkaar toe - idem uit elkaar - in looppassen van plaats wisselen
 - **IV:** Set-pas naar elkaar toe - idem uit elkaar- draai door (heren laten de Volgers onder hun linkerarm door naar achter gaan, door met de linkerhand een hoge poort te maken en naar links te bewegen zodat de Volger schuin rechts naar achteren begeleid wordt, terwijl ze zelf schuin links naar voren stappen om de nieuwe Volger op te vangen aan hun rechterhand die van voren eraan komt)
 
-#### Aanwijzingen
+## Aanwijzingen
 
 - kijk je partner aan!
 - Volger legt de hand op die van de Leider
@@ -42,7 +44,7 @@ Rechterhand Leider en linkerhand Volger zijn vast, hand van Leider is onder)
 - als het krap is: spring in deel B niet te wild
 - loop in deel A niet te dicht tegen elkaar aan, want dan kan je niet naar elkaar toe springen
 
-#### Variaties
+## Variaties
 
 - In deel A 8 tellen rechtdoor lopen gezicht zelfde kant op
 - aan einde van I, II, III en/of IV kan de man de vrouw één of meer extra rondjes laten draaien
@@ -50,7 +52,7 @@ Rechterhand Leider en linkerhand Volger zijn vast, hand van Leider is onder)
 - Bij naar elkaar toe springen kwartslag gedraaid zijn naar elkaar toe.
 - Halverweg I draait de Leider de Volger met één of twee handen een hele slag in en ze lopen nog steeds vooruit en bij het eerste deel van B achteruit. In het tweede deel van b volgt een draai 'uit'.
 
-### Voorbeeld muziekjes en filmpjes
+## Instructiefilmpjes
 
 - Bladmuziek [Texel Gigue](http://bladmuziek.dennisreidsma.nl/gonnagles/index.php/tunes/single/139 "http://bladmuziek.dennisreidsma.nl/gonnagles/index.php/tunes/single/139"):
   - [PDF Bladmuziek](http://bladmuziek.dennisreidsma.nl/gonnagles/index.php/sheets/download/370 "http://bladmuziek.dennisreidsma.nl/gonnagles/index.php/sheets/download/370")
@@ -66,7 +68,7 @@ Rechterhand Leider en linkerhand Volger zijn vast, hand van Leider is onder)
 
 - Chapelloise
 
-### Externe Pagina's
+## Externe Referenties
 
 - [Folkroddels.be: Waarom dansen wij het Aapje op een jig?](http://www.folkroddels.be/artikels/1548.html "http://www.folkroddels.be/artikels/1548.html")
 
