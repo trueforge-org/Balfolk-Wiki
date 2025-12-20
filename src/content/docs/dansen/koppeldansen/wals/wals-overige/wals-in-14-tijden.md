@@ -1,16 +1,7 @@
 ---
 title: "wals in 14 tijden"
 ---
-
-:::caution
-
-Dit bestand is aangevuld middels AI.
-Ga er vanuit dat alles hierin onzin is, tenzij bevestigd middels een andere bron.
-
-Hulp met aanvullen en verbetering word gewaardeerd!
-
-:::
-
+ 
 ### Wals in 14 tijden
 
 Komt in het wild niet voor.

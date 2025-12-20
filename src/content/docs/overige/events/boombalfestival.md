@@ -1,16 +1,7 @@
 ---
 title: "boombalfestival"
 ---
-
-:::caution
-
-Dit bestand is aangevuld middels AI.
-Ga er vanuit dat alles hierin onzin is, tenzij bevestigd middels een andere bron.
-
-Hulp met aanvullen en verbetering word gewaardeerd!
-
-:::
-
+ 
 ### Boombal Festival
 
 Boombal festival is een meerdaags festival georganiseerd door de organisatie Boombal uit België. Het festival wordt ieder jaar gehouden in Lovendegem rond eind Augustus.

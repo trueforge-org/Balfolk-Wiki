@@ -1,16 +1,7 @@
 ---
 title: "Rondeau en Couple"
 ---
-
-:::caution
-
-Dit bestand is aangevuld middels AI.
-Ga er vanuit dat alles hierin onzin is, tenzij bevestigd middels een andere bron.
-
-Hulp met aanvullen en verbetering word gewaardeerd!
-
-:::
-
+ 
 ## samenvatting
 
 Parendans twee aan twee in een grote cirkel

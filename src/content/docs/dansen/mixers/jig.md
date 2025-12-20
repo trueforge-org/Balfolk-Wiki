@@ -1,16 +1,7 @@
 ---
 title: "jig"
 ---
-
-:::caution
-
-Dit bestand is aangevuld middels AI.
-Ga er vanuit dat alles hierin onzin is, tenzij bevestigd middels een andere bron.
-
-Hulp met aanvullen en verbetering word gewaardeerd!
-
-:::
-
+ 
 ### Jig
 
 Gezellige mixer. In Frankrijk chapeloise genoemd en in Engeland gigue.

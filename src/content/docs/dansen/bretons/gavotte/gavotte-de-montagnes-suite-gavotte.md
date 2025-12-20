@@ -1,16 +1,7 @@
 ---
 title: "Gavotte de Montagnes (Suite Gavotte)"
 ---
-
-:::caution
-
-Dit bestand is aangevuld middels AI.
-Ga er vanuit dat alles hierin onzin is, tenzij bevestigd middels een andere bron.
-
-Hulp met aanvullen en verbetering word gewaardeerd!
-
-:::
-
+ 
 is een "suite" die bestaat uit drie delen.
 
 Traditioneel een parendans in een gesloten kring waarbij elke Leider zijn

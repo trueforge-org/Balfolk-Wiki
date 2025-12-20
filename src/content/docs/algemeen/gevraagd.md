@@ -1,16 +1,7 @@
 ---
 title: "gevraagd"
 ---
-
-:::caution
-
-Dit bestand is aangevuld middels AI.
-Ga er vanuit dat alles hierin onzin is, tenzij bevestigd middels een andere bron.
-
-Hulp met aanvullen en verbetering word gewaardeerd!
-
-:::
-
+ 
 ### Gevraagd
 
 Op deze pagina staat een overzicht van dingen die erg fijn zouden zijn op de wiki. Iedereen is vrij om aan te vullen wat hij of zij wil, maar als je wat inspiratie kunt gebruiken dan kun je eens een kijkje nemen in de onderstaande lijst:

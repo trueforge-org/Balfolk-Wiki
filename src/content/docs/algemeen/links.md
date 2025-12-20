@@ -1,16 +1,7 @@
 ---
 title: "links"
 ---
-
-:::caution
-
-Dit bestand is aangevuld middels AI.
-Ga er vanuit dat alles hierin onzin is, tenzij bevestigd middels een andere bron.
-
-Hulp met aanvullen en verbetering word gewaardeerd!
-
-:::
-
+ 
 ### Links
 
 Op deze pagina een overzicht van links die te maken hebben met balfolk en dansen. Vul hier gerust relevante links toe.

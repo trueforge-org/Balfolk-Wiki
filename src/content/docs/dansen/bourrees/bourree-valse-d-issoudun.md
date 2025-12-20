@@ -1,16 +1,7 @@
 ---
 title: "bourree valse d issoudun"
 ---
-
-:::caution
-
-Dit bestand is aangevuld middels AI.
-Ga er vanuit dat alles hierin onzin is, tenzij bevestigd middels een andere bron.
-
-Hulp met aanvullen en verbetering word gewaardeerd!
-
-:::
-
+ 
 ### Bourrée valsé d'Issoudun
 
 Het A deel wordt gedanst als gewone bourrée, in paren, met een wisseling van plaats in het tweede deel van A. Het B deel wordt gewalst.

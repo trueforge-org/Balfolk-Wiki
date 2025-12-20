@@ -1,16 +1,7 @@
 ---
 title: "wals in 5 tijden"
 ---
-
-:::caution
-
-Dit bestand is aangevuld middels AI.
-Ga er vanuit dat alles hierin onzin is, tenzij bevestigd middels een andere bron.
-
-Hulp met aanvullen en verbetering word gewaardeerd!
-
-:::
-
+ 
 ### Wals in 5 tijden
 
 Een dans met 5 tellen in de maat.

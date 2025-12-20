@@ -1,16 +1,7 @@
 ---
 title: "dansstage"
 ---
-
-:::caution
-
-Dit bestand is aangevuld middels AI.
-Ga er vanuit dat alles hierin onzin is, tenzij bevestigd middels een andere bron.
-
-Hulp met aanvullen en verbetering word gewaardeerd!
-
-:::
-
+ 
 ### Dansstage
 
 De dansstage is een weekend vol Balfolk dansen in Enschede. Er zijn workshops voor ieder niveau, dus iedereen die van dansen houdt, van beginner tot gevorderde, is van harte welkom op dit weekend.
