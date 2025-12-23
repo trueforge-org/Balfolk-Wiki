@@ -7,7 +7,7 @@ Romantische parendans
 
 ## Opstelling
 
-Half-open houding, gewoon in paren over de dansvloer heen.
+[Half-open houding](../../../algemeen/danshouding.md), gewoon in paren over de dansvloer heen.
 
 ## Basis
 
@@ -45,37 +45,6 @@ Half-open houding, gewoon in paren over de dansvloer heen.
 
   - mazurka-mazurka-mazurka-wals
 
-  - wat je voelt op basis van de muziek
-
-### Mazurka
-
-#### Opstelling
-
-[Half-open houding](../../../algemeen/danshouding.md), gewoon in paren over de dansvloer heen.
-
-#### Basis
-
-- De Volger begint rechts, de Leider links
-- De dans bestaat uit een afwisseling van een mazurka-maat en een wals-maat
-  - **Mazurka**: 1-2-wacht
-  - **Wals**: 1-2-3 (heen en weer)
-
-- De wachtvoet wordt bij de volgende 1 weer neergezet
-
-#### Aanwijzingen
-
-- Bij de _wacht_ wordt het gewicht stil gehouden boven het standbeen. Dit is heel belangrijk.
-- Bij de _wacht_ kun je wel lichtjes veren door het standbeen.
-
-#### Variaties
-
-- rustig rondjes linksom of rechtsom draaien
-- naar voren of naar achteren lopen
-- in plaats van 1-2-3 alleen een 1 maken, hier het gewicht echt op houden en zo de hele maat blijven
-- in plaats van de 1-2-wacht alleen een 1 maken, hier het gewicht echt op houden en zo de hele maat blijven
-- in plaats van mazurka-wals-mazurka-wals andere variaties:
-  - mazurka-mazurka-wals-wals
-  - mazurka-mazurka-mazurka-wals
   - wat je voelt op basis van de muziek
 
 - zie het tweede onderstaande filmpje (van bert en nog iemand) voor inspiratie, daar worden zeer veel mooie variaties gedanst.

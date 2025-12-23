@@ -58,7 +58,7 @@ De muziek wordt vlot en fel gespeeld, zorg dus dat je in die cadans blijft.
 
 ### Tarantella
 
-De Tarantella is een leuk pseudo-Italiaans dansje — het is binnen balfolk sterk gechoreografeerd en daarom niet te vergelijken met de oorspronkelijke Italiaanse improvisatiedans. Het kan zijn dat de dans zijn naam dankt aan de Italiaanse stad Tarente, maar het verhaal gaat ook dat de naam afstamt van de Tarantula spin. Het zou een dans zijn tegen het spinnengif en de Tarantella moet daarom ook fel gespeeld en gedanst worden: het spinnengif moet eruit gezweet!
+Zie de algemene beschrijving bovenaan deze pagina.
 
 ## Instructiefilmpjes
 
@@ -72,5 +72,3 @@ Speel de muziek vlot en fel en zorg waar de dans dit nodig heeft voor een fijne 
 
 - Bladmuziek [Cicerenella](http://bladmuziek.dennisreidsma.nl/gonnagles/index.php/tunes/single/90 "http://bladmuziek.dennisreidsma.nl/gonnagles/index.php/tunes/single/90"):
 - Opname [Cicerenella](http://bladmuziek.dennisreidsma.nl/gonnagles/index.php/tunes/single/90 "http://bladmuziek.dennisreidsma.nl/gonnagles/index.php/tunes/single/90"):
-
-#### Opstelling

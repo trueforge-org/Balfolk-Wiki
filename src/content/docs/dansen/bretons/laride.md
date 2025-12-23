@@ -76,26 +76,8 @@ In 1 of meerdere lange slierten. Mannetje/vrouwtje maakt niet uit
 
 - Nog even over die pinken: de palm van je hand wijst omlaag. Je pink
   zit dan dus aan de "buitenkant" van je hand.
-
-### Laride
-
-Er is nog geen omschrijving toegevoegd
-
-#### Opstelling
-
-In 1 of meerdere lange slierten.
-
-#### Basis
-
-##### Voeten
-
-##### Armen
-
-#### Aanwijzingen
-
-Zie An Dro
-
-### Voorbeeld muziekjes en filmpjes
+ 
+## Voorbeeld muziekjes en filmpjes
 
 - Laridé 8 temps
 
@@ -105,5 +87,7 @@ Zie An Dro
 <iframe allowfullscreen="" frameborder="0" height="350" scrolling="no" src="https://www.youtube.com/embed/4mZwUelKKw0" width="425"></iframe>
 
 <iframe allowfullscreen="" frameborder="0" height="350" scrolling="no" src="https://www.youtube.com/embed/aEqJLL9o60U" width="425"></iframe>
+
+
 
 

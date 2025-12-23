@@ -37,25 +37,6 @@ Heel veel, wees crea! Een kort lijstje:
 - Variaties in ritme: je kan de polkapas afwisselen met de pas van deel
   B van de scottisch, liefst op het einde van een muzikaal deeltje.
 
-### Polka
-
-#### Opstelling
-
-#### Basis
-
-Vrouw begint naar rechts, man naar links: 123 ter plaatse aan de ene kant, 123 ter plaatse aan de andere kant (op 1 kom je neer, op 2 veer je na, op 3 maak je je klaar voor een sprongetje). Onderwijl kun je ronddraaien, waardoor je tegen de klok in gaat op de dansvloer. Na 4 maten kun je bijvoorbeeld 4 keer dezelfde kant op 'hupsen' zonder te draaien, dan wel draaien en weer 4 keer dezelfde kant op 'hupsen'.
-
-#### Aanwijzingen
-
-Als je het nog niet zo goed kunt dat je in een rechte lijn de dansvloer tegen de klok in kunt rondgaan, blijf dan in het midden. Zodoende hinder je de meer ervaren dansparen niet.
-
-#### Variaties
-
-Heel veel, wees crea! Een kort lijstje:
-
-- Variaties in stijl: je kan de polka heel plat dansen (bijna niet springen) of net heel springerig
-- Variaties in plaats: de variaties van wals en scottisch zijn ook bruikbaar voor de polka.
-- Variaties in ritme: je kan de polkapas afwisselen met de pas van deel B van de scottisch, liefst op het einde van een muzikaal deeltje.
 
 ### Voorbeeld muziekjes en filmpjes
 
