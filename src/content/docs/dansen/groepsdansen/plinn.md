@@ -43,3 +43,4 @@ Bretonse dansen halen hun energie altijd uit de grond. Er wordt niet hoog gespro
 Tijdens deel 1 en 3: allerlei mogelijke versieringen in het benenwerk tijdens de sprongen. Zolang je maar in het basisritme blijft en de groepsenergie niet verstoort.
 
 Tijdens deel 2: In het trage deel kan je (met de handen altijd gekruist) de partner onder door draaien. In het snelle deel kan je je naar elkaar toedraaien, lichte spanning in de armen zetten en tegen hoge snelheid al plinn-springend rond elkaar draaien.
+
