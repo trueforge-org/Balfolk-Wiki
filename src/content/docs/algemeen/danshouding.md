@@ -3,13 +3,7 @@ title: "Danshouding"
 ---
 
 
-Een goede danshouding is natuurlijk belangrijk. Er zijn een paar
-verschillende houdingen voor koppeldansen. Voor het gemak wordt Volger en
-Leider gebruikt ter aanduiding van de 2 danspartners, maar de rollen
-kunnen ook omgedraaid worden. Ook gebeurt het wel dat 2 Volgers of 2 heren
-met elkaar dansen. Beter kan dus eigenlijk gesproken worden van "leider
-m/v" en "volger m/v" (en zelfs dat kan door bijvoorbeeld een variatie
-uit te voeren binnen een dans veranderen).
+Een goede danshouding maakt subtiele communicatie met de danspartner mogelijk en voorkomt blessures. Hieronder bespreken we de meest voorkomende houdingen voor koppeldansen. We gebruiken de begrippen "Leider" en "Volger" in de omschrijving. Deze dansrollen staan los van gender, maar gaan over het afspreken wie hoofdzakelijk het initiatief neemt (de Leider) en wie impulsen interpreteert en de continuiteit in de dans bewaakt (de Volger).
 
 ## Half-open
 
